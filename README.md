@@ -183,15 +183,29 @@ segmentations.
   [[code]](https://github.com/tarun005/USSS_ICCV19) 
   - Tarun Kalluri, Girish Varma, Manmohan Chandraker, C V Jawahar. *ICCV 2019*
 
-- Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images.
-  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf) 
-  - Yi Zhou, Xiaodong He, Lei Huang, Li Liu, Fan Zhu, Shanshan Cui, Ling Shao. *CVPR 2019*
+- Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations.
+  [[pdf]](https://arxiv.org/abs/1904.05044)
+  [[code]](https://github.com/jiwoon-ahn/irn) 
+  - Jiwoon Ahn, Sunghyun Cho, Suha Kwak. *CVPR 2019*
 
 - FickleNet: Weakly and Semi-Supervised Semantic Image Segmentation Using Stochastic Inference.
   [[pdf]](https://arxiv.org/abs/1902.10421) 
   - Jungbeom Lee, Eunji Kim, Sungmin Lee, Jangho Lee, Sungroh Yoon. *CVPR 2019*
 
 #### 2018
+
+- Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features.
+  [[pdf]](https://arxiv.org/abs/1806.04659)
+  - Xiang Wang, Shaodi You, Xi Li, Huimin Ma. *CVPR 2018*
+
+- Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/1803.10464)
+  [[code]](https://github.com/jiwoon-ahn/psa) 
+  - Jiwoon Ahn, Suha Kwak. *CVPR 2018*
+
+- Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach.
+  [[pdf]](https://arxiv.org/abs/1703.08448) 
+  - Yunchao Wei, Jiashi Feng, Xiaodan Liang, Ming-Ming Cheng, Yao Zhao, Shuicheng Yan. *CVPR 2018*
 
 - Tell Me Where to Look: Guided Attention Inference Network.
   [[pdf]](https://arxiv.org/abs/1802.10171) 
@@ -206,6 +220,11 @@ segmentations.
   [[code]](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)
   - Qizhu Li, Anurag Arnab, Philip H.S. Torr. *ECCV 2018*
 
+- Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing.
+  [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)
+  [[code]](https://github.com/speedinghzl/DSRG)
+  - Zilong Huang, Xinggang Wang, Jiasi Wang, Wenyu Liu, Jingdong Wang.. *ECCV 2018*
+
 #### 2015
 
 - Semi-Supervised Normalized Cuts for Image Segmentation.
@@ -216,6 +235,19 @@ segmentations.
   [[pdf]](https://arxiv.org/abs/1502.02734)
   [[code]](https://github.com/TheLegendAli/DeepLab-Context)
   - George Papandreou, Liang-Chieh Chen, Kevin Murphy, Alan L. Yuille. *ICCV 2015*
+
+- Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/1506.04924)
+  - Seunghoon Hong, Hyeonwoo Noh, Bohyung Han. *NIPS 2015*
+
+- BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/1503.01640)
+  - Jifeng Dai, Kaiming He, Jian Sun. *CVPR 2015*
+
+- Simple Does It: Weakly Supervised Instance and Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/1603.07485)
+  [[code]](https://github.com/johnnylu305/Simple-does-it-weakly-supervised-instance-and-semantic-segmentation)
+  - Anna Khoreva, Rodrigo Benenson, Jan Hosang, Matthias Hein, Bernt Schiele. *CVPR 2017*
 
 #### 2016
 
@@ -252,8 +284,18 @@ segmentations.
   - Pengxiang Yan, Guanbin Li, Yuan Xie, Zhen Li, Chuan Wang, Tianshui Chen, Liang Lin. *ICCV 2019*
 
 - Transferable Semi-Supervised 3D Object Detection From RGB-D Data.
-  [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Tang_Large_Scale_Semi-Supervised_CVPR_2016_paper.pdf) 
+  [[pdf]](https://arxiv.org/abs/1904.10300) 
   - Yew Siang Tang, Gim Hee Lee. *ICCV 2019*
+
+- Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/1904.11693) 
+  - Chunfeng Song, Yan Huang, Wanli Ouyang, Liang Wang. *CVPR 2019*
+
+#### 2018
+
+- Adversarial Complementary Learning for Weakly Supervised Object Localization.
+  [[pdf]](https://arxiv.org/abs/1804.06962) 
+  - Xiaolin Zhang, Yunchao Wei, Jiashi Feng, Yi Yang, Thomas Huang. *CVPR 2018*
 
 #### 2016
 
