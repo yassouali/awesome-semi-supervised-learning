@@ -8,9 +8,9 @@ A curated list of awesome Semi-Supervised Learning resources. Inspired by [aweso
 
 ## Background
 
-<figure style="width: 30%" class="align-center">
+<figure style="width: 30%; text-align: center;" class="align-center">
   <img src="https://i.imgur.com/PJ340SK.png" alt="">
-  <figcaption>Fig.An example of the influence of unlabeled data in semi-supervised learning.
+  <figcaption>An example of the influence of unlabeled data in semi-supervised learning.
   (Image source: <a href="https://en.wikipedia.org/wiki/Semi-supervised_learning">Wikipedia</a>)
   </figcaption>
 </figure>
