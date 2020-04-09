@@ -8,12 +8,14 @@ A curated list of awesome Semi-Supervised Learning resources. Inspired by [aweso
 
 ## Background
 
-<figure style="width: 30%; text-align: center;" class="align-center">
-  <img src="https://i.imgur.com/PJ340SK.png" alt="">
+ <figure>
+  <p align="center">
+    <img src="[figures/convs.png](https://i.imgur.com/PJ340SK.png)" width="300">
+  </p>
   <figcaption>An example of the influence of unlabeled data in semi-supervised learning.
   (Image source: <a href="https://en.wikipedia.org/wiki/Semi-supervised_learning">Wikipedia</a>)
   </figcaption>
-</figure>
+</figure> 
 
 #### What is Semi-Supervised Learning?
 > It is a special form of classification. Traditional classifiers use only labeled data (feature / label pairs)
