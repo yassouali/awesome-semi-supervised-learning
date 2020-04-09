@@ -1164,7 +1164,7 @@ learning methods, that uses weak labels (eg, image classes) for object and segme
 #### 2019
 
 - The information-theoretic value of unlabeled data in semi-supervised learning. 
-  [[pdf]](https://arxiv.org/abs/1612.08875) 
+  [[pdf]](https://arxiv.org/abs/1901.05515) 
   - Alexander Golovnev, David Pal, Balazs Szorenyi. *ICML 2019*
 
 - Analysis of Network Lasso for Semi-Supervised Regression. 
