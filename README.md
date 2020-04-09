@@ -10,21 +10,20 @@ A curated list of awesome Semi-Supervised Learning resources. Inspired by [aweso
 
  <figure>
   <p align="center">
-    <img src="https://i.imgur.com/PJ340SK.png" width="500">
+    <img src="https://i.imgur.com/PJ340SK.png" width="700">
+    <figcaption>An example of the influence of unlabeled data in semi-supervised learning.
+    (Image source: <a href="https://en.wikipedia.org/wiki/Semi-supervised_learning">Wikipedia</a>)
+    </figcaption>
   </p>
-  <figcaption>An example of the influence of unlabeled data in semi-supervised learning.
-  (Image source: <a href="https://en.wikipedia.org/wiki/Semi-supervised_learning">Wikipedia</a>)
-  </figcaption>
 </figure> 
 
 #### What is Semi-Supervised Learning?
-> It is a special form of classification. Traditional classifiers use only labeled data (feature / label pairs)
+It is a special form of classification. Traditional classifiers use only labeled data (feature / label pairs)
 to train. Labeled instances however are often difficult, expensive, or time consuming to obtain, as they require the efforts
 of experienced human annotators. Meanwhile unlabeled data may be relatively easy to collect,
 but there has been few ways to use them.  **Semi-supervised learning** addresses this problem by
 using large amount of unlabeled data, together with the labeled data, to build better classifiers.
 Because semi-supervised learning requires less human effort and gives higher accuracy, it is of great interest both in theory and in practice.
-> <footer>Semi-Supervised Learning Literature Survey</footer>
 
 #### How many semi-supervised learning methods are there?
 Many. Some often-used methods include: EM with generative mixture models, self-training, consistency regularization,
@@ -33,7 +32,7 @@ And with the advent of deep learning, the majority of these methods were adapted
 into existing deep learning frameworks to take advantage of unlabled data.
 
 #### How do semi-supervised learning methods use unlabeled data?
-> Semi-supervised learning methods use unlabeled data to either modify or reprioritize hypotheses obtained
+Semi-supervised learning methods use unlabeled data to either modify or reprioritize hypotheses obtained
 from labeled data alone. Although not all methods are probabilistic, it is easier to look at methods that
 represent hypotheses by *p(y|x)*, and unlabeled data by *p(x)*. Generative models have common parameters
 for the joint distribution *p(x,y)*.  It is easy to see that *p(x)* influences *p(y|x)*. 
@@ -42,7 +41,6 @@ Many other methods are discriminative, including transductive SVM, Gaussian proc
 graph-based and the majority of deep learning based methods.
 Original discriminative training cannot be used for semi-supervised learning, since *p(y|x)* is estimated ignoring *p(x)*. To solve the problem,
 *p(x)* dependent terms are often brought into the objective function, which amounts to assuming *p(y|x)* and *p(x)* share parameters
-> <footer>Semi-Supervised Learning Literature Survey</footer>
 
 
 ## Contributing
@@ -59,15 +57,6 @@ If you find any errors, or you wish to add some papers, please feel free to cont
   - Author 1, Author 2, and Author 3. *Conference Year*
 ```
 
-
-
-
-
-
-
-
-
-
 ## Table of Contents
   - [Computer Vision](#computer-vision)
   - [Machine Learning](#machine-learning)
@@ -77,8 +66,6 @@ If you find any errors, or you wish to add some papers, please feel free to cont
   - [Talks](#talks)
   - [Thesis](#thesis)
   - [Blog](#blog)
-
-
 
 ## Books
 
