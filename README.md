@@ -4,7 +4,9 @@
   <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
 </p>
 
-A curated list of awesome Semi-Supervised Learning resources. Inspired by [awesome-domain-adaptation](https://github.com/kjw0612/awesome-deep-vision), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
+A curated list of awesome Semi-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
+
+## Background
 
 #### What is Self-Supervised Learning?
 
@@ -15,7 +17,7 @@ A curated list of awesome Semi-Supervised Learning resources. Inspired by [aweso
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-If you find any errors, or you wish to add some papers, please feel free to contribute to this list by contacting [me](https://yassouali.github.io/) or by creating a [pull request](https://github.com/yassouali/awesome-semi-supervised-learning/pulls) following the Markdown format bellow:
+If you find any errors, or you wish to add some papers, please feel free to contribute to this list by contacting [me](https://yassouali.github.io/) or by creating a [pull request](https://github.com/yassouali/awesome-semi-supervised-learning/pulls) using the following Markdown format:
 
 ```markdown
 - Paper Name. 
@@ -23,6 +25,15 @@ If you find any errors, or you wish to add some papers, please feel free to cont
   [[code]](link)
   - Author 1, Author 2, and Author 3. *Conference Year*
 ```
+
+
+
+
+
+
+
+
+
 
 ## Table of Contents
   - [Computer Vision](#computer-vision)
@@ -34,25 +45,31 @@ If you find any errors, or you wish to add some papers, please feel free to cont
   - [Thesis](#thesis)
   - [Blog](#blog)
 
-## Computer Vision
-Note that for Image and Object segmentation tasks, we also include weakly-supervised
-learning methods, that uses weak labels (eg, image classes) for object detaction or image
-segmentations.
 
 
+## Books
 
-
-
-
-
+- Semi-Supervised Learning Book.
+  [[pdf]](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)
+  - Olivier Chapelle, Bernhard Schölkopf, Alexander Zien. *IEEE Transactions on Neural Networks 2009*
 
 
 ## Surveys & Overview
 
-- Realistic Evaluation of Deep Semi-Supervised Learning Algorithms 
+- Realistic Evaluation of Deep Semi-Supervised Learning Algorithms.
   [[pdf]](https://arxiv.org/abs/1804.09170)
   [[code]](https://github.com/brain-research/realistic-ssl-evaluation)
   - Avital Oliver, Augustus Odena, Colin Raffel, Ekin D. Cubuk, Ian J. Goodfellow. *NIPS 2018*
+
+- Semi-Supervised Learning Literature Survey.
+  [[pdf]](http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf)
+  - Xiaojin Zhu. *2008*
+
+
+## Computer Vision
+Note that for Image and Object segmentation tasks, we also include weakly-supervised
+learning methods, that uses weak labels (eg, image classes) for object detaction or image
+segmentations.
 
 
 
@@ -115,8 +132,14 @@ segmentations.
 
 #### 2018
 
+- Virtual adversarial training: a regularization method for supervised and semi-supervised learning.
+  [[pdf]](https://arxiv.org/abs/1704.03976)
+  [[code]](https://github.com/lyakaap/VAT-pytorch)
+  - Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Shin Ishii. *IEEE Transactions on Pattern Analysis and Machine Intelligence 2018*
+
 - Deep Co-Training for Semi-Supervised Image Recognition.
-  [[pdf]](https://arxiv.org/abs/1803.05984)[[code]](https://github.com/AlanChou/Deep-Co-Training-for-Semi-Supervised-Image-Recognition)
+  [[pdf]](https://arxiv.org/abs/1803.05984)
+  [[code]](https://github.com/AlanChou/Deep-Co-Training-for-Semi-Supervised-Image-Recognition)
   - Siyuan Qiao, Wei Shen, Zhishuai Zhang, Bo Wang, Alan Yuille. *ECCV 2018*
 
 - HybridNet: Classification and Reconstruction Cooperation for Semi-Supervised Learning. 
@@ -135,6 +158,14 @@ segmentations.
   [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Safa_Cicek_SaaS_Speed_as_ECCV_2018_paper.pdf) 
   - Safa Cicek, Alhussein Fawzi and Stefano Soatto. *ECCV 2018*
 
+- ARC: Adversarial Robust Cuts for Semi-Supervised and Multi-Label Classification.
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17309) 
+  - Sima Behpour, Wei Xing, Brian D. Ziebart. *AAAI 2018*
+
+- Adversarial Dropout for Supervised and Semi-Supervised Learning.
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16322) 
+  -  Sungrae Park, JunKeon Park, Su-Jin Shin, Il-Chul Moon. *AAAI 2018*
+
 #### 2017
 
 - Learning by Association -- A Versatile Semi-Supervised Training Method for Neural Networks.
@@ -146,15 +177,27 @@ segmentations.
   [[code]](https://github.com/kamathhrishi/PATE)
   - Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar.  *ICLR 2017*
 
--  Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results.
+- Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results.
   [[pdf]](https://arxiv.org/abs/1703.01780) 
   [[code]](https://github.com/CuriousAI/mean-teacher)
   - Samuli Laine, Timo Aila.  *NIPS 2017*
 
--  Temporal Ensembling for Semi-Supervised Learning.
-  [[pdf]](https://arxiv.org/abs/1610.05755) 
+- Temporal Ensembling for Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/1610.02242) 
   [[code]](https://github.com/benathi/fastswa-semi-sup)
   - Samuli Laine, Timo Aila.  *ICLR 2017*
+
+- Discriminative Semi-Supervised Dictionary Learning with Entropy Regularization for Pattern Classification.
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14517) 
+  - Meng Yang, Lin Chen. *AAAI 2017*
+
+- Semi-Supervised Classifications via Elastic and Robust Embedding.
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/15033) 
+  - Yun Liu, Yiming Guo, Hua Wang, Feiping Nie, Heng Huang. *AAAI 2017*
+
+- Multi-View Clustering and Semi-Supervised Classification with Adaptive Neighbours.
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14833) 
+  - Feiping Nie, Guohao Cai, Xuelong Li. *AAAI 2017*
 
 
 #### 2016
@@ -198,35 +241,9 @@ segmentations.
   [[pdf]](http://openaccess.thecvf.com/content_iccv_2013/papers/Wang_Dynamic_Label_Propagation_2013_ICCV_paper.pdf) 
   - Bo Wang, Zhuowen Tu, John K. Tsotsos. *ICCV 2013*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Pseudo-Label :  The Simple and Efficient Semi-Supervised LearningMethod for Deep Neural Networks.
+  [[pdf]](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf) 
+  - Dong-Hyun Lee. *ICML Workshop 2013*
 
 
 ### Image Retrieval
@@ -323,6 +340,10 @@ segmentations.
   [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)
   [[code]](https://github.com/speedinghzl/DSRG)
   - Zilong Huang, Xinggang Wang, Jiasi Wang, Wenyu Liu, Jingdong Wang.. *ECCV 2018*
+
+- Transferable Semi-Supervised Semantic Segmentation.
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16348)
+  - Huaxin Xiao, Yunchao Wei, Yu Liu, Maojun Zhang, Jiashi Feng. *AAAI 2018*
 
 #### 2015
 
@@ -523,6 +544,10 @@ segmentations.
   [[pdf]](https://arxiv.org/abs/1709.01591) 
   - Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz. *CVPR 2018*
 
+- Semi-Supervised Bayesian Attribute Learning for Person Re-Identification.
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17325) 
+  - Wenhe Liu, Xiaojun Chang, Ling Chen, Yi Yang. *AAAI 2018*
+
 #### 2017
 
 - Semi-Supervised Deep Learning for Monocular Depth Map Prediction.
@@ -575,26 +600,45 @@ segmentations.
 
 ## Multi-modal SSL
 
+#### 2010
+
+- A Convex Formulation for Semi-Supervised Multi-Label Feature Selection. 
+  [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8594) 
+  - Xiaojun Chang, Feiping Nie, Yi Yang, Heng Huang. *AAAI 2014*
+
 #### 2013
 
 - Heterogeneous Image Features Integration via Multi-modal Semi-supervised Learning Model. 
   [[pdf]](http://openaccess.thecvf.com/content_iccv_2013/papers/Cai_Heterogeneous_Image_Features_2013_ICCV_paper.pdf) 
-  - Xiao Cai, Feiping Nie, Weidong Cai, Heng Huang. *Conf*
+  - Xiao Cai, Feiping Nie, Weidong Cai, Heng Huang. *ICCV 2013*
 
+#### 2010
 
+-  Multimodal semi-supervised learning for image classification. 
+  [[pdf]](https://hal.inria.fr/inria-00548640/document) 
+  - Matthieu Guillaumin, Jakob Verbeek, Cordelia Schmid. *CVPR 2010*
 
 
 
 
 ## Regression
 
-#### 2015
+#### 2018
+
+- Minimax-optimal semi-supervised regression on unknown manifolds. 
+  [[pdf]](http://proceedings.mlr.press/v54/moscovich17a/moscovich17a.pdf) 
+  - Amit Moscovich, Ariel Jaffe, Nadler Boaz . *AISTATS 2017*
 
 - Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance. 
   [[pdf]](https://arxiv.org/abs/1805.10407) 
   [[code]](https://github.com/ermongroup/ssdkl)
   - Danilo Bzdok, Michael Eickenberg, Olivier Grisel, Bertrand Thirion, Ga ̈el Varoquaux. *NIPS 2018*
 
+#### 2017
+
+- Learning Safe Prediction for Semi-Supervised Regression. 
+  [[pdf]](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14587) 
+  - Yu-Feng Li, Han-Wen Zha, Zhi-Hua Zhou. *AAAI 2017*
 
 #### 2015
 
@@ -673,11 +717,15 @@ segmentations.
   [[pdf]](https://arxiv.org/abs/1511.06390) 
   - Jost Tobias Springenberg. *ICLR 2016*
 
+- Semi-Supervised Learning with Generative Adversarial Networks.
+  [[pdf]](https://arxiv.org/abs/1606.01583) 
+  - Augustus Odena. *ICML 2016*
+
 #### 2014
 
 - Semi-supervised Learning with Deep Generative Models.
   [[pdf]](https://arxiv.org/abs/1406.5298) 
-  - Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling. *NIPS 2016*
+  - Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling. *NIPS 2014*
 
 
 
@@ -712,7 +760,18 @@ segmentations.
   [[pdf]](https://arxiv.org/abs/2001.06137) 
   - Chunyan Xu, Zhen Cui, Xiaobin Hong, Tong Zhang, Jian Yang, Wei Liu. *ICLR 2020*
 
+
+
 #### 2019
+
+- Improved Semi-Supervised Learning with Multiple Graphs. 
+  [[pdf]](http://proceedings.mlr.press/v89/viswanathan19a/viswanathan19a.pdf)
+  - Krishnamurthy Viswanathan, Sushant Sachdeva, Andrew Tomkins, Sujith Ravi, Partha Talukdar. *AISTATS 2019*
+
+- Confidence-based Graph Convolutional Networks for Semi-Supervised Learning. 
+  [[pdf]](http://proceedings.mlr.press/v89/vashishth19a/vashishth19a.pdf)
+  [[code]](https://github.com/malllabiisc/ConfGCN)
+  - Shikhar Vashishth, Prateek Yadav, Manik Bhandari, Partha Talukdar. *AISTATS 2019*
 
 - Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs. 
   [[pdf]](https://arxiv.org/abs/1910.14147)
@@ -746,7 +805,23 @@ segmentations.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Label_Efficient_Semi-Supervised_Learning_via_Graph_Filtering_CVPR_2019_paper.pdf) 
   - Qimai Li, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, Zhichao Guan. *CVPR 2019*
 
+- Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attribute Networks. 
+  [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/3780) 
+  - Di Jin, Ziyang Liu, Weihao Li, Dongxiao He, Weixiong Zhang. *AAAI 2019*
+
+- Matrix Completion for Graph-Based Deep Semi-Supervised Learning. 
+  [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/4438) 
+  - Fariborz Taherkhani, Hadi Kazemi, Nasser M. Nasrabadi. *AAAI 2019*
+
+- Bayesian Graph Convolutional Neural Networks for Semi-Supervised Classification. 
+  [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/4531) 
+  - Yingxue Zhang, Soumyasundar Pal, Mark Coates, Deniz Ustebay. *AAAI 2019*
+
 #### 2018
+
+- Semi-Supervised Learning via Compact Latent Space Clustering. 
+  [[pdf]](http://proceedings.mlr.press/v80/kamnitsas18a/kamnitsas18a.pdf) 
+  - Konstantinos Kamnitsas, Daniel Castro, Loic Le Folgoc, Ian Walker, Ryutaro Tanno, Daniel Rueckert, Ben Glocker, Antonio Criminisi, Aditya Nori. *ICML 2018*
 
 - Bayesian Semi-supervised Learning with Graph Gaussian Processes. 
   [[pdf]](https://arxiv.org/abs/1809.04379) 
@@ -756,6 +831,15 @@ segmentations.
   [[pdf]](https://arxiv.org/abs/1711.00258) 
   - Yucen Luo, Jun Zhu, Mengxi Li, Yong Ren, Bo Zhang. *CVPR 2018*
 
+- Deeper Insights Into Graph Convolutional Networks for Semi-Supervised Learning. 
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16098) 
+  - Y Qimai Li, Zhichao Han, Xiao-ming W. *AAAI 2018*
+
+- Interpretable Graph-Based Semi-Supervised Learning via Flows. 
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16396) 
+  - Raif M. Rustamov, James T. Klosowski. *AAAI 2018*
+
+
 #### 2017
 
 - Semi-Supervised Classification with Graph Convolutional Networks.
@@ -763,7 +847,22 @@ segmentations.
   [[code]](https://github.com/tkipf/pygcn)
   - Thomas N. Kipf, Max Welling. *ICLR 2017*
 
+#### 2016
+
+-  Large-Scale Graph-Based Semi-Supervised Learning via Tree Laplacian Solver.
+  [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11943)
+  - Yan-Ming Zhang, Xu-Yao Zhang, Xiao-Tong Yuan, Cheng-Lin Liu. *AAAI 2016*
+
+- Revisiting Semi-Supervised Learning with Graph Embeddings.
+  [[pdf]](http://proceedings.mlr.press/v48/yanga16.pdf)
+  [[code]](https://github.com/tkipf/gcn)
+  - Zhilin Yang, William Cohen, Ruslan Salakhudinov. *ICML 2016*
+
 #### 2014
+
+- Graph-based Semi-supervised Learning: Realizing Pointwise Smoothness Probabilistically. 
+  [[pdf]](http://proceedings.mlr.press/v32/fang14.pdf) 
+  - Yuan Fang, Kevin Chang, Hady Lauw. *ICML 2014*
 
 - A Multigraph Representation for Improved Unsupervised/Semi-supervised Learning of Human Actions. 
   [[pdf]](http://openaccess.thecvf.com/content_cvpr_2014/papers/Jones_A_Multigraph_Representation_2014_CVPR_paper.pdf) 
@@ -796,6 +895,29 @@ segmentations.
 - Semi-Supervised Learning with Max-Margin Graph Cuts. 
   [[pdf]](http://proceedings.mlr.press/v9/kveton10a/kveton10a.pdf) 
   - Branislav Kveton, Michal Valko, Ali Rahimi, Ling Huang. *AISTATS 2010*
+
+- Large Graph Construction for Scalable Semi-Supervised Learning. 
+  [[pdf]](https://icml.cc/Conferences/2010/papers/16.pdf) 
+  - Wei Liu, Junfeng He, Shih-Fu Chang. *ICML 2010*
+
+#### 2009
+
+- Graph construction and b-matching for semi-supervised learning. 
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/1553374.1553432?download=true) 
+  - Tony Jebara, Jun Wang, Shih-Fu Chang. *ICML 2009*
+
+#### 2005 
+
+- Cluster Kernels for Semi-Supervised Learning. 
+  [[pdf]](http://papers.nips.cc/paper/2257-cluster-kernels-for-semi-supervised-learning.pdf) 
+  - Olivier Chapelle, Jason Weston, Bernhard Scholkopf. *NIPS 2005*
+
+#### 2004 
+
+- Regularization and Semi-supervised Learning on Large Graphs. 
+  [[pdf]](https://link.springer.com/content/pdf/10.1007%2Fb98522.pdf) 
+  - Mikhail Belkin, Irina Matveeva, Partha Niyogi. *COLT 2004*
+
 
 
 
@@ -858,18 +980,59 @@ segmentations.
 
 ### Classification
 
+#### 2019
+
+-  Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function. 
+  [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/4672) 
+  - Devendra Singh Sachan, Manzil Zaheer, Ruslan Salakhutdinov. *AAAI 2019*
+
 #### 2018
 
 - Semi-Supervised Learning with Declaratively Specified Entropy Constraints. 
   [[pdf]](https://arxiv.org/abs/1605.07725) 
   - Haitian Sun, William W. Cohen, Lidong Bing. *NIPS 2018*
 
+- Semi-Supervised Prediction-Constrained Topic Models. 
+  [[pdf]](http://proceedings.mlr.press/v84/hughes18a/hughes18a.pdf) 
+  - Michael Hughes, Gabriel Hope, Leah Weiner, Thomas McCoy, Roy Perlis, Erik Sudderth, Finale Doshi-Velez. *AISTATS 2018*
+
+- SEE: Towards Semi-Supervised End-to-End Scene Text Recognition. 
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16270) 
+  -  Christian Bartz, Haojin Yang, Christoph Meinel. *AAAI 2018*
+
+- Inferring Emotion from Conversational Voice Data: A Semi-Supervised Multi-Path Generative Neural Network Approach. 
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17236) 
+  - Suping Zhou, Jia Jia, Qi Wang, Yufei Dong, Yufeng Yin, Kehua Leis. *AAAI 2018*
+
 #### 2017
+
+- Variational Autoencoder for Semi-Supervised Text Classification. 
+  [[pdf]](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14299) 
+  -  Weidi Xu, Haoze Sun, Chao Deng, Ying Tan. *AAAI 2017*
+
+- Semi-Supervised Multi-View Correlation Feature Learning with Application to Webpage Classification. 
+  [[pdf]](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582) 
+  - Xiao-Yuan Jing, Fei Wu, Xiwei Dong, Shiguang Shan, Songcan Chen. *AAAI 2017*
 
 - Adversarial Training Methods for Semi-Supervised Text Classification. 
   [[pdf]](https://arxiv.org/abs/1605.07725) 
   [[code]](https://github.com/tensorflow/models/tree/master/research/adversarial_text)
   - Chelsea Finn, Tianhe Yu, Justin Fu, Pieter Abbeel, Sergey Levine. *ICLR 2017*
+
+#### 2016
+
+- A Semi-Supervised Learning Approach to Why-Question Answering. 
+  [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12208) 
+  -  Jong-Hoon Oh, Kentaro Torisawa, Chikara Hashimoto, Ryu Iida, Masahiro Tanaka, Julien Kloetzer. *AAAI 2016*
+
+- Semi-Supervised Multinomial Naive Bayes for Text Classification by Leveraging Word-Level Statistical Constraint. 
+  [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12019) 
+  - Li Zhao, Minlie Huang, Ziyu Yao, Rongwei Su, Yingying Jiang, Xiaoyan Zhu. *AAAI 2016*
+
+- Supervised and Semi-Supervised Text Categorization using LSTM for Region Embeddings. 
+  [[pdf]](http://proceedings.mlr.press/v48/johnson16.pdf) 
+  [[code]](https://github.com/tensorflow/models/tree/master/research/adversarial_text)
+  - Rie Johnson, Tong Zhang. *ICML 2016*
 
 #### 2015
 
@@ -882,6 +1045,27 @@ segmentations.
   [[pdf]](https://arxiv.org/abs/1504.01255) 
   - Rie Johnson, Tong Zhang. *NIPS 2015*
 
+- Mining User Intents in Twitter: A Semi-Supervised Approach to Inferring Intent Categories for Tweets. 
+  [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9794) 
+  -  Jinpeng Wang, Gao Cong, Xin Wayne Zhao, Xiaoming Li. *AAAI 2015*
+
+#### 2014
+
+- Semi-Supervised Matrix Completion for Cross-Lingual Text Classification. 
+  [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8298) 
+  - Min Xiao, Yuhong Guo. *AAAI 2014*
+
+#### 2013
+
+- Effective Bilingual Constraints for Semi-Supervised Learning of Named Entity Recognizers. 
+  [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6346) 
+  -  Mengqiu Wang, Wanxiang Che, Christopher D. Manning. *AAAI 2013*
+
+#### 2008
+
+- SemiBoost: Boosting for Semi-Supervised Learning. 
+  [[pdf]](https://www.cse.msu.edu/~rongjin/publications/pami_finalformat.pdf) 
+  - Pavan Kumar Mallapragada, Rong Jin, Anil K. Jain, Yi Liu. *IEEE Transactions on Pattern Analysis and Machine Intelligence 2015*
 
 
 
@@ -890,25 +1074,81 @@ segmentations.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Theory
+## Other
 
 #### 2018
+
+- Semi-Supervised Learning on Data Streams via Temporal Label Propagation. 
+  [[pdf]](http://proceedings.mlr.press/v80/wagner18a/wagner18a.pdf) 
+  - Tal Wagner, Sudipto Guha, Shiva Kasiviswanathan, Nina Mishra . *ICML 2018*
+
+#### 2017
+
+- Kernelized Evolutionary Distance Metric Learning for Semi-Supervised Clustering. 
+  [[pdf]](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14714) 
+  -  Wasin Kalintha, Satoshi Ono, Masayuki Numao, Ken-ichi Fukui. *AAAI 2017*
+
+#### 2016
+
+- Robust Semi-Supervised Learning through Label Aggregation. 
+  [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12312) 
+  - Yan Yan, Zhongwen Xu, Ivor W. Tsang, Guodong Long, Yi Yang. *AAAI 2016*
+
+- Semi-Supervised Dictionary Learning via Structural Sparse Preserving. 
+  [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11980) 
+  - Di Wang, Xiaoqin Zhang, Mingyu Fan, Xiuzi Ye. *AAAI 2016*
+
+#### 2013
+
+- Efficient Semi-supervised and Active Learning of Disjunctions. 
+  [[pdf]](http://proceedings.mlr.press/v28/balcan13.pdf) 
+  - Nina Balcan, Christopher Berlind, Steven Ehrlich, Yingyu Liang. *ICML 2013*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Theory 
+
+
+#### 2019
+
+- The information-theoretic value of unlabeled data in semi-supervised learning. 
+  [[pdf]](https://arxiv.org/abs/1612.08875) 
+  - Alexander Golovnev, David Pal, Balazs Szorenyi. *ICML 2019*
+
+- Analysis of Network Lasso for Semi-Supervised Regression. 
+  [[pdf]](http://proceedings.mlr.press/v89/jung19a/jung19a.pdf) 
+  - Alexander Jung, Natalia Vesselinova. *AISTATS 2019*
+
+- Semi-supervised clustering for de-duplication. 
+  [[pdf]](http://proceedings.mlr.press/v89/kushagra19a/kushagra19a.pdf) 
+  - Shrinu Kushagra, Shai Ben-David, Ihab Ilyas . *AISTATS 2019*
+
+#### 2018
+
+- Semi-Supervised Learning with Competitive Infection Models. 
+  [[pdf]](http://proceedings.mlr.press/v84/rosenfeld18a/rosenfeld18a.pdf) 
+  - Nir Rosenfeld, Amir Globerson. *AISTATS 2018*
 
 - The Pessimistic Limits and Possibilities of Margin-based Losses in Semi-supervised Learning. 
   [[pdf]](https://arxiv.org/abs/1612.08875) 
@@ -918,17 +1158,59 @@ segmentations.
   [[pdf]](https://papers.nips.cc/paper/8144-the-sample-complexity-of-semi-supervised-learning-with-nonparametric-mixture-models.pdf) 
   - Chen Dan, Liu Leqi, Bryon Aragam, Pradeep Ravikumar, Eric P. Xing. *NIPS 2018*
 
+#### 2017
+
+- Semi-Supervised Classification Based on Classification from Positive and Unlabeled Data. 
+  [[pdf]](http://proceedings.mlr.press/v70/sakai17a/sakai17a.pdf) 
+  - Tomoya Sakai, Marthinus Christoffel Plessis, Gang Niu, Masashi Sugiyama. *ICML 2017*
+
+#### 2016
+
+- Semi-Supervised Learning with Adaptive Spectral Transform. 
+  [[pdf]](http://proceedings.mlr.press/v51/liu16.pdf) 
+  - Hanxiao Liu, Yiming Yang. *AISTATS 2016*
+
+- Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation. 
+  [[pdf]](http://proceedings.mlr.press/v51/ravi16.pdf) 
+  - Sujith Ravi, Qiming Diao. *AISTATS 2016*
+
+#### 2014
+
+- Wasserstein Propagation for Semi-Supervised Learning. 
+  [[pdf]](http://proceedings.mlr.press/v32/solomon14.pdf) 
+  - Justin Solomon, Raif Rustamov, Leonidas Guibas, Adrian Butscher. *ICML 2014*
+
+- High Order Regularization for Semi-Supervised Learning of Structured Output Problems. 
+  [[pdf]](http://proceedings.mlr.press/v32/lif14.pdf) 
+  - Yujia Li, Rich Zemel. *ICML 2014*
+
 #### 2013
 
 - Correlated random features for fast semi-supervised learning. 
   [[pdf]](https://papers.nips.cc/paper/5000-correlated-random-features-for-fast-semi-supervised-learning.pdf) 
-  - Brian McWilliams, David Balduzzi, Joachim M. Buhmann. *NIPS 2015*
+  - Brian McWilliams, David Balduzzi, Joachim M. Buhmann. *NIPS 2013*
+
+- Squared-loss Mutual Information Regularization: A Novel Information-theoretic Approach to Semi-supervised Learning. 
+  [[pdf]](http://proceedings.mlr.press/v28/niu13.pdf) 
+  - Gang Niu, Wittawat Jitkrittum, Bo Dai, Hirotaka Hachiya, Masashi Sugiyama. *ICML 2013*
+
+- Infinitesimal Annealing for Training Semi-Supervised Support Vector Machines. 
+  [[pdf]](http://proceedings.mlr.press/v28/ogawa13a.pdf) 
+  - Kohei Ogawa, Motoki Imamura, Ichiro Takeuchi, Masashi Sugiyama. *ICML 2013*
+
+- Semi-supervised Clustering by Input Pattern Assisted Pairwise Similarity Matrix Completion. 
+  [[pdf]](http://proceedings.mlr.press/v28/yi13.pdf) 
+  - Jinfeng Yi, Lijun Zhang, Rong Jin, Qi Qian, Anil Jain. *ICML 2013*
 
 #### 2012
 
 - A Simple Algorithm for Semi-supervised Learning withImproved Generalization Error Bound. 
   [[pdf]](https://arxiv.org/pdf/1206.6412.pdf) 
   - Ming Ji, Tianbao Yang, Binbin Lin, Rong Jin, Jiawei Han. *ICML 2012*
+
+- Deterministic Annealing for Semi-Supervised Structured Output Learning. 
+  [[pdf]](http://proceedings.mlr.press/v22/dhillon12/dhillon12.pdf) 
+  - Paramveer Dhillon, Sathiya Keerthi, Kedar Bellare, Olivier Chapelle, Sundararajan Sellamanickam. *AISTATS 2012*
 
 #### 2011
 
@@ -942,16 +1224,73 @@ segmentations.
 
 #### 2010
 
+- Semi-Supervised Dimension Reduction for Multi-Label Classification. 
+  [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1911) 
+  - Buyue Qian, Ian Davidson. *AAAI 2010*
+
 - Semi-Supervised Learning via Generalized Maximum Entropy. 
   [[pdf]](http://proceedings.mlr.press/v9/erkan10a/erkan10a.pdf) 
   - Ayse Erkan, Yasemin Altun. *AISTATS 2010*
+
+- Semi-supervised learning by disagreement. 
+  [[pdf]](https://link.springer.com/content/pdf/10.1007/s10115-009-0209-z.pdf) 
+  - Zhi-Hua Zhou, Ming Li. *Knowledge and Information Systems 2010*
+
+#### 2009
+
+- Semi-supervised Learning by Sparse Representation. 
+  [[pdf]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611972795.68) 
+  - Shuicheng Yan and Huan Wang. *SIAM 2009*
+
+#### 2008
+
+- Worst-case analysis of the sample complexity of semi-supervised learning. 
+  [[pdf]](http://colt2008.cs.helsinki.fi/papers/92-Ben-David.pdf) 
+  - Shai Ben-David, Tyler Lu, David Pal. *COLT 2008*
+
+#### 2007
+
+- Generalization error bounds in semi-supervised classification under the cluster assumption. 
+  [[pdf]](http://www.jmlr.org/papers/volume8/rigollet07a/rigollet07a.pdf) 
+  - Philippe Rigollet. *JMLR 2007*
+
+#### 2005
+
+- Semi-supervised learning by entropy minimization. 
+  [[pdf]](http://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) 
+  - Yves Grandvalet, Yoshua Bengio. *NIPS 2005*
+
+- A co-regularization approach to semi-supervised learning with multiple views. 
+  [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.7181&rep=rep1&type=pdf) 
+  - Vikas Sindhwani, Partha Niyogi, Mikhail Belkin. *ICML 2005*
+
+#### 2003
+
+- Semi-supervised learning using gaussian fields and harmonic functions. 
+  [[pdf]](https://www.aaai.org/Papers/ICML/2003/ICML03-118.pdf?source=post_page---------------------------) 
+  - Xiaojin Zhu, Zoubin Ghahramani, John Lafferty. *ICML 2003*
+
+- Semi-supervised learning of mixture models. 
+  [[pdf]](https://www.aaai.org/Papers/ICML/2003/ICML03-016.pdf) 
+  - Fabio Gagliardi Cozman, Ira Cohen, Marcelo Cesar Cirelo. *ICML 2003*
+
+#### 1998
+
+- Combining labeled and unlabeled data with co-training. 
+  [[pdf]](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf) 
+  - Tom Michael Mitchell, Tom Mitchell. *COLT 1998*
+
+
+
 
 
 
 ## Talks
 
 ## Thesis
-- xxxxx. Author. [[pdf]]().
+- Fundamental limitations of semi-supervised learnin. *Tyler Tian Lu.* [[pdf]](https://uwspace.uwaterloo.ca/bitstream/handle/10012/4387/lumastersthesis_electronic.pdf).
+- Semi-Supervised Learning with Graphs. *Xiaojin Zhu.* [[pdf]](http://pages.cs.wisc.edu/~jerryzhu/pub/thesis.pdf).
+- Semi-Supervised Learning for Natural Language. *Percy Liang.* [[pdf]](https://www-cs.stanford.edu/~pliang/papers/meng-thesis.pdf).
 
 ## Blog
 
