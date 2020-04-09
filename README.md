@@ -60,8 +60,6 @@ If you find any errors, or you wish to add some papers, please feel free to cont
 
 ## Table of contents
 
-  - [Background](#background)
-  - [Contributing](#contributing)
   - [Books](#books)
   - [Surveys & Overview](#surveys--overview)
   - [Computer Vision](#computer-vision)
