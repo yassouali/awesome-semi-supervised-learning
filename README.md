@@ -10,7 +10,7 @@ A curated list of awesome Semi-Supervised Learning resources. Inspired by [aweso
 
  <figure>
   <p align="center">
-    <img src="[figures/convs.png](https://i.imgur.com/PJ340SK.png)" width="300">
+    <img src="https://i.imgur.com/PJ340SK.png" width="500">
   </p>
   <figcaption>An example of the influence of unlabeled data in semi-supervised learning.
   (Image source: <a href="https://en.wikipedia.org/wiki/Semi-supervised_learning">Wikipedia</a>)
