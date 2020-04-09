@@ -42,6 +42,7 @@ graph-based and the majority of deep learning based methods.
 Original discriminative training cannot be used for semi-supervised learning, since *p(y|x)* is estimated ignoring *p(x)*. To solve the problem,
 *p(x)* dependent terms are often brought into the objective function, which amounts to assuming *p(y|x)* and *p(x)* share parameters
 
+(source: [SSL Literature Survey.](http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf))
 
 ## Contributing
 <p align="center">
@@ -73,7 +74,6 @@ If you find any errors, or you wish to add some papers, please feel free to cont
   [[pdf]](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)
   - Olivier Chapelle, Bernhard Schölkopf, Alexander Zien. *IEEE Transactions on Neural Networks 2009*
 
-
 ## Surveys & Overview
 
 - Realistic Evaluation of Deep Semi-Supervised Learning Algorithms.
@@ -84,7 +84,6 @@ If you find any errors, or you wish to add some papers, please feel free to cont
 - Semi-Supervised Learning Literature Survey.
   [[pdf]](http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf)
   - Xiaojin Zhu. *2008*
-
 
 ## Computer Vision
 Note that for Image and Object segmentation tasks, we also include weakly-supervised
@@ -1485,7 +1484,6 @@ segmentations.
   [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.487.2431&rep=rep1&type=pdf) 
   - Zhou Zhi-Hua and Li Ming. *IEEE Transactions on knowledge and Data Engineering 2005*
 
-
 #### 2003
 
 - Semi-supervised learning using gaussian fields and harmonic functions. 
@@ -1506,9 +1504,16 @@ segmentations.
 
 
 
-
 ## Talks
-
+- Semi-Supervised Learning and Unsupervised Distribution Alignment. [[youtube]](https://www.youtube.com/watch?v=PXOhi6m09bA).
+  - *CS294-158-SP20 UC Berkeley.* 
+- Semi-Supervised Learning and Unsupervised Distribution Alignment. [[youtube]](https://www.youtube.com/watch?v=j_-JaMPnhr0).
+  - *Pydata, Andreas Merentitis, Carmine Paolino, Vaibhav Singh.*
+- Overview of Unsupervised & Semi-supervised learning. [[youtube]](https://www.youtube.com/watch?v=tnpXLK_AS_U).
+  - *AISC, Shazia Akbar.* 
+- Semi-Supervised Learning. [[youtube]](https://www.youtube.com/watch?v=OMRlnKupsXM)
+  [[slides]](https://www.cs.cmu.edu/%7Etom/10701_sp11/slides/LabUnlab-3-17-2011.pdf).
+  - *CMU Machine Learning 10-701, Tom M. Mitchell .* 
 
 
 ## Thesis
@@ -1517,8 +1522,7 @@ segmentations.
 - Semi-Supervised Learning for Natural Language. *Percy Liang.* [[pdf]](https://www-cs.stanford.edu/~pliang/papers/meng-thesis.pdf).
 
 
-
-
 ## Blog
+- An overview of proxy-label approaches for semi-supervised learning. *Sebastian Ruder.* [[link]](https://ruder.io/semi-supervised/index.html).
 
 
