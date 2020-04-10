@@ -251,7 +251,7 @@ learning methods, that uses weak labels (eg, image classes) for object and segme
 - Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results.
   [[pdf]](https://arxiv.org/abs/1703.01780) 
   [[code]](https://github.com/CuriousAI/mean-teacher)
-  - Samuli Laine, Timo Aila.  *NIPS 2017*
+  - Antti Tarvainen, Harri Valpola.  *NIPS 2017*
 
 - Temporal Ensembling for Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/1610.02242) 
@@ -352,6 +352,15 @@ learning methods, that uses weak labels (eg, image classes) for object and segme
 
 #### 2019
 
+- Semi-Supervised Semantic Segmentation with High- and Low-level Consistency.
+  [[pdf]](https://arxiv.org/abs/1908.05724)
+  [[code]](https://github.com/sud0301/semisup-semseg) 
+  - Wei-Chih Hung, Yi-Hsuan Tsai, Yan-Ting Liou, Yen-Yu Lin, Ming-Hsuan Yang. *TPAMI 2019*
+
+- Semi-supervised semantic segmentation needs strong, high-dimensional perturbations.
+  [[pdf]](https://arxiv.org/abs/1906.01916)
+  - Geoff French, Timo Aila, Samuli Laine, Michal Mackiewicz, Graham Finlayson. *Preprint 2019*
+
 - CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing.
   [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Duarte_CapsuleVOS_Semi-Supervised_Video_Object_Segmentation_Using_Capsule_Routing_ICCV_2019_paper.pdf)
   [[code]](https://github.com/KevinDuarte/CapsuleVOS) 
@@ -372,6 +381,11 @@ learning methods, that uses weak labels (eg, image classes) for object and segme
   - Jungbeom Lee, Eunji Kim, Sungmin Lee, Jangho Lee, Sungroh Yoon. *CVPR 2019*
 
 #### 2018
+
+- Adversarial Learning for Semi-Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/1806.04659)
+  [[code]](https://github.com/hfslyc/AdvSemiSeg)
+  - Wei-Chih Hung, Yi-Hsuan Tsai, Yan-Ting Liou, Yen-Yu Lin, Ming-Hsuan Yang. *BMVC 2018*
 
 - Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features.
   [[pdf]](https://arxiv.org/abs/1806.04659)
