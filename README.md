@@ -156,10 +156,6 @@ learning methods, that uses weak labels (eg, image classes) for object and segme
   [[code]](https://github.com/google-research/uda)
   - Qizhe Xie, Zihang Dai, Eduard Hovy, Minh-Thang Luong, Quoc V. Le. *Preprint 2019*
 
-- Data-Efficient Image Recognition with Contrastive Predictive Coding. 
-  [[pdf]](https://arxiv.org/abs/1905.09272)
-  - Olivier J. Hénaff, Aravind Srinivas, Jeffrey De Fauw, Ali Razavi, Carl Doersch, S. M. Ali Eslami, Aaron van den Oord. *Preprint 2019*
-
 - Dual Student: Breaking the Limits of the Teacher in Semi-Supervised Learning. 
   [[pdf]](https://arxiv.org/abs/1909.01804)
   [[code]](https://github.com/ZHKKKe/DualStudent)
