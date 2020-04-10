@@ -424,6 +424,10 @@ learning methods, that uses weak labels (eg, image classes) for object and segme
 
 #### 2017
 
+- Semi Supervised Semantic Segmentation Using Generative Adversarial Network.
+  [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Souly__Semi_Supervised_ICCV_2017_paper.pdf)
+  - Nasim Souly, Concetto Spampinato, Mubarak Shah. *ICCV 2017*
+
 - Simple Does It: Weakly Supervised Instance and Semantic Segmentation.
   [[pdf]](https://arxiv.org/abs/1603.07485)
   [[code]](https://github.com/johnnylu305/Simple-does-it-weakly-supervised-instance-and-semantic-segmentation)
