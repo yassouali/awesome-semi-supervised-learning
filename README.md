@@ -124,6 +124,11 @@ learning methods, that uses weak labels (eg, image classes) for object and segme
   [[pdf]](https://arxiv.org/abs/2003.10580)
   - Hieu Pham, Qizhe Xie, Zihang Dai, Quoc V. Le. *Preprint 2020*
 
+- A Simple Framework for Contrastive Learning of Visual Representations.
+  [[pdf]](https://arxiv.org/abs/2002.05709)
+  [[code]](https://github.com/google-research/simclr)
+  - Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton. *Preprint 2020*
+
 - FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence. 
   [[pdf]](https://arxiv.org/abs/2001.07685)
   [[code]](https://github.com/google-research/fixmatch)
