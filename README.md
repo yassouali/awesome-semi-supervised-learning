@@ -1468,5 +1468,6 @@ learning methods, that uses weak labels (eg, image classes) for object and segme
 
 ## Blogs
 - An overview of proxy-label approaches for semi-supervised learning. *Sebastian Ruder.* [[link]](https://ruder.io/semi-supervised/index.html).
+- The Illustrated FixMatch for Semi-Supervised Learning. *Amit Chaudhary.* [[link]](https://amitness.com/2020/03/fixmatch-semi-supervised/)
 
 
