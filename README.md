@@ -115,7 +115,7 @@ If you find any errors, or you wish to add some papers, please feel free to cont
 
 ## Computer Vision
 Note that for Image and Object segmentation tasks, we also include weakly-supervised
-learning methods, that uses weak labels (eg, image classes) for object and segmentation.
+learning methods, that uses weak labels (eg, image classes) for detection and segmentation.
 
 ### Image Classification
 
