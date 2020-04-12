@@ -1349,7 +1349,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery.
   [[pdf]](https://arxiv.org/abs/1907.08225)
-  [[code]](https://github.com/renmengye/few-shot-ssl-public)
   - Kristian Hartikainen, Xinyang Geng, Tuomas Haarnoja, Sergey Levine. *ICLR 2020*
 
 #### 2018
