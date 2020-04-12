@@ -1345,7 +1345,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 ## Reinforcement Learning, Meta-Learning & Robotics
 
-#### 2018
+#### 2020
 
 - Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery.
   [[pdf]](https://arxiv.org/abs/1907.08225)
