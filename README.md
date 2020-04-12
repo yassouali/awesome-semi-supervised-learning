@@ -9,15 +9,6 @@ A curated list of awesome Semi-Supervised Learning resources. Inspired by [aweso
 
 ## Background
 
- <figure>
-  <p align="center">
-    <img src="https://i.imgur.com/PJ340SK.png" width="600">
-    <figcaption>An example of the influence of unlabeled data in semi-supervised learning.
-    (Image source: <a href="https://en.wikipedia.org/wiki/Semi-supervised_learning">Wikipedia</a>)
-    </figcaption>
-  </p>
-</figure> 
-
 #### What is Semi-Supervised Learning?
 It is a special form of classification. Traditional classifiers use only labeled data (feature / label pairs)
 to train. Labeled instances however are often difficult, expensive, or time consuming to obtain, as they require the efforts
@@ -44,6 +35,15 @@ Original discriminative training cannot be used for semi-supervised learning, si
 *p(x)* dependent terms are often brought into the objective function, which amounts to assuming *p(y|x)* and *p(x)* share parameters
 
 (source: [SSL Literature Survey.](http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf))
+
+ <figure>
+  <p align="center">
+    <img src="https://i.imgur.com/PJ340SK.png" width="600">
+    <figcaption>An example of the influence of unlabeled data in semi-supervised learning.
+    (Image source: <a href="https://en.wikipedia.org/wiki/Semi-supervised_learning">Wikipedia</a>)
+    </figcaption>
+  </p>
+</figure> 
 
 ## Contributing
 <p align="center">
