@@ -307,6 +307,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2014
 
+- Learning with Pseudo-Ensembles.
+  [[pdf]](https://arxiv.org/abs/1412.4864) 
+  - Philip Bachman, Ouais Alsharif, Doina Precup. *NIPS 2014*
+
 - Semi-supervised Spectral Clustering for Image Set Classification.
   [[pdf]](http://openaccess.thecvf.com/content_cvpr_2014/papers/Mahmood_Semi-supervised_Spectral_Clustering_2014_CVPR_paper.pdf) 
   - Arif Mahmood, Ajmal Mian, Robyn Owens. *CVPR 2014*
