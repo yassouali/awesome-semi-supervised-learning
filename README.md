@@ -1344,6 +1344,12 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://www.aaai.org/Papers/ICML/2003/ICML03-016.pdf) 
   - Fabio Gagliardi Cozman, Ira Cohen, Marcelo Cesar Cirelo. *ICML 2003*
 
+#### 2002
+
+- Learning from labeled and unlabeled data with label propagation. 
+  [[pdf]](https://pdfs.semanticscholar.org/8a6a/114d699824b678325766be195b0e7b564705.pdf) 
+  - Xiaojin Zhu, Zoubin Ghahramani. *NIPS 2002*
+
 #### 1998
 
 - Combining labeled and unlabeled data with co-training. 
