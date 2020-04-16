@@ -347,11 +347,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
-- Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection.
-  [[pdf]](https://arxiv.org/abs/2004.04725)
-  [[code]](https://github.com/NVlabs/wetectron) 
-  - Zhongzheng Ren, Zhiding Yu, Xiaodong Yang, Ming-Yu Liu, Yong Jae Lee, Alexander G. Schwing, Jan Kautz. *CVPR 2020*
-
 - Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation.
   [[pdf]](https://arxiv.org/abs/2004.04581)
   [[code]](https://github.com/YudeWang/SEAM) 
@@ -498,10 +493,16 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 ### Object Detection
+#### 2020
+
+- Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection.
+  [[pdf]](https://arxiv.org/abs/2004.04725)
+  [[code]](https://github.com/NVlabs/wetectron) 
+  - Zhongzheng Ren, Zhiding Yu, Xiaodong Yang, Ming-Yu Liu, Yong Jae Lee, Alexander G. Schwing, Jan Kautz. *CVPR 2020*
 
 #### 2019
 
-- Consistency-based Semi-supervised Learning forObject Detection.
+- Consistency-based Semi-supervised Learning for Object Detection.
   [[pdf]](https://papers.nips.cc/paper/9259-consistency-based-semi-supervised-learning-for-object-detection.pdf)
   [[code]](https://github.com/soo89/CSD-SSD)
   - Jisoo Jeong, Seungeui Lee, Jeesoo Kim, Nojun Kwak. *ICCV 2019*
