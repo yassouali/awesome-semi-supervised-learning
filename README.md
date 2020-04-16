@@ -198,7 +198,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   - Jacob Jackson, John Schulman. *Preprint 2019*
 
 - Interpolation Consistency Training for Semi-Supervised Learning. 
-  [[pdf]](https://arxiv.org/abs/1904.04717)
+  [[pdf]](https://arxiv.org/abs/1903.03825)
   [[code]](https://github.com/vikasverma1077/ICT)
   - Vikas Verma, Alex Lamb, Juho Kannala, Yoshua Bengio, David Lopez-Paz. *IJCAI 2019*
 
