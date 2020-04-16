@@ -204,6 +204,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2018
 
+- Adversarial Dropout for Supervised and Semi-Supervised Learning.
+  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16322) 
+  -  Sungrae Park, JunKeon Park, Su-Jin Shin, Il-Chul Moon. *AAAI 2018*
+
 - Virtual adversarial training: a regularization method for supervised and semi-supervised learning.
   [[pdf]](https://arxiv.org/abs/1704.03976)
   [[code]](https://github.com/lyakaap/VAT-pytorch)
@@ -234,9 +238,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17309) 
   - Sima Behpour, Wei Xing, Brian D. Ziebart. *AAAI 2018*
 
-- Adversarial Dropout for Supervised and Semi-Supervised Learning.
-  [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16322) 
-  -  Sungrae Park, JunKeon Park, Su-Jin Shin, Il-Chul Moon. *AAAI 2018*
 
 #### 2017
 
