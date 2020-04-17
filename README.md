@@ -148,7 +148,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2019
 
 - MixMatch: A Holistic Approach to Semi-Supervised Learning. 
-  [[pdf]](https://arxiv.org/abs/1909.01804)
+  [[pdf]](https://arxiv.org/abs/1905.02249)
   [[code]](https://github.com/google-research/mixmatch)
   - David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel. *NIPS 2019*
 
