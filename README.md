@@ -216,6 +216,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[code]](https://github.com/lyakaap/VAT-pytorch)
   - Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Shin Ishii. *IEEE Transactions on Pattern Analysis and Machine Intelligence 2018*
 
+- Transductive Semi-Supervised Deep Learningusing Min-Max Features.
+  [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Weiwei_Shi_Transductive_Semi-Supervised_Deep_ECCV_2018_paper.pdf)
+  - Weiwei Shi, Yihong Gong, Chris Ding, Zhiheng Ma, Xiaoyu Tao, Nanning Zheng. *ECCV 2018*
+
 - Deep Co-Training for Semi-Supervised Image Recognition.
   [[pdf]](https://arxiv.org/abs/1803.05984)
   [[code]](https://github.com/AlanChou/Deep-Co-Training-for-Semi-Supervised-Image-Recognition)
@@ -569,10 +573,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2019
 
-- Semi-Supervised Generative Adversarial Hashing for Image Retrieval.
-  [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guanan_Wang_Semi-Supervised_Generative_Adversarial_ECCV_2018_paper.pdf)
-  - Guan'an Wang, Qinghao Hu, Jian Cheng, Zengguang Hou. *ECCV 2018*
-
 - Learning to Self-Train for Semi-Supervised Few-Shot Classification.
   [[pdf]](https://arxiv.org/abs/1906.00562)
   [[code]](https://github.com/xinzheli1217/learning-to-self-train)
@@ -616,6 +616,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   - Mengshi Qi, Yunhong Wang, Jie Qin, Annan Li. *CVPR 2019*
 
 #### 2018
+
+- Semi-Supervised Generative Adversarial Hashing for Image Retrieval.
+  [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guanan_Wang_Semi-Supervised_Generative_Adversarial_ECCV_2018_paper.pdf)
+  - Guan'an Wang, Qinghao Hu, Jian Cheng, Zengguang Hou. *ECCV 2018*
 
 - Improving Landmark Localization With Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/1709.01591) 
@@ -691,7 +695,18 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 ## NLP
 
+#### 2020
+- Revisiting self-training for neural sequence generation. 
+  [[pdf]](https://arxiv.org/abs/1909.13788)
+  [[code]](https://github.com/jxhe/self-training-text-generation) 
+  - Junxian He, Jiatao Gu, Jiajun Shen, Marc'Aurelio Ranzato. *ICLR 2020*
+
 #### 2019
+
+- Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training. 
+  [[pdf]](https://arxiv.org/abs/1909.00415) 
+  - Giannis Karamanolakis, Daniel Hsu, Luis Gravano. *EMNLP 2019*
+
 - Semi-supervised Semantic Role Labeling Using the Latent Words Language Model. 
   [[pdf]](https://www.aclweb.org/anthology/D09-1003.pdf) 
   - Koen Deschacht, Marie-Francine Moens. *EMNLP 2019*
@@ -816,6 +831,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   - Chelsea Finn, Tianhe Yu, Justin Fu, Pieter Abbeel, Sergey Levine. *ICLR 2017*
 
 #### 2016
+
+- Dual Learning for Machine Translation. 
+  [[pdf]](https://arxiv.org/abs/1611.00179) 
+  - Yingce Xia, Di He, Tao Qin, Liwei Wang, Nenghai Yu, Tie-Yan Liu, Wei-Ying Ma. *NIPS 2016*
 
 - Semi-supervised Clustering for Short Text via Deep Representation Learning. 
   [[pdf]](https://www.aclweb.org/anthology/K16-1004.pdf) 
