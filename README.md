@@ -240,6 +240,9 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17309) 
   - Sima Behpour, Wei Xing, Brian D. Ziebart. *AAAI 2018*
 
+- Tri-net for Semi-Supervised Deep Learning.
+  [[pdf]](https://www.ijcai.org/Proceedings/2018/0278.pdf) 
+  - Dong-Dong Chen, Wei Wang, Wei Gao,  Zhi-Hua Zhou. *IJICAI 2018*
 
 #### 2017
 
