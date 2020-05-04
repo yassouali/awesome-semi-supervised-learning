@@ -1021,7 +1021,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Semi-Supervised Learning with Generative Adversarial Networks.
   [[pdf]](https://arxiv.org/abs/1606.01583) 
-  - Augustus Odena. *ICML 2016*
+  - Augustus Odena. *Preprint 2016*
 
 #### 2014
 
