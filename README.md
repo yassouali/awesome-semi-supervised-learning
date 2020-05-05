@@ -970,7 +970,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2019
 
 - MarginGAN: Adversarial Training in Semi-Supervised Learning.
-  [[pdf]](https://arxiv.org/abs/1807.09875)
+  [[pdf]](https://arxiv.org/abs/1704.03817)
   [[code]](https://github.com/xdu-DJhao/MarginGAN) 
   - Jinhao Dong, Tong Lin. *NIPS 2019*
 
@@ -1016,7 +1016,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2016
 
 -  Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks.
-  [[pdf]](https://arxiv.org/abs/1511.06390) 
+   [[pdf]](https://arxiv.org/abs/1511.06390) 
   - Jost Tobias Springenberg. *ICLR 2016*
 
 - Semi-Supervised Learning with Generative Adversarial Networks.
