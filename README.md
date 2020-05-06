@@ -49,9 +49,6 @@ Original discriminative training cannot be used for semi-supervised learning, si
 </figure> 
 
 ## Contributing
-<p align="center">
-  <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
-</p>
 
 If you find any errors, or you wish to add some papers, please feel free to contribute to this list by contacting [me](https://yassouali.github.io/) or by creating a [pull request](https://github.com/yassouali/awesome-semi-supervised-learning/pulls) using the following Markdown format:
 
