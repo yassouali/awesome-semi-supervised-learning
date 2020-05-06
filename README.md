@@ -991,6 +991,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2017
 
+- Triple Generative Adversarial Nets.
+  [[pdf]](https://arxiv.org/abs/1703.02291) 
+  - Chongxuan Li, Kun Xu, Jun Zhu, Bo Zhang. *NIPS 2017*
+
 - Semi-Supervised Learning for Optical Flow with Generative Adversarial Networks.
   [[pdf]](https://arxiv.org/abs/1705.08850) 
   - Wei-Sheng Lai, Jia-Bin Huang, Ming-Hsuan Yang. *NIPS 2017*
@@ -1013,6 +1017,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/1611.07800) 
   - Ehsan Abbasnejad, Anthony Dick, Anton van den Hengel. *CVPR 2017*
 
+- Semi-Supervised QA with Generative Domain-Adaptive Nets.
+  [[pdf]](https://arxiv.org/abs/1702.02206) 
+  - Zhilin Yang, Junjie Hu, Ruslan Salakhutdinov, William W. Cohen. *ACL 2017*
+
+ 
 #### 2016
 
 - Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks..
