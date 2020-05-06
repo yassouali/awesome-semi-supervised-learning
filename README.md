@@ -1024,7 +1024,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
  
 #### 2016
 
-- Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks..
+- Improved Techniques for Training GANs.
+  [[pdf]](https://arxiv.org/abs/1606.03498) 
+  - Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen. *NIPS 2016*
+
+- Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks.
   [[pdf]](https://arxiv.org/abs/1511.06390) 
   - Jost Tobias Springenberg. *ICLR 2016*
 
