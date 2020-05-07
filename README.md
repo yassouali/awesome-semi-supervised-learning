@@ -1021,6 +1021,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
  
 #### 2016
 
+- Auxiliary Deep Generative Models.
+  [[pdf]](https://arxiv.org/abs/1602.05473) 
+  - Lars Maaløe, Casper Kaae Sønderby, Søren Kaae Sønderby, Ole Winther. *ICML 2016*
+
 - Improved Techniques for Training GANs.
   [[pdf]](https://arxiv.org/abs/1606.03498) 
   - Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen. *NIPS 2016*
