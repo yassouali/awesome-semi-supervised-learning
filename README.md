@@ -1018,6 +1018,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/1702.02206) 
   - Zhilin Yang, Junjie Hu, Ruslan Salakhutdinov, William W. Cohen. *ACL 2017*
 
+- Learning Loss Functions for Semi-supervised Learning via Discriminative Adversarial Networks.
+  [[pdf]](https://arxiv.org/abs/1707.02198) 
+  - Cicero Nogueira dos Santos, Kahini Wadhawan, Bowen Zhou. *JMLR 2017*
+
  
 #### 2016
 
