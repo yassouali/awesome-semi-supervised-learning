@@ -497,7 +497,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 ### Object Detection
 #### 2020
-
+- A Simple Semi-Supervised Learning Framework for Object Detection.
+  [[pdf]](https://arxiv.org/abs/2005.04757)
+  [[code]](https://github.com/google-research/ssl_detection/)
+  - Kihyuk Sohn, Zizhao Zhang, Chun-Liang Li, Han Zhang, Chen-Yu Lee, Tomas Pfister. *Preprint 2020*
+  
 - Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection.
   [[pdf]](https://arxiv.org/abs/2004.04725)
   [[code]](https://github.com/NVlabs/wetectron) 
