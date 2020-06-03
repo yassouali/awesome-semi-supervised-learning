@@ -964,9 +964,19 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- Semi-Supervised Learning with Normalizing Flows.
+  [[pdf]](https://arxiv.org/abs/1912.13025) 
+  [[code]](https://github.com/izmailovpavel/flowgmm) 
+  - Pavel Izmailov, Polina Kirichenko, Marc Finzi, Andrew Gordon Wilson. *ICML 2020*
+ 
+- Semi-Supervised StyleGAN for Disentanglement Learning.
+  [[pdf]](https://arxiv.org/abs/2003.03461) 
+  [[code]](https://github.com/NVlabs/High-res-disentanglement-datasets) 
+  - Weili Nie, Tero Karras, Animesh Garg, Shoubhik Debnath, Anjul Patney, Ankit B. Patel, Anima Anandkumar. *ICML 2020*
+
 - Semi-Supervised Generative Modeling for Controllable Speech Synthesis.
   [[pdf]](https://arxiv.org/abs/1910.01709) 
-  - Raza Habib, Soroosh Mariooryad, Matt Shannon, Eric Battenberg, RJ Skerry-Ryan, Daisy Stanton, David Kao, Tom Bagby. *ICLR 2019*
+  - Raza Habib, Soroosh Mariooryad, Matt Shannon, Eric Battenberg, RJ Skerry-Ryan, Daisy Stanton, David Kao, Tom Bagby. *ICLR 2020*
 
 #### 2019
 
@@ -1238,6 +1248,13 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 ## Theory 
+
+#### 2020
+
+- Negative sampling in semi-supervised learning. 
+  [[pdf]](https://arxiv.org/abs/1911.05166) 
+  - John Chen, Vatsal Shah, Anastasios Kyrillidis. *ICML 2020*
+
 
 #### 2019
 
