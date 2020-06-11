@@ -125,6 +125,16 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/2003.10580)
   - Hieu Pham, Qizhe Xie, Zihang Dai, Quoc V. Le. *Preprint 2020*
 
+- WCP: Worst-Case Perturbations for Semi-Supervised Deep Learning. 
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_WCP_Worst-Case_Perturbations_for_Semi-Supervised_Deep_Learning_CVPR_2020_paper.pdf)
+  [[code]](https://github.com/maple-research-lab/WCP)
+  - Liheng Zhang, Guo-Jun Qi. *CVPR 2020*
+
+- Generating Accurate Pseudo-labels in Semi-Supervised Learning and AvoidingOverconfident Predictions via Hermite Polynomial Activations.
+  [[pdf]](https://arxiv.org/abs/1909.05479)
+  [[code]](https://github.com/lokhande-vishnu/DeepHermites)
+  - Vishnu Suresh Lokhande, Songwong Tasneeyapant, Abhay Venkatesh, Sathya N. Ravi, Vikas Singh. *CVPR 2020*
+
 - FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence. 
   [[pdf]](https://arxiv.org/abs/2001.07685)
   [[code]](https://github.com/google-research/fixmatch)
@@ -219,7 +229,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - HybridNet: Classification and Reconstruction Cooperation for Semi-Supervised Learning. 
   [[pdf]](https://arxiv.org/abs/1807.11407) 
-  - Thomas Robert, Nicolas Thome, Matthieu Cord . *ECCV 2018*
+  - Thomas Robert, Nicolas Thome, Matthieu Cord. *ECCV 2018*
 
 - Transductive Centroid Projection for Semi-supervised Large-scale Recognition.
   [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yu_Liu_Transductive_Centroid_Projection_ECCV_2018_paper.pdf) 
@@ -292,7 +302,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Semi-Supervised Low-Rank Mapping Learning for Multi-Label Classification.
   [[pdf]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Jing_Semi-Supervised_Low-Rank_Mapping_2015_CVPR_paper.pdf) 
-  - Liping Jing, Liu Yang, Jian Yu, Michael K. Ng . *CVPR 2015*
+  - Liping Jing, Liu Yang, Jian Yu, Michael K. Ng. *CVPR 2015*
 
 - Semi-Supervised Learning With Explicit Relationship Regularization.
   [[pdf]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Kim_Semi-Supervised_Learning_With_2015_CVPR_paper.pdf) 
@@ -349,6 +359,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Semantic and Instance Segmentation
 
 #### 2020
+
+- Learning Saliency Propagation for Semi-Supervised Instance Segmentation.
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Learning_Saliency_Propagation_for_Semi-Supervised_Instance_Segmentation_CVPR_2020_paper.pdf)
+  [[code]](https://github.com/ucbdrive/ShapeProp) 
+  - Yanzhao Zhou, Xin Wang, Jianbin Jiao, Trevor Darrell, Fisher Yu. *CVPR 2020*
 
 - Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation.
   [[pdf]](https://arxiv.org/abs/2004.04581)
@@ -496,7 +511,14 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 ### Object Detection
+
 #### 2020
+
+- SESS: Self-Ensembling Semi-Supervised 3D Object Detection.
+  [[pdf]](https://arxiv.org/abs/1912.11803)
+  [[code]](https://github.com/Na-Z/sess)
+  - Na Zhao, Tat-Seng Chua, Gim Hee Lee. *CVPR 2020*
+
 - A Simple Semi-Supervised Learning Framework for Object Detection.
   [[pdf]](https://arxiv.org/abs/2005.04757)
   [[code]](https://github.com/google-research/ssl_detection/)
@@ -561,9 +583,80 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   - Yang Yang, Guang Shu, Mubarak Shah. *CVPR 2013*
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Other tasks
 
 #### 2020
+
+- DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data.
+  [[pdf]](https://arxiv.org/abs/1912.04302)
+  [[code]](https://github.com/AljazBozic/DeepDeform)
+  - Aljaž Božič, Michael Zollhöfer, Christian Theobalt, Matthias Nießner. *CVPR 2020*
+
+- Gait Recognition via Semi-supervised Disentangled Representation Learning to Identity and Covariate Features.
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Gait_Recognition_via_Semi-supervised_Disentangled_Representation_Learning_to_Identity_and_CVPR_2020_paper.pdf)
+  - Xiang Li, Yasushi Makihara, Chi Xu, Yasushi Yagi, Mingwu Ren. *CVPR 2020*
+
+- Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2004.01905)
+  - Wending Yan, Aashish Sharma, Robby T. Tan. *CVPR 2020*
+
+- TransMatch: A Transfer-Learning Scheme for Semi-Supervised Few-Shot Learning.
+  [[pdf]](https://arxiv.org/abs/1912.09033)
+  - Zhongjie Yu, Lin Chen, Zhongwei Cheng, Jiebo Luo. *CVPR 2020*
+
+- Data-Efficient Semi-Supervised Learning by Reliable Edge Mining.
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Data-Efficient_Semi-Supervised_Learning_by_Reliable_Edge_Mining_CVPR_2020_paper.pdf)
+  - Peibin Chen, Tao Ma, Xu Qin, Weidi Xu, Shuchang Zhou. *CVPR 2020*
+
+- Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation.
+  [[pdf]](https://arxiv.org/abs/1908.05293)
+  - Rahul Mitra, Nitesh B. Gundavarapu, Abhishek Sharma, Arjun Jain. *CVPR 2020*
+
+- A Multi-Task Mean Teacher for Semi-Supervised Shadow Detection.
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Multi-Task_Mean_Teacher_for_Semi-Supervised_Shadow_Detection_CVPR_2020_paper.pdf)
+  - Zhihao Chen, Lei Zhu, Liang Wan, Song Wang, Wei Feng, Pheng-Ann Heng. *CVPR 2020*
+
+- Semi-Supervised Learning for Few-Shot Image-to-Image Translation.
+  [[pdf]](https://arxiv.org/abs/2003.13853)
+  [[code]](https://github.com/yaxingwang/SEMIT)
+  - Yaxing Wang, Salman Khan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan. *CVPR 2020*
+
+- 3D Sketch-Aware Semantic Scene Completion via Semi-Supervised Structure Prior.
+  [[pdf]](https://arxiv.org/abs/2003.14052)
+  - Xiaokang Chen, Kwan-Yee Lin, Chen Qian, Gang Zeng, Hongsheng Li. *CVPR 2020*
+
+- A Semi-Supervised Assessor of Neural Architectures.
+  [[pdf]](https://arxiv.org/abs/2005.06821)
+  - Yehui Tang, Yunhe Wang, Yixing Xu, Hanting Chen, Chunjing Xu, Boxin Shi, Chao Xu, Qi Tian, Chang Xu. *CVPR 2020*
+
+- FocalMix: Semi-Supervised Learning for 3D Medical Image Detection.
+  [[pdf]](https://arxiv.org/abs/2003.09108)
+  - Dong Wang, Yuan Zhang, Kexin Zhang, Liwei Wang. *CVPR 2020*
+
+- Learning to Detect Important People in Unlabelled Images for Semi-Supervised Important People Detection.
+  [[pdf]](https://arxiv.org/abs/2004.07568)
+  - Fa-Ting Hong, Wei-Hong Li, Wei-Shi Zheng. *CVPR 2020*
+
+- Generalized Product Quantization Network for Semi-Supervised Image Retrieval.
+  [[pdf]](https://arxiv.org/abs/2002.11281)
+  - Young Kyun Jang, Nam Ik Cho. *CVPR 2020*
+
+- From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement.
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_paper.pdf)
+  - Wenhan Yang, Shiqi Wang, Yuming Fang, Yue Wang, Jiaying Liu. *CVPR 2020*
 
 - Deep Semi-Supervised Anomaly Detection.
   [[pdf]](https://arxiv.org/abs/1906.02694)
@@ -648,7 +741,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Adaptively Unified Semi-Supervised Dictionary Learning With Active Points.
   [[pdf]](http://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Adaptively_Unified_Semi-Supervised_ICCV_2015_paper.pdf) 
-  - Xiaobo Wang, Xiaojie Guo, Stan Z. Li . *ICCV 2015*
+  - Xiaobo Wang, Xiaojie Guo, Stan Z. Li. *ICCV 2015*
 
 - Semi-Supervised Zero-Shot Classification With Label Representation Learning.
   [[pdf]](http://openaccess.thecvf.com/content_iccv_2015/papers/Li_Semi-Supervised_Zero-Shot_Classification_ICCV_2015_paper.pdf) 
@@ -964,6 +1057,14 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- Regularizing Discriminative Capability of CGANs for Semi-Supervised Generative Learning.
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Regularizing_Discriminative_Capability_of_CGANs_for_Semi-Supervised_Generative_Learning_CVPR_2020_paper.pdf) 
+  - Yi Liu, Guangchang Deng, Xiangping Zeng, Si Wu, Zhiwen Yu, Hau-San Wong. *CVPR 2020*
+
+- ScrabbleGAN: Semi-Supervised Varying Length Handwritten Text Generation.
+  [[pdf]](https://arxiv.org/abs/2003.10557) 
+  - Sharon Fogel, Hadar Averbuch-Elor, Sarel Cohen, Shai Mazor, Roee Litman. *CVPR 2020*
+
 - Semi-Supervised Learning with Normalizing Flows.
   [[pdf]](https://arxiv.org/abs/1912.13025) 
   [[code]](https://github.com/izmailovpavel/flowgmm) 
@@ -1075,6 +1176,14 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## Graph Based SSL
 
 #### 2020
+
+- Density-Aware Graph for Deep Semi-Supervised Visual Recognition. 
+  [[pdf]](https://arxiv.org/abs/2003.13194)
+  - Suichan Li, Bin Liu, Dongdong Chen, Qi Chu, Lu Yuan, Nenghai Yu. *CVPR 2020*
+
+- Shoestring: Graph-Based Semi-Supervised Classification With Severely Limited Labeled Data. 
+  [[pdf]](https://arxiv.org/abs/1910.12976)
+  - Wanyu Lin, Zhaolin Gao, Baochun Li. *CVPR 2020*
 
 - InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization. 
   [[pdf]](https://arxiv.org/abs/1908.01000)
@@ -1268,7 +1377,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Semi-supervised clustering for de-duplication. 
   [[pdf]](http://proceedings.mlr.press/v89/kushagra19a/kushagra19a.pdf) 
-  - Shrinu Kushagra, Shai Ben-David, Ihab Ilyas . *AISTATS 2019*
+  - Shrinu Kushagra, Shai Ben-David, Ihab Ilyas. *AISTATS 2019*
 
 #### 2018
 
@@ -1459,7 +1568,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Minimax-optimal semi-supervised regression on unknown manifolds. 
   [[pdf]](http://proceedings.mlr.press/v54/moscovich17a/moscovich17a.pdf) 
-  - Amit Moscovich, Ariel Jaffe, Nadler Boaz . *AISTATS 2017*
+  - Amit Moscovich, Ariel Jaffe, Nadler Boaz. *AISTATS 2017*
 
 - Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance. 
   [[pdf]](https://arxiv.org/abs/1805.10407) 
@@ -1493,7 +1602,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Semi-Supervised Learning on Data Streams via Temporal Label Propagation. 
   [[pdf]](http://proceedings.mlr.press/v80/wagner18a/wagner18a.pdf) 
-  - Tal Wagner, Sudipto Guha, Shiva Kasiviswanathan, Nina Mishra . *ICML 2018*
+  - Tal Wagner, Sudipto Guha, Shiva Kasiviswanathan, Nina Mishra. *ICML 2018*
 
 #### 2017
 
