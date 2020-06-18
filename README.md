@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <p align="center">
-  <img width="300" src="https://raw.githubusercontent.com/yassouali/cct_page/1a33673182365d007b3d71ab7f1bebc37e8f091f/files/awesomelogo.svg?token=AKX6MRS3FZLAZOOFUSRPNXC65OL7U" "Awesome!">
+  <img width="300" src="https://i.imgur.com/Ky2jxnj.png" "Awesome!">
 </p>
 
 A curated list of awesome Semi-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning).
