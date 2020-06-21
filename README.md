@@ -121,6 +121,14 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- Big Self-Supervised Models are Strong Semi-Supervised Learners. 
+  [[pdf]](https://arxiv.org/abs/2006.10029)
+  - Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton. *Preprint 2020*
+
+- Building One-Shot Semi-supervised (BOSS) Learning up to Fully Supervised Performance. 
+  [[pdf]](https://arxiv.org/abs/2006.09363)
+  - Leslie N. Smith, Adam Conovaloff. *Preprint 2020*
+
 - Meta Pseudo Labels. 
   [[pdf]](https://arxiv.org/abs/2003.10580)
   - Hieu Pham, Qizhe Xie, Zihang Dai, Quoc V. Le. *Preprint 2020*
@@ -371,7 +379,8 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   - Yude Wang, Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. *CVPR 2020*
 
 - Semi-Supervised Semantic Segmentation with Cross-Consistency Training.
-  [[pdf]](https://arxiv.org/abs/2003.09005) 
+  [[pdf]](https://arxiv.org/abs/2003.09005)
+  [[code]](https://github.com/yassouali/CCT) 
   - Yassine Ouali, Céline Hudelot, Myriam Tami. *CVPR 2020*
 
 - Semi-Supervised Semantic Image Segmentation with Self-correcting Networks.
@@ -1659,5 +1668,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## Blogs
 - An overview of proxy-label approaches for semi-supervised learning. *Sebastian Ruder.* [[link]](https://ruder.io/semi-supervised/index.html).
 - The Illustrated FixMatch for Semi-Supervised Learning. *Amit Chaudhary.* [[link]](https://amitness.com/2020/03/fixmatch-semi-supervised/)
+- An Overview of Deep Semi-Supervised Learning. *Yassine Ouali* [[link]](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
+
 
 
