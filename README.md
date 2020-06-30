@@ -101,7 +101,7 @@ If you find any errors, or you wish to add some papers, please feel free to cont
 - Realistic Evaluation of Deep Semi-Supervised Learning Algorithms.
   [[pdf]](https://arxiv.org/abs/1804.09170)
   [[code]](https://github.com/brain-research/realistic-ssl-evaluation)
-  - Avital Oliver, Augustus Odena, Colin Raffel, Ekin D. Cubuk, Ian J. Goodfellow. *NIPS 2018*
+  - Avital Oliver, Augustus Odena, Colin Raffel, Ekin D. Cubuk, Ian J. Goodfellow. *NeurIPS 2018*
 
 - Semi-Supervised Learning Literature Survey.
   [[pdf]](http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf)
@@ -163,7 +163,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - MixMatch: A Holistic Approach to Semi-Supervised Learning. 
   [[pdf]](https://arxiv.org/abs/1905.02249)
   [[code]](https://github.com/google-research/mixmatch)
-  - David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel. *NIPS 2019*
+  - David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel. *NeurIPS 2019*
 
 - Unsupervised Data Augmentation for Consistency Training. 
   [[pdf]](https://arxiv.org/abs/1904.12848)
@@ -273,7 +273,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results.
   [[pdf]](https://arxiv.org/abs/1703.01780) 
   [[code]](https://github.com/CuriousAI/mean-teacher)
-  - Antti Tarvainen, Harri Valpola.  *NIPS 2017*
+  - Antti Tarvainen, Harri Valpola.  *NeurIPS 2017*
 
 - Temporal Ensembling for Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/1610.02242) 
@@ -294,13 +294,13 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Recurrent Ladder Networks.
   [[pdf]](https://arxiv.org/abs/1707.09219) 
-  - Isabeau Prémont-Schwarz, Alexander Ilin, Tele Hotloo Hao, Antti Rasmus, Rinu Boney, Harri Valpola. *NIPS 2017*
+  - Isabeau Prémont-Schwarz, Alexander Ilin, Tele Hotloo Hao, Antti Rasmus, Rinu Boney, Harri Valpola. *NeurIPS 2017*
 
 #### 2016
 
 - Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning.
-  [[pdf]](https://papers.nips.cc/paper/6333-regularization-with-stochastic-transformations-and-perturbations-for-deep-semi-supervised-learning.pdf) 
-  - Mehdi Sajjadi, Mehran Javanmardi, Tolga Tasdizen. *NIPS 2016*
+  [[pdf]](https://papers.NeurIPS.cc/paper/6333-regularization-with-stochastic-transformations-and-perturbations-for-deep-semi-supervised-learning.pdf) 
+  - Mehdi Sajjadi, Mehran Javanmardi, Tolga Tasdizen. *NeurIPS 2016*
 
 #### 2015
 
@@ -319,7 +319,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Semi-supervised Learning with Ladder Networks.
   [[pdf]](https://arxiv.org/abs/1507.02672)
   [[code]](https://github.com/CuriousAI/ladder) 
-  - Antti Rasmus, Harri Valpola, Mikko Honkala, Mathias Berglund, Tapani Raiko. *NIPS 2015*
+  - Antti Rasmus, Harri Valpola, Mikko Honkala, Mathias Berglund, Tapani Raiko. *NeurIPS 2015*
 
 - Training Deep Neural Networks on Noisy Labels with Bootstrapping.
   [[pdf]](https://arxiv.org/abs/1412.6596)
@@ -330,7 +330,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Learning with Pseudo-Ensembles.
   [[pdf]](https://arxiv.org/abs/1412.4864) 
-  - Philip Bachman, Ouais Alsharif, Doina Precup. *NIPS 2014*
+  - Philip Bachman, Ouais Alsharif, Doina Precup. *NeurIPS 2014*
 
 - Semi-supervised Spectral Clustering for Image Set Classification.
   [[pdf]](http://openaccess.thecvf.com/content_cvpr_2014/papers/Mahmood_Semi-supervised_Spectral_Clustering_2014_CVPR_paper.pdf) 
@@ -487,7 +487,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation.
   [[pdf]](https://arxiv.org/abs/1506.04924)
-  - Seunghoon Hong, Hyeonwoo Noh, Bohyung Han. *NIPS 2015*
+  - Seunghoon Hong, Hyeonwoo Noh, Bohyung Han. *NeurIPS 2015*
 
 - BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation.
   [[pdf]](https://arxiv.org/abs/1503.01640)
@@ -541,7 +541,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2019
 
 - Consistency-based Semi-supervised Learning for Object Detection.
-  [[pdf]](https://papers.nips.cc/paper/9259-consistency-based-semi-supervised-learning-for-object-detection.pdf)
+  [[pdf]](https://papers.NeurIPS.cc/paper/9259-consistency-based-semi-supervised-learning-for-object-detection.pdf)
   [[code]](https://github.com/soo89/CSD-SSD)
   - Jisoo Jeong, Seungeui Lee, Jeesoo Kim, Nojun Kwak. *ICCV 2019*
 
@@ -571,7 +571,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - ExtremeWeather: A large-scale climate dataset for semi-supervised detection, localization, and understanding of extreme weather events.
   [[pdf]](https://arxiv.org/abs/1612.02095) 
-  - Evan Racah, Christopher Beckham, Tegan Maharaj, Samira Ebrahimi Kahou, Prabhat, Christopher Pal. *NIPS 2017*
+  - Evan Racah, Christopher Beckham, Tegan Maharaj, Samira Ebrahimi Kahou, Prabhat, Christopher Pal. *NeurIPS 2017*
 
 #### 2016
 
@@ -677,12 +677,12 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Learning to Self-Train for Semi-Supervised Few-Shot Classification.
   [[pdf]](https://arxiv.org/abs/1906.00562)
   [[code]](https://github.com/xinzheli1217/learning-to-self-train)
-  - Xinzhe Li, Qianru Sun, Yaoyao Liu, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele. *NIPS 2019*
+  - Xinzhe Li, Qianru Sun, Yaoyao Liu, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele. *NeurIPS 2019*
 
 - Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition.
   [[pdf]](https://arxiv.org/abs/1906.02694)
   [[code]](https://github.com/nxsEdson/MLCR)
-  - Xuesong Niu, Hu Han, Shiguang Shan, Xilin Chen. *NIPS 2019*
+  - Xuesong Niu, Hu Han, Shiguang Shan, Xilin Chen. *NeurIPS 2019*
 
 - Semi-Supervised Monocular 3D Face Reconstruction With End-to-End Shape-Preserved Domain Transfer.
   [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Semi-Supervised_Monocular_3D_Face_Reconstruction_With_End-to-End_Shape-Preserved_Domain_Transfer_ICCV_2019_paper.pdf) 
@@ -889,7 +889,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Semi-Supervised Learning with Declaratively Specified Entropy Constraints. 
   [[pdf]](https://arxiv.org/abs/1605.07725) 
-  - Haitian Sun, William W. Cohen, Lidong Bing. *NIPS 2018*
+  - Haitian Sun, William W. Cohen, Lidong Bing. *NeurIPS 2018*
 
 - Semi-Supervised Prediction-Constrained Topic Models. 
   [[pdf]](http://proceedings.mlr.press/v84/hughes18a/hughes18a.pdf) 
@@ -935,7 +935,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Dual Learning for Machine Translation. 
   [[pdf]](https://arxiv.org/abs/1611.00179) 
-  - Yingce Xia, Di He, Tao Qin, Liwei Wang, Nenghai Yu, Tie-Yan Liu, Wei-Ying Ma. *NIPS 2016*
+  - Yingce Xia, Di He, Tao Qin, Liwei Wang, Nenghai Yu, Tie-Yan Liu, Wei-Ying Ma. *NeurIPS 2016*
 
 - Semi-supervised Clustering for Short Text via Deep Representation Learning. 
   [[pdf]](https://www.aclweb.org/anthology/K16-1004.pdf) 
@@ -975,11 +975,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Semi-supervised Sequence Learning. 
   [[pdf]](https://arxiv.org/abs/1511.01432) 
   [[code]](https://github.com/tensorflow/models/tree/master/research/adversarial_text)
-  - Andrew M. Dai, Quoc V. Le. *NIPS 2015*
+  - Andrew M. Dai, Quoc V. Le. *NeurIPS 2015*
 
 - Semi-supervised Convolutional Neural Networks for Text Categorization via Region Embedding. 
   [[pdf]](https://arxiv.org/abs/1504.01255) 
-  - Rie Johnson, Tong Zhang. *NIPS 2015*
+  - Rie Johnson, Tong Zhang. *NeurIPS 2015*
 
 - Mining User Intents in Twitter: A Semi-Supervised Approach to Inferring Intent Categories for Tweets. 
   [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9794) 
@@ -1093,7 +1093,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - MarginGAN: Adversarial Training in Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/1704.03817)
   [[code]](https://github.com/xdu-DJhao/MarginGAN) 
-  - Jinhao Dong, Tong Lin. *NIPS 2019*
+  - Jinhao Dong, Tong Lin. *NeurIPS 2019*
 
 - Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder.
   [[pdf]](https://arxiv.org/abs/1807.09875) 
@@ -1114,25 +1114,25 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Triple Generative Adversarial Nets.
   [[pdf]](https://arxiv.org/abs/1703.02291) 
-  - Chongxuan Li, Kun Xu, Jun Zhu, Bo Zhang. *NIPS 2017*
+  - Chongxuan Li, Kun Xu, Jun Zhu, Bo Zhang. *NeurIPS 2017*
 
 - Semi-Supervised Learning for Optical Flow with Generative Adversarial Networks.
   [[pdf]](https://arxiv.org/abs/1705.08850) 
-  - Wei-Sheng Lai, Jia-Bin Huang, Ming-Hsuan Yang. *NIPS 2017*
+  - Wei-Sheng Lai, Jia-Bin Huang, Ming-Hsuan Yang. *NeurIPS 2017*
 
 - Semi-supervised Learning with GANs: Manifold Invariance with Improved Inference.
   [[pdf]](https://arxiv.org/abs/1705.08850) 
-  - Abhishek Kumar, Prasanna Sattigeri, P. Thomas Fletcher. *NIPS 2017*
+  - Abhishek Kumar, Prasanna Sattigeri, P. Thomas Fletcher. *NeurIPS 2017*
 
 - Learning Disentangled Representations with Semi-Supervised Deep Generative Models.
   [[pdf]](https://arxiv.org/pdf/1705.09783v3.pdf) 
   [[code]](https://github.com/probtorch/probtorch)
-  - N. Siddharth, Brooks Paige, Jan-Willem van de Meent, Alban Desmaison, Noah D. Goodman, Pushmeet Kohli, Frank Wood, Philip H.S. Torr. *NIPS 2017*
+  - N. Siddharth, Brooks Paige, Jan-Willem van de Meent, Alban Desmaison, Noah D. Goodman, Pushmeet Kohli, Frank Wood, Philip H.S. Torr. *NeurIPS 2017*
 
 - Good Semi-supervised Learning that Requires a Bad GAN.
   [[pdf]](https://arxiv.org/pdf/1705.09783v3.pdf) 
   [[code]](https://github.com/kimiyoung/ssl_bad_gan)
-  - Zihang Dai, Zhilin Yang, Fan Yang, William W. Cohen, Ruslan Salakhutdinov. *NIPS 2017*
+  - Zihang Dai, Zhilin Yang, Fan Yang, William W. Cohen, Ruslan Salakhutdinov. *NeurIPS 2017*
 
 - Infinite Variational Autoencoder for Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/1611.07800) 
@@ -1155,7 +1155,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Improved Techniques for Training GANs.
   [[pdf]](https://arxiv.org/abs/1606.03498) 
-  - Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen. *NIPS 2016*
+  - Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen. *NeurIPS 2016*
 
 - Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks.
   [[pdf]](https://arxiv.org/abs/1511.06390) 
@@ -1169,7 +1169,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Semi-supervised Learning with Deep Generative Models.
   [[pdf]](https://arxiv.org/abs/1406.5298) 
-  - Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling. *NIPS 2014*
+  - Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling. *NeurIPS 2014*
 
 
 
@@ -1185,6 +1185,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## Graph Based SSL
 
 #### 2020
+
+- Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates.
+  [[pdf]](https://arxiv.org/abs/2006.11184)
+  - Jeff Calder, Brendan Cook, Matthew Thorpe, Dejan Slepcev. *ICML 2020*
 
 - Density-Aware Graph for Deep Semi-Supervised Visual Recognition. 
   [[pdf]](https://arxiv.org/abs/2003.13194)
@@ -1216,26 +1220,26 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs. 
   [[pdf]](https://arxiv.org/abs/1910.14147)
   [[code]](https://github.com/melopeo/PM_SSL)
-  - Pedro Mercado, Francesco Tudisco, Matthias Hein. *NIPS 2019*
+  - Pedro Mercado, Francesco Tudisco, Matthias Hein. *NeurIPS 2019*
 
 - A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning. 
   [[pdf]](https://arxiv.org/abs/1910.14147)
-  - Xuanqing Liu, Si Si, Xiaojin Zhu, Yang Li, Cho-Jui Hsieh. *NIPS 2019*
+  - Xuanqing Liu, Si Si, Xiaojin Zhu, Yang Li, Cho-Jui Hsieh. *NeurIPS 2019*
 
 - Graph Agreement Models for Semi-Supervised Learning. 
-  [[pdf]](http://papers.nips.cc/paper/9076-graph-agreement-models-for-semi-supervised-learning.pdf)
+  [[pdf]](http://papers.NeurIPS.cc/paper/9076-graph-agreement-models-for-semi-supervised-learning.pdf)
   [[code]](https://github.com/tensorflow/neural-structured-learning)
-  - Otilia Stretcu, Krishnamurthy Viswanathan, Dana Movshovitz-Attias, Emmanouil Platanios, Sujith Ravi, Andrew Tomkins. *NIPS 2019*
+  - Otilia Stretcu, Krishnamurthy Viswanathan, Dana Movshovitz-Attias, Emmanouil Platanios, Sujith Ravi, Andrew Tomkins. *NeurIPS 2019*
 
 - Graph Based Semi-supervised Learning with Convolution Neural Networks to Classify Crisis Related Tweets. 
   [[pdf]](https://arxiv.org/abs/1805.06289)
   [[code]](https://github.com/mlzxzhou/keras-gnm)
-  - Bo Jiang, Ziyan Zhang, Doudou Lin, Jin Tang, Bin Luo. *NIPS 2019*
+  - Bo Jiang, Ziyan Zhang, Doudou Lin, Jin Tang, Bin Luo. *NeurIPS 2019*
 
 - A Flexible Generative Framework for Graph-based Semi-supervised Learning. 
   [[pdf]](https://arxiv.org/abs/1905.10769) 
   [[code]](https://github.com/jiaqima/G3NN)
-  - Jiaqi Ma, Weijing Tang, Ji Zhu, Qiaozhu Mei. *NIPS 2019*
+  - Jiaqi Ma, Weijing Tang, Ji Zhu, Qiaozhu Mei. *NeurIPS 2019*
 
 - Semi-Supervised Learning With Graph Learning-Convolutional Networks. 
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jiang_Semi-Supervised_Learning_With_Graph_Learning-Convolutional_Networks_CVPR_2019_paper.pdf) 
@@ -1265,7 +1269,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Bayesian Semi-supervised Learning with Graph Gaussian Processes. 
   [[pdf]](https://arxiv.org/abs/1809.04379) 
-  - Yin Cheng Ng, Nicolo Colombo, Ricardo Silva. *NIPS 2018*
+  - Yin Cheng Ng, Nicolo Colombo, Ricardo Silva. *NeurIPS 2018*
 
 - Smooth Neighbors on Teacher Graphs for Semi-Supervised Learning. 
   [[pdf]](https://arxiv.org/abs/1711.00258) 
@@ -1311,14 +1315,14 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2014
 
 - Semi-supervised Eigenvectors for Locally-biased Learning. 
-  [[pdf]](https://papers.nips.cc/paper/4560-semi-supervised-eigenvectors-for-locally-biased-learning.pdf) 
-  - Toke Hansen, Michael W. Mahoney. *NIPS 2012*
+  [[pdf]](https://papers.NeurIPS.cc/paper/4560-semi-supervised-eigenvectors-for-locally-biased-learning.pdf) 
+  - Toke Hansen, Michael W. Mahoney. *NeurIPS 2012*
 
 #### 2012
 
 - Semi-supervised Regression via Parallel Field Regularization. 
-  [[pdf]](https://papers.nips.cc/paper/4398-semi-supervised-regression-via-parallel-field-regularization.pdf) 
-  - Binbin Lin, Chiyuan Zhang, Xiaofei He. *NIPS 2011*
+  [[pdf]](https://papers.NeurIPS.cc/paper/4398-semi-supervised-regression-via-parallel-field-regularization.pdf) 
+  - Binbin Lin, Chiyuan Zhang, Xiaofei He. *NeurIPS 2011*
 
 #### 2011
 
@@ -1327,8 +1331,8 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   - Feiping Nie, Hua Wang, Heng Huang, Chris Ding. *ICCV 2011*
 
 - Semi-supervised Regression via Parallel Field Regularization. 
-  [[pdf]](https://papers.nips.cc/paper/4398-semi-supervised-regression-via-parallel-field-regularization.pdf) 
-  - Binbin Lin, Chiyuan Zhang, Xiaofei He. *NIPS 2011*
+  [[pdf]](https://papers.NeurIPS.cc/paper/4398-semi-supervised-regression-via-parallel-field-regularization.pdf) 
+  - Binbin Lin, Chiyuan Zhang, Xiaofei He. *NeurIPS 2011*
 
 #### 2010 
 
@@ -1349,8 +1353,8 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2005 
 
 - Cluster Kernels for Semi-Supervised Learning. 
-  [[pdf]](http://papers.nips.cc/paper/2257-cluster-kernels-for-semi-supervised-learning.pdf) 
-  - Olivier Chapelle, Jason Weston, Bernhard Scholkopf. *NIPS 2005*
+  [[pdf]](http://papers.NeurIPS.cc/paper/2257-cluster-kernels-for-semi-supervised-learning.pdf) 
+  - Olivier Chapelle, Jason Weston, Bernhard Scholkopf. *NeurIPS 2005*
 
 #### 2004 
 
@@ -1396,11 +1400,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - The Pessimistic Limits and Possibilities of Margin-based Losses in Semi-supervised Learning. 
   [[pdf]](https://arxiv.org/abs/1612.08875) 
-  - Jesse H. Krijthe, Marco Loog. *NIPS 2018*
+  - Jesse H. Krijthe, Marco Loog. *NeurIPS 2018*
 
 - The Sample Complexity of Semi-Supervised Learning with Nonparametric Mixture Models. 
-  [[pdf]](https://papers.nips.cc/paper/8144-the-sample-complexity-of-semi-supervised-learning-with-nonparametric-mixture-models.pdf) 
-  - Chen Dan, Liu Leqi, Bryon Aragam, Pradeep Ravikumar, Eric P. Xing. *NIPS 2018*
+  [[pdf]](https://papers.NeurIPS.cc/paper/8144-the-sample-complexity-of-semi-supervised-learning-with-nonparametric-mixture-models.pdf) 
+  - Chen Dan, Liu Leqi, Bryon Aragam, Pradeep Ravikumar, Eric P. Xing. *NeurIPS 2018*
 
 #### 2017
 
@@ -1431,8 +1435,8 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2013
 
 - Correlated random features for fast semi-supervised learning. 
-  [[pdf]](https://papers.nips.cc/paper/5000-correlated-random-features-for-fast-semi-supervised-learning.pdf) 
-  - Brian McWilliams, David Balduzzi, Joachim M. Buhmann. *NIPS 2013*
+  [[pdf]](https://papers.NeurIPS.cc/paper/5000-correlated-random-features-for-fast-semi-supervised-learning.pdf) 
+  - Brian McWilliams, David Balduzzi, Joachim M. Buhmann. *NeurIPS 2013*
 
 - Squared-loss Mutual Information Regularization: A Novel Information-theoretic Approach to Semi-supervised Learning. 
   [[pdf]](http://proceedings.mlr.press/v28/niu13.pdf) 
@@ -1501,8 +1505,8 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2005
 
 - Semi-supervised learning by entropy minimization. 
-  [[pdf]](http://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) 
-  - Yves Grandvalet, Yoshua Bengio. *NIPS 2005*
+  [[pdf]](http://papers.NeurIPS.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) 
+  - Yves Grandvalet, Yoshua Bengio. *NeurIPS 2005*
 
 - A co-regularization approach to semi-supervised learning with multiple views. 
   [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.7181&rep=rep1&type=pdf) 
@@ -1526,7 +1530,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Learning from labeled and unlabeled data with label propagation. 
   [[pdf]](https://pdfs.semanticscholar.org/8a6a/114d699824b678325766be195b0e7b564705.pdf) 
-  - Xiaojin Zhu, Zoubin Ghahramani. *NIPS 2002*
+  - Xiaojin Zhu, Zoubin Ghahramani. *NeurIPS 2002*
 
 #### 1998
 
@@ -1582,7 +1586,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance. 
   [[pdf]](https://arxiv.org/abs/1805.10407) 
   [[code]](https://github.com/ermongroup/ssdkl)
-  - Danilo Bzdok, Michael Eickenberg, Olivier Grisel, Bertrand Thirion, Ga ̈el Varoquaux. *NIPS 2018*
+  - Danilo Bzdok, Michael Eickenberg, Olivier Grisel, Bertrand Thirion, Ga ̈el Varoquaux. *NeurIPS 2018*
 
 #### 2017
 
@@ -1593,8 +1597,8 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2015
 
 - Semi-Supervised Factored Logistic Regression for High-Dimensional Neuroimaging Data. 
-  [[pdf]](https://papers.nips.cc/paper/5646-semi-supervised-factored-logistic-regression-for-high-dimensional-neuroimaging-data.pdf) 
-  - Danilo Bzdok, Michael Eickenberg, Olivier Grisel, Bertrand Thirion, Ga ̈el Varoquaux. *NIPS 2015*
+  [[pdf]](https://papers.NeurIPS.cc/paper/5646-semi-supervised-factored-logistic-regression-for-high-dimensional-neuroimaging-data.pdf) 
+  - Danilo Bzdok, Michael Eickenberg, Olivier Grisel, Bertrand Thirion, Ga ̈el Varoquaux. *NeurIPS 2015*
 
 
 
