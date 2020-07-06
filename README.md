@@ -107,9 +107,13 @@ If you find any errors, or you wish to add some papers, please feel free to cont
   [[pdf]](http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf)
   - Xiaojin Zhu. *2008*
 
+- An Overview of Deep Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2006.05278)
+  - Yassine Ouali, Céline Hudelot, Myriam Tami. *2020*
 
-
-
+- A survey on semi-supervised learning.
+  [[pdf]](https://link.springer.com/content/pdf/10.1007/s10994-019-05855-6.pdf)
+  - Jesper E Van Engelen, Holger H Hoos. *2020*
 
 
 
