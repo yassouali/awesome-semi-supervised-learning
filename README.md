@@ -133,6 +133,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/2006.09363)
   - Leslie N. Smith, Adam Conovaloff. *Preprint 2020*
 
+- Milking CowMask for Semi-Supervised Image Classification. 
+  [[pdf]](https://arxiv.org/abs/2003.12022)
+  [[code]](https://github.com/google-research/google-research/tree/master/milking_cowmask)
+  - Geoff French, Avital Oliver, Tim Salimans. Le. *Preprint 2020*
+
 - Meta Pseudo Labels. 
   [[pdf]](https://arxiv.org/abs/2003.10580)
   - Hieu Pham, Qizhe Xie, Zihang Dai, Quoc V. Le. *Preprint 2020*
@@ -161,6 +166,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://openreview.net/pdf?id=HJgExaVtwr)
   [[code]](https://github.com/LiJunnan1992/DivideMix)
   - Junnan Li, Richard Socher, Steven C.H. Hoi. *ICLR 2020*
+
+- Adversarial Transformations for Semi-Supervised Learning. 
+  [[pdf]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SuzukiT.3743.pdf)
+  - Teppei Suzuki, Ikuro Sato. *AAAI 2020*
 
 #### 2019
 
@@ -1377,10 +1386,17 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- Meta-Semi: A Meta-learning Approach for Semi-supervised Learning. 
+  [[pdf]](https://arxiv.org/abs/2007.02394)
+  - Yulin Wang, Jiayi Guo, Shiji Song, Gao Huang. *Preprint 2020*
+
+- Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning. 
+  [[pdf]](https://arxiv.org/abs/2007.01293)
+  - Zhongzheng Ren, Raymond A. Yeh, Alexander G. Schwing. *Preprint 2020*
+
 - Negative sampling in semi-supervised learning. 
   [[pdf]](https://arxiv.org/abs/1911.05166) 
   - John Chen, Vatsal Shah, Anastasios Kyrillidis. *ICML 2020*
-
 
 #### 2019
 
