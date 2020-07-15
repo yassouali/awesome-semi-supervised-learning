@@ -1693,6 +1693,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - An overview of proxy-label approaches for semi-supervised learning. *Sebastian Ruder.* [[link]](https://ruder.io/semi-supervised/index.html).
 - The Illustrated FixMatch for Semi-Supervised Learning. *Amit Chaudhary.* [[link]](https://amitness.com/2020/03/fixmatch-semi-supervised/)
 - An Overview of Deep Semi-Supervised Learning. *Yassine Ouali* [[link]](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
+- Semi-Supervised Learning in Computer Vision. *Amit Chaudhary* [[link]](https://amitness.com/2020/07/semi-supervised-learning/)
 
 
 
