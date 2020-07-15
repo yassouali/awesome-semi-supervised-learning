@@ -125,6 +125,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- Time-Consistent Self-Supervision for Semi-Supervised Learning. 
+  [[pdf]](https://proceedings.icml.cc/static/paper_files/icml/2020/5578-Paper.pdf)
+  - Tianyi Zhou, Shengjie Wang, Jeff Bilmes. *ICML 2020*
+
 - Big Self-Supervised Models are Strong Semi-Supervised Learners. 
   [[pdf]](https://arxiv.org/abs/2006.10029)
   - Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton. *Preprint 2020*
