@@ -814,6 +814,25 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## NLP
 
 #### 2020
+- MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification. 
+  [[pdf]](https://arxiv.org/abs/2004.12239)
+  [[code]](https://github.com/GT-SALT/MixText) 
+  - Jiaao Chen, Zichao Yang, Diyi Yang. *ACL 2020*
+
+- Semi-Supervised Dialogue Policy Learning via Stochastic Reward Estimation. 
+  [[pdf]](https://arxiv.org/abs/2005.04379)
+  - Xinting Huang, Jianzhong Qi, Yu Sun, Rui Zhang. *ACL 2020*
+
+- SeqVAT: Virtual Adversarial Training for Semi-Supervised Sequence Labeling. 
+  [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.777/)
+  [[code]]() 
+  - Luoxin Chen, Weitong Ruan, Xinyue Liu, Jianhua Lu. *ACL 2020*
+
+- Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders. 
+  [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.607/)
+  [[code]](https://github.com/JZXXX/Semi-SDP) 
+  - Zixia Jia, Youmi Ma, Jiong Cai, Kewei Tu. *ACL 2020*
+
 - Revisiting self-training for neural sequence generation. 
   [[pdf]](https://arxiv.org/abs/1909.13788)
   [[code]](https://github.com/jxhe/self-training-text-generation) 
