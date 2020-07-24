@@ -133,9 +133,9 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/2006.10029)
   - Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton. *Preprint 2020*
 
-- Building One-Shot Semi-supervised (BOSS) Learning up to Fully Supervised Performance. 
-  [[pdf]](https://arxiv.org/abs/2006.09363)
-  - Leslie N. Smith, Adam Conovaloff. *Preprint 2020*
+- Negative sampling in semi-supervised learning. 
+  [[pdf]](https://arxiv.org/abs/1911.05166) 
+  - John Chen, Vatsal Shah, Anastasios Kyrillidis. *ICML 2020*
 
 - Milking CowMask for Semi-Supervised Image Classification. 
   [[pdf]](https://arxiv.org/abs/2003.12022)
@@ -825,7 +825,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - SeqVAT: Virtual Adversarial Training for Semi-Supervised Sequence Labeling. 
   [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.777/)
-  [[code]]() 
   - Luoxin Chen, Weitong Ruan, Xinyue Liu, Jianhua Lu. *ACL 2020*
 
 - Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders. 
@@ -1416,10 +1415,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning. 
   [[pdf]](https://arxiv.org/abs/2007.01293)
   - Zhongzheng Ren, Raymond A. Yeh, Alexander G. Schwing. *Preprint 2020*
-
-- Negative sampling in semi-supervised learning. 
-  [[pdf]](https://arxiv.org/abs/1911.05166) 
-  - John Chen, Vatsal Shah, Anastasios Kyrillidis. *ICML 2020*
 
 #### 2019
 
