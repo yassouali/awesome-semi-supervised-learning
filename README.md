@@ -133,6 +133,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/2006.10029)
   - Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton. *Preprint 2020*
 
+- FeatMatch: Feature-Based Augmentation for Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2007.08505)
+  - Chia-Wen Kuo, Chih-Yao Ma, Jia-Bin Huang, Zsolt Kira. *ECCV 2020*
+
 - Negative sampling in semi-supervised learning. 
   [[pdf]](https://arxiv.org/abs/1911.05166) 
   - John Chen, Vatsal Shah, Anastasios Kyrillidis. *ICML 2020*
@@ -385,6 +389,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- Naive-Student: Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation.
+  [[pdf]](https://arxiv.org/abs/2005.10266)
+  - Liang-Chieh Chen, Raphael Gontijo Lopes, Bowen Cheng, Maxwell D. Collins, Ekin D. Cubuk, Barret Zoph, Hartwig Adam, Jonathon Shlens. *ECCV 2020*
+
 - Learning Saliency Propagation for Semi-Supervised Instance Segmentation.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Learning_Saliency_Propagation_for_Semi-Supervised_Instance_Segmentation_CVPR_2020_paper.pdf)
   [[code]](https://github.com/ucbdrive/ShapeProp) 
@@ -625,6 +633,39 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Other tasks
 
 #### 2020
+
+- Consistency-based Semi-supervised Active Learning: Towards Minimizing Labeling Cost.
+  [[pdf]](https://arxiv.org/abs/1910.07153)
+  - Mingfei Gao, Zizhao Zhang, Guo Yu, Sercan O. Arik, Larry S. Davis, Tomas Pfister. *ECCV 2020*
+
+- Multi-Task Curriculum Framework for Open-Set Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2007.11330)
+  - Qing Yu, Daiki Ikami, Go Irie, Kiyoharu Aizawa. *ECCV 2020*
+
+- Semi-supervised Crowd Counting via Self-training on Surrogate Tasks.
+  [[pdf]](https://arxiv.org/abs/2007.03207)
+  - Yan Liu, Lingqiao Liu, Peng Wang, Pingping Zhang, Yinjie Lei. *ECCV 2020*
+
+- Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation.
+  [[pdf]](https://arxiv.org/abs/2004.04398)
+  - Da Li, Timothy Hospedales. *ECCV 2020*
+
+- Attract, Perturb, and Explore: Learning a Feature Alignment Network for Semi-supervised Domain Adaptation.
+  [[pdf]](https://arxiv.org/abs/2007.09375)
+  - Taekyung Kim, Changick Kim. *ECCV 2020*
+
+- Semi-supervised Learning with a Teacher-student Network for Generalized Attribute Prediction.
+  [[pdf]](https://arxiv.org/abs/2007.06769)
+  - Minchul Shin. *ECCV 2020*
+
+- Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition.
+  [[pdf]](https://arxiv.org/abs/2007.05934)
+  - Chenyang Si, Xuecheng Nie, Wei Wang, Liang Wang, Tieniu Tan, Jiashi Feng. *ECCV 2020*
+
+- Label Propagation with Augmented Anchors: A Simple Semi-Supervised Learning baseline for Unsupervised Domain Adaptation.
+  [[pdf]](https://arxiv.org/abs/2007.07695)
+  [[code]](https://github.com/YBZh/Label-Propagation-with-Augmented-Anchors)
+  - Yabin Zhang, Bin Deng, Kui Jia, Lei Zhang. *ECCV 2020*
 
 - DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data.
   [[pdf]](https://arxiv.org/abs/1912.04302)
@@ -1097,9 +1138,13 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 
-## Generative Models
+## Generative Models & Tasks
 
 #### 2020
+
+- Transformation Consistency Regularization- A Semi-Supervised Paradigm for Image-to-Image Translation.
+  [[pdf]](https://arxiv.org/abs/2007.07867)
+  - Aamir Mustafa, Rafal K. Mantiuk. *ECCV 2020*
 
 - Regularizing Discriminative Capability of CGANs for Semi-Supervised Generative Learning.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Regularizing_Discriminative_Capability_of_CGANs_for_Semi-Supervised_Generative_Learning_CVPR_2020_paper.pdf) 
@@ -1408,6 +1453,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- TCGM: An Information-Theoretic Framework for Semi-Supervised Multi-Modality Learning.
+  [[pdf]](https://arxiv.org/abs/2007.06793)
+  - Xinwei Sun, Yilun Xu, Peng Cao, Yuqing Kong, Lingjing Hu, Shanghang Zhang, Yizhou Wang. *ECCV 2020*
+
 - Meta-Semi: A Meta-learning Approach for Semi-supervised Learning. 
   [[pdf]](https://arxiv.org/abs/2007.02394)
   - Yulin Wang, Jiayi Guo, Shiji Song, Gao Huang. *Preprint 2020*
@@ -1650,6 +1699,8 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## Other
 
 #### 2018
+
+
 
 - Semi-Supervised Learning on Data Streams via Temporal Label Propagation. 
   [[pdf]](http://proceedings.mlr.press/v80/wagner18a/wagner18a.pdf) 
