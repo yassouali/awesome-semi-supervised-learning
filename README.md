@@ -125,6 +125,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- Autoencoder-based Graph Construction for Semi-supervised Learning.
+  [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690494.pdf)
+  - Mingeun Kang, Kiwon Lee, Yong H. Lee, Changho Suh. *ECCV 2020*
+
 - Time-Consistent Self-Supervision for Semi-Supervised Learning. 
   [[pdf]](https://proceedings.icml.cc/static/paper_files/icml/2020/5578-Paper.pdf)
   - Tianyi Zhou, Shengjie Wang, Jeff Bilmes. *ICML 2020*
@@ -1452,6 +1456,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## Theory 
 
 #### 2020
+
+- Semi-Supervised Learning with Meta-Gradient. 
+  [[pdf]](https://arxiv.org/pdf/2007.03966)
+  - Xin-Yu Zhang, Hao-Lin Jia, Taihong Xiao, Ming-Ming Cheng, Ming-Hsuan Yang. *Preprint 2020*
 
 - TCGM: An Information-Theoretic Framework for Semi-Supervised Multi-Modality Learning.
   [[pdf]](https://arxiv.org/abs/2007.06793)
