@@ -125,6 +125,20 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2007.01293)
+  - Zhongzheng Ren, Raymond A. Yeh, Alexander G. Schwing. *NeurIPS 2020*
+
+- Big Self-Supervised Models are Strong Semi-Supervised Learners. 
+  [[pdf]](https://arxiv.org/abs/2006.10029)
+  [[code]](https://github.com/google-research/simclr)
+  - Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton. *NeurIPS 2020*
+
+- FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence. 
+  [[pdf]](https://arxiv.org/abs/2001.07685)
+  [[code]](https://github.com/google-research/fixmatch)
+  - Kihyuk Sohn, David Berthelot, Chun-Liang Li, Zizhao Zhang, Nicholas Carlini, Ekin D. Cubuk, Alex Kurakin, Han Zhang, Colin Raffel. *NeurIPS 2020*
+
 - Autoencoder-based Graph Construction for Semi-supervised Learning.
   [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690494.pdf)
   - Mingeun Kang, Kiwon Lee, Yong H. Lee, Changho Suh. *ECCV 2020*
@@ -132,10 +146,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Time-Consistent Self-Supervision for Semi-Supervised Learning. 
   [[pdf]](https://proceedings.icml.cc/static/paper_files/icml/2020/5578-Paper.pdf)
   - Tianyi Zhou, Shengjie Wang, Jeff Bilmes. *ICML 2020*
-
-- Big Self-Supervised Models are Strong Semi-Supervised Learners. 
-  [[pdf]](https://arxiv.org/abs/2006.10029)
-  - Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton. *Preprint 2020*
 
 - FeatMatch: Feature-Based Augmentation for Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2007.08505)
@@ -154,6 +164,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/2003.10580)
   - Hieu Pham, Qizhe Xie, Zihang Dai, Quoc V. Le. *Preprint 2020*
 
+- Self-training with Noisy Student improves ImageNet classification. 
+  [[pdf]](https://arxiv.org/abs/1911.04252)
+  [[code]](https://github.com/google-research/noisystudent)
+  - Qizhe Xie, Minh-Thang Luong, Eduard Hovy, Quoc V. Le. *CVPR 2020*
+
 - WCP: Worst-Case Perturbations for Semi-Supervised Deep Learning. 
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_WCP_Worst-Case_Perturbations_for_Semi-Supervised_Deep_Learning_CVPR_2020_paper.pdf)
   [[code]](https://github.com/maple-research-lab/WCP)
@@ -163,11 +178,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/1909.05479)
   [[code]](https://github.com/lokhande-vishnu/DeepHermites)
   - Vishnu Suresh Lokhande, Songwong Tasneeyapant, Abhay Venkatesh, Sathya N. Ravi, Vikas Singh. *CVPR 2020*
-
-- FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence. 
-  [[pdf]](https://arxiv.org/abs/2001.07685)
-  [[code]](https://github.com/google-research/fixmatch)
-  - Kihyuk Sohn, David Berthelot, Chun-Liang Li, Zizhao Zhang, Nicholas Carlini, Ekin D. Cubuk, Alex Kurakin, Han Zhang, Colin Raffel. *Preprint 2020*
 
 - ReMixMatch: Semi-Supervised Learning with Distribution Matching and Augmentation Anchoring. 
   [[pdf]](https://arxiv.org/abs/1911.09785)
@@ -1270,6 +1280,15 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- Strongly local p-norm-cut algorithms for semi-supervised learning and local graph clustering.
+  [[pdf]](https://arxiv.org/abs/2006.08569)
+  [[code]](https://github.com/MengLiuPurdue/SLQ)
+  - Meng Liu, David F. Gleich. *NeurIPS 2020*
+
+- Deep Graph Pose: a semi-supervised deep graphicalmodel for improved animal pose tracking.
+  [[pdf]](https://www.biorxiv.org/content/10.1101/2020.08.20.259705v1.full.pdf)
+  - Anqi Wu, E. Kelly Buchanan et al. *NeurIPS 2020*
+
 - Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates.
   [[pdf]](https://arxiv.org/abs/2006.11184)
   - Jeff Calder, Brendan Cook, Matthew Thorpe, Dejan Slepcev. *ICML 2020*
@@ -1644,6 +1663,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## Reinforcement Learning, Meta-Learning & Robotics
 
 #### 2020
+
+- Semi-Supervised Neural Architecture Search.
+  [[pdf]](https://arxiv.org/abs/2002.10389)
+  [[code]](https://github.com/renqianluo/SemiNAS)
+  - Renqian Luo, Xu Tan, Rui Wang, Tao Qin, Enhong Chen, Tie-Yan Liu. *NeurIPS 2020*
 
 - Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery.
   [[pdf]](https://arxiv.org/abs/1907.08225)
