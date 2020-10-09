@@ -139,6 +139,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[code]](https://github.com/google-research/fixmatch)
   - Kihyuk Sohn, David Berthelot, Chun-Liang Li, Zizhao Zhang, Nicholas Carlini, Ekin D. Cubuk, Alex Kurakin, Han Zhang, Colin Raffel. *NeurIPS 2020*
 
+- Unsupervised Data Augmentation for Consistency Training. 
+  [[pdf]](https://arxiv.org/abs/1904.12848)
+  [[code]](https://github.com/google-research/uda)
+  - Qizhe Xie, Zihang Dai, Eduard Hovy, Minh-Thang Luong, Quoc V. Le. *NeurIPS 2020*
+
 - Autoencoder-based Graph Construction for Semi-supervised Learning.
   [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690494.pdf)
   - Mingeun Kang, Kiwon Lee, Yong H. Lee, Changho Suh. *ECCV 2020*
@@ -199,11 +204,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/1905.02249)
   [[code]](https://github.com/google-research/mixmatch)
   - David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel. *NeurIPS 2019*
-
-- Unsupervised Data Augmentation for Consistency Training. 
-  [[pdf]](https://arxiv.org/abs/1904.12848)
-  [[code]](https://github.com/google-research/uda)
-  - Qizhe Xie, Zihang Dai, Eduard Hovy, Minh-Thang Luong, Quoc V. Le. *Preprint 2019*
 
 - Dual Student: Breaking the Limits of the Teacher in Semi-Supervised Learning. 
   [[pdf]](https://arxiv.org/abs/1909.01804)
