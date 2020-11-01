@@ -331,6 +331,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/1707.09219) 
   - Isabeau Prémont-Schwarz, Alexander Ilin, Tele Hotloo Hao, Antti Rasmus, Rinu Boney, Harri Valpola. *NeurIPS 2017*
 
+- Self-Trained Stacking Model for Semi-Supervised Learning. 
+  [[link](https://www.worldscientific.com/doi/abs/10.1142/S0218213017500014)
+  - Stamatis Karlos, Nikos Fazakis, Sotiris Kotsiantis, Kyriakos N. Sgarbas. *Int. J. Artif. Intell. Tools 26(2) (2017)*
+
+
 #### 2016
 
 - Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning.
