@@ -1724,7 +1724,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance. 
   [[pdf]](https://arxiv.org/abs/1805.10407) 
   [[code]](https://github.com/ermongroup/ssdkl)
-  - Danilo Bzdok, Michael Eickenberg, Olivier Grisel, Bertrand Thirion, Ga ̈el Varoquaux. *NeurIPS 2018*
+  - Neal Jean, Sang Michael Xie, Stefano Ermon. *NeurIPS 2018*
 
 #### 2017
 
