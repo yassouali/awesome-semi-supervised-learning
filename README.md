@@ -69,7 +69,7 @@ If you find any errors, or you wish to add some papers, please feel free to cont
     - [Object Detection](#object-detection)
     - [Other tasks](#other-tasks)
   - [NLP](#nlp)
-  - [Generative Models](#generative-models)
+  - [Generative Models](#generative-models--tasks)
   - [Graph Based SSL](#graph-based-ssl)
   - [Theory](#theory)
   - [Reinforcement Learning, Meta-Learning & Robotics](#reinforcement-learning-meta-learning--robotics)
