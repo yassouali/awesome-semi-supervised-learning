@@ -125,6 +125,14 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- CoMatch: Semi-supervised Learning with Contrastive Graph Regularization.
+  [[pdf]](https://arxiv.org/pdf/2011.11183)
+  - Junnan Li, Caiming Xiong, Steven Hoi. *Preprint 2020*
+
+- Unsupervised Semantic Aggregation and Deformable Template Matching for Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/pdf/2010.05517)
+  - Tao Han, Junyu Gao, Yuan Yuan, Qi Wang. *NeurIPS 2020*
+
 - Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning.
   [[pdf]](https://arxiv.org/abs/2007.01293)
   - Zhongzheng Ren, Raymond A. Yeh, Alexander G. Schwing. *NeurIPS 2020*
