@@ -126,11 +126,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2020
 
 - CoMatch: Semi-supervised Learning with Contrastive Graph Regularization.
-  [[pdf]](https://arxiv.org/pdf/2011.11183)
+  [[pdf]](https://arxiv.org/abs/2011.11183)
   - Junnan Li, Caiming Xiong, Steven Hoi. *Preprint 2020*
 
 - Unsupervised Semantic Aggregation and Deformable Template Matching for Semi-Supervised Learning.
-  [[pdf]](https://arxiv.org/pdf/2010.05517)
+  [[pdf]](https://arxiv.org/abs/2010.05517)
   - Tao Han, Junyu Gao, Yuan Yuan, Qi Wang. *NeurIPS 2020*
 
 - Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning.
@@ -896,6 +896,31 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## NLP
 
 #### 2020
+
+- To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging. 
+  [[pdf]](https://arxiv.org/abs/2010.14042)
+  - Kasturi Bhattacharjee, Miguel Ballesteros, Rishita Anubhai, Smaranda Muresan, Jie Ma, Faisal Ladhak, Yaser Al-Onaizan. *EMNLP 2020*
+
+- A Probabilistic End-To-End Task-Oriented Dialog Model with Latent Belief States towards Semi-Supervised Learning. 
+  [[pdf]](https://arxiv.org/abs/2009.08115)
+  [[code]](https://github.com/thu-spmi/LABES) 
+  - Yichi Zhang, Zhijian Ou, Huixin Wang, Junlan Feng. *EMNLP 2020*
+
+- Semi-Supervised Bilingual Lexicon Induction with Two-way Interaction. 
+  [[pdf]](https://arxiv.org/abs/2010.07101)
+  [[code]](https://github.com/BestActionNow/SemiSupBLI) 
+  - Xu Zhao, Zihao Wang, Hao Wu, Yong Zhang. *EMNLP 2020*
+
+- Local Additivity Based Data Augmentation for Semi-supervised NER. 
+  [[pdf]](https://arxiv.org/abs/2010.01677)
+  [[code]](https://github.com/GT-SALT/LADA) 
+  - Jiaao Chen, Zhenghui Wang, Ran Tian, Zichao Yang, Diyi Yang. *EMNLP 2020*
+
+- Semi-supervised New Event Type Induction and Event Detection. 
+  [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.53/)
+  [[code]](https://github.com/wilburOne/SSVQVAE) 
+  - Lifu Huang and Heng Ji. *EMNLP 2020*
+
 - MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification. 
   [[pdf]](https://arxiv.org/abs/2004.12239)
   [[code]](https://github.com/GT-SALT/MixText) 
