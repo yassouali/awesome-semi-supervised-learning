@@ -429,9 +429,38 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- Semi-Supervised Semantic Segmentation via Dynamic Self-Training and Class-Balanced Curriculum.
+  [[pdf]](https://arxiv.org/pdf/2004.08514)
+  [[code]](https://github.com/voldemortX/DST-CBC) 
+  - Zhengyang Feng, Qianyu Zhou, Guangliang Cheng, Xin Tan, Jianping Shi, Lizhuang Ma. *Preprint 2020*
+
+- ClassMix: Segmentation-Based Data Augmentation for Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/pdf/2007.07936)
+  [[code]](https://github.com/WilhelmT/ClassMix) 
+  - Viktor Olsson, Wilhelm Tranheden, Juliano Pinto, Lennart Svensson. *Preprint 2020*
+
+- PseudoSeg: Designing Pseudo Labels for Semantic Segmentation.
+  [[pdf]](https://arxiv.org/pdf/2010.09713)
+  [[code]](https://github.com/googleinterns/wss) 
+  - Yuliang Zou, Zizhao Zhang, Han Zhang, Chun-Liang Li, Xiao Bian, Jia-Bin Huang, Tomas Pfister. *Preprint 2020*
+
+- Semi-supervised semantic segmentation needs strong, varied perturbations.
+  [[pdf]](https://arxiv.org/pdf/1906.01916)
+  [[code]](https://github.com/Britefury/cutmix-semisup-seg) 
+  - Geoff French, Samuli Laine, Timo Aila, Michal Mackiewicz, Graham Finlayson. *BMVC 2020*
+
+- Guided Collaborative Training for Pixel-wise Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/pdf/2008.05258)
+  [[code]](https://github.com/ZHKKKe/PixelSSL) 
+  - Zhanghan Ke, Di Qiu, Kaican Li, Qiong Yan, Rynson W.H. Lau. *ECCV 2020*
+
 - Naive-Student: Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation.
   [[pdf]](https://arxiv.org/abs/2005.10266)
   - Liang-Chieh Chen, Raphael Gontijo Lopes, Bowen Cheng, Maxwell D. Collins, Ekin D. Cubuk, Barret Zoph, Hartwig Adam, Jonathon Shlens. *ECCV 2020*
+
+- A Three-Stage Self-Training Framework for Semi-Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/pdf/2012.00827)
+  - Rihuan Ke, Angelica Aviles-Rivero, Saurabh Pandey, Saikumar Reddy, Carola-Bibiane Schönlieb. *CVPR 2020*
 
 - Learning Saliency Propagation for Semi-Supervised Instance Segmentation.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Learning_Saliency_Propagation_for_Semi-Supervised_Instance_Segmentation_CVPR_2020_paper.pdf)
@@ -457,11 +486,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Semi-Supervised Semantic Segmentation with High- and Low-level Consistency.
   [[pdf]](https://arxiv.org/abs/1908.05724)
   [[code]](https://github.com/sud0301/semisup-semseg) 
-  - Wei-Chih Hung, Yi-Hsuan Tsai, Yan-Ting Liou, Yen-Yu Lin, Ming-Hsuan Yang. *TPAMI 2019*
-
-- Semi-supervised semantic segmentation needs strong, high-dimensional perturbations.
-  [[pdf]](https://arxiv.org/abs/1906.01916)
-  - Geoff French, Timo Aila, Samuli Laine, Michal Mackiewicz, Graham Finlayson. *Preprint 2019*
+  - Sudhanshu Mittal, Maxim Tatarchenko, Thomas Brox. *TPAMI 2019*
 
 - CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing.
   [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Duarte_CapsuleVOS_Semi-Supervised_Video_Object_Segmentation_Using_Capsule_Routing_ICCV_2019_paper.pdf)
