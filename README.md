@@ -265,6 +265,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Combination of Active Learning and Semi-Supervised Learning under a Self-Training Scheme.
   [[pdf]](https://www.mdpi.com/1099-4300/21/10/988)
   - Nikos Fazakis, Vasileios G. Kanas, Christos Aridas, Stamatis Karlos, Sotiris Kotsiantis. *MDPI Entropy 2019*
+  
+- Learning to Impute: A General Framework for Semi-supervised Learning.
+  [[pdf]](https://arxiv.org/abs/1912.10364)
+  [[code]](https://github.com/VICO-UoE/L2I)
+  - Wei-Hong Li, Chuan-Sheng Foo, Hakan Bilen. *Preprint 2019*
 
 #### 2018
 
