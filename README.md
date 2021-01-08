@@ -1586,6 +1586,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Semi-supervised clustering for de-duplication. 
   [[pdf]](http://proceedings.mlr.press/v89/kushagra19a/kushagra19a.pdf) 
   - Shrinu Kushagra, Shai Ben-David, Ihab Ilyas. *AISTATS 2019*
+  
+- Learning to Impute: A General Framework for Semi-supervised Learning.
+  [[pdf]](https://arxiv.org/abs/1912.10364)
+  [[code]](https://github.com/VICO-UoE/L2I)
+  - Wei-Hong Li, Chuan-Sheng Foo, Hakan Bilen. *Preprint 2019*
 
 #### 2018
 
