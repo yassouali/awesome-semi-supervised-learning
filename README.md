@@ -1,3 +1,4 @@
+
 # Awesome Semi-Supervised Learning
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -122,6 +123,16 @@ Note that for Image and Object segmentation tasks, we also include weakly-superv
 learning methods, that uses weak labels (eg, image classes) for detection and segmentation.
 
 ### Image Classification
+
+#### 2021
+
+- In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning.
+  [[pdf]](https://openreview.net/pdf?id=-ODN6SbiUU)
+  - Mamshad Nayeem Rizve, Kevin Duarte, Yogesh S Rawat, Mubarak Shah. *ICLR 2021*
+
+- On Data-Augmentation and Consistency-Based Semi-Supervised Learning.
+  [[pdf]](https://openreview.net/pdf?id=7FNqrcPtieT)
+  - Atin Ghosh, Alexandre H. Thiery. *ICLR 2021*
 
 #### 2020
 
@@ -616,6 +627,13 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 ### Object Detection
 
+#### 2021
+
+- Unbiased Teacher for Semi-Supervised Object Detection.
+  [[pdf]](https://openreview.net/pdf?id=MJIve1zgR_)
+  - Yen-Cheng Liu, Chih-Yao Ma, Zijian He, Chia-Wen Kuo, Kan Chen, Peizhao Zhang, Bichen Wu, Zsolt Kira, Peter Vajda. *ICLR 2021*
+
+
 #### 2020
 
 - SESS: Self-Ensembling Semi-Supervised 3D Object Detection.
@@ -701,6 +719,12 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 ### Other tasks
+
+#### 2021
+
+- Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning.
+  [[pdf]](https://openreview.net/pdf?id=ce6CFXBh30h)
+  - Wonyong Jeong, Jaehong Yoon, Eunho Yang, Sung Ju Hwang. *ICLR 2021*
 
 #### 2020
 
@@ -1881,6 +1905,3 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - The Illustrated FixMatch for Semi-Supervised Learning. *Amit Chaudhary.* [[link]](https://amitness.com/2020/03/fixmatch-semi-supervised/)
 - An Overview of Deep Semi-Supervised Learning. *Yassine Ouali* [[link]](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
 - Semi-Supervised Learning in Computer Vision. *Amit Chaudhary* [[link]](https://amitness.com/2020/07/semi-supervised-learning/)
-
-
-
