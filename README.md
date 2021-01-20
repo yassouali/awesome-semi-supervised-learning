@@ -127,11 +127,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2021
 
 - In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning.
-  [[pdf]](https://openreview.net/pdf?id=-ODN6SbiUU)
+  [[pdf]](https://arxiv.org/abs/2101.06329)
   - Mamshad Nayeem Rizve, Kevin Duarte, Yogesh S Rawat, Mubarak Shah. *ICLR 2021*
 
 - On Data-Augmentation and Consistency-Based Semi-Supervised Learning.
-  [[pdf]](https://openreview.net/pdf?id=7FNqrcPtieT)
+  [[pdf]](https://arxiv.org/abs/2101.06967)
   - Atin Ghosh, Alexandre H. Thiery. *ICLR 2021*
 
 #### 2020
@@ -630,7 +630,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2021
 
 - Unbiased Teacher for Semi-Supervised Object Detection.
-  [[pdf]](https://openreview.net/pdf?id=MJIve1zgR_)
+  [[pdf]](https://openreview.net/forum?id=MJIve1zgR_)
   - Yen-Cheng Liu, Chih-Yao Ma, Zijian He, Chia-Wen Kuo, Kan Chen, Peizhao Zhang, Bichen Wu, Zsolt Kira, Peter Vajda. *ICLR 2021*
 
 
@@ -723,7 +723,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2021
 
 - Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning.
-  [[pdf]](https://openreview.net/pdf?id=ce6CFXBh30h)
+  [[pdf]](https://arxiv.org/abs/2006.12097)
   - Wonyong Jeong, Jaehong Yoon, Eunho Yang, Sung Ju Hwang. *ICLR 2021*
 
 #### 2020
