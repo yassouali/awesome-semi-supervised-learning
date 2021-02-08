@@ -126,6 +126,19 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Semi-Supervised Learning with Variational Bayesian Inference and Maximum Uncertainty Regularization.
+  [[pdf]](https://arxiv.org/abs/2012.01793)
+  - Kien Duc Do, Truyen Tran, Svetha Venkatesh. *AAAI 2021*
+
+- Curriculum Labeling: Revisiting Pseudo-Labeling for Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2001.06001)
+  [[code]](https://github.com/uvavision/Curriculum-Labeling)
+  - Paola Cascante-Bonilla, Fuwen Tan, Yanjun Qi, Vicente Ordonez. *AAAI 2021*
+
+- Explanation Consistency Training: Facilitating Consistency-Based Semi-Supervised Learning with Interpretability.
+  [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-7186.HanT.pdf)
+  - Tao Han, Wei-Wei Tu, Yu-Feng Li. *AAAI 2021*
+
 - In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2101.06329)
   - Mamshad Nayeem Rizve, Kevin Duarte, Yogesh S Rawat, Mubarak Shah. *ICLR 2021*
@@ -1382,6 +1395,13 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 ## Graph Based SSL
+
+#### 2021
+
+- Class-Attentive Diffusion Network for Semi-Supervised Classification.
+  [[pdf]](https://arxiv.org/abs/2006.10222)
+  [[code]](https://github.com/ljin0429/CAD-Net)
+  - Jongin Lim, Daeho Um, Hyung Jin Chang, Dae Ung Jo, Jin Young Choi *AAAI 2021*
 
 #### 2020
 
