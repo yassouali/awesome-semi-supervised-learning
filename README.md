@@ -456,17 +456,19 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 ### Semantic and Instance Segmentation
 
+#### 2021
+
+- ClassMix: Segmentation-Based Data Augmentation for Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/pdf/2007.07936)
+  [[code]](https://github.com/WilhelmT/ClassMix) 
+  - Viktor Olsson, Wilhelm Tranheden, Juliano Pinto, Lennart Svensson. *WACV 2021*
+
 #### 2020
 
 - Semi-Supervised Semantic Segmentation via Dynamic Self-Training and Class-Balanced Curriculum.
   [[pdf]](https://arxiv.org/pdf/2004.08514)
   [[code]](https://github.com/voldemortX/DST-CBC) 
   - Zhengyang Feng, Qianyu Zhou, Guangliang Cheng, Xin Tan, Jianping Shi, Lizhuang Ma. *Preprint 2020*
-
-- ClassMix: Segmentation-Based Data Augmentation for Semi-Supervised Learning.
-  [[pdf]](https://arxiv.org/pdf/2007.07936)
-  [[code]](https://github.com/WilhelmT/ClassMix) 
-  - Viktor Olsson, Wilhelm Tranheden, Juliano Pinto, Lennart Svensson. *Preprint 2020*
 
 - PseudoSeg: Designing Pseudo Labels for Semantic Segmentation.
   [[pdf]](https://arxiv.org/pdf/2010.09713)
