@@ -738,7 +738,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2021
 
 - More Photos are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval.
-  [[pdf]](link)
   [[code]](https://github.com/AyanKumarBhunia/semisupervised-FGSBIR)
   - Ayan Kumar Bhunia, Pinaki nath Chowdhury, Aneeshan Sain, Yongxin Yang, Tao Xiang, Yi-Zhe Song. *CVPR 2021*
 
