@@ -230,6 +230,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SuzukiT.3743.pdf)
   - Teppei Suzuki, Ikuro Sato. *AAAI 2020*
 
+- Pseudo-Labeling and Confirmation Bias in Deep Semi-Supervised Learning. 
+  [[pdf]](https://arxiv.org/abs/1908.02983)
+  [[code]](https://github.com/EricArazo/PseudoLabeling)
+  - Eric Arazo, Diego Ortego, Paul Albert, Noel E. O'Connor, Kevin McGuinness *IJCNN 2020*
+
 #### 2019
 
 - MixMatch: A Holistic Approach to Semi-Supervised Learning. 
