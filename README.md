@@ -126,6 +126,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification.
+  [[pdf]](https://arxiv.org/abs/2103.16725)
+  [[code]](https://github.com/zijian-hu/SimPLE)
+  - Zijian Hu, Zhengyu Yang, Xuefeng Hu, Ram Nevatia. *CVPR 2021*
+
 - Semi-Supervised Learning with Variational Bayesian Inference and Maximum Uncertainty Regularization.
   [[pdf]](https://arxiv.org/abs/2012.01793)
   - Kien Duc Do, Truyen Tran, Svetha Venkatesh. *AAAI 2021*
@@ -741,6 +746,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Other tasks
 
 #### 2021
+
+- Adaptive Consistency Regularization for Semi-Supervised Transfer Learning.
+  [[pdf]](https://arxiv.org/abs/2103.02193)
+  [[code]](https://github.com/SHI-Labs/Semi-Supervised-Transfer-Learning)
+  - Abulikemu Abuduweili, Xingjian Li, Humphrey Shi, Cheng-Zhong Xu, Dejing Dou. *CVPR 2021*
 
 - More Photos are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval.
   [[code]](https://github.com/AyanKumarBhunia/semisupervised-FGSBIR)
