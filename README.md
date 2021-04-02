@@ -163,6 +163,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/2011.11183)
   - Junnan Li, Caiming Xiong, Steven Hoi. *Preprint 2020*
 
+- One-bit Supervision for Image Classification.
+  [[pdf]](https://arxiv.org/abs/2009.06168)
+  - Hengtong Hu, Lingxi Xie, Zewei Du, Richang Hong, Qi Tian. *NeurIPS 2020*
+
 - Unsupervised Semantic Aggregation and Deformable Template Matching for Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2010.05517)
   - Tao Han, Junyu Gao, Yuan Yuan, Qi Wang. *NeurIPS 2020*
