@@ -126,6 +126,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- A Realistic Evaluation of Semi-Supervised Learning for Fine-Grained Classification.
+  [[pdf]](https://arxiv.org/abs/2104.00679)
+  - Jong-Chyi Su, Zezhou Cheng, Subhransu Maji. *CVPR 2021*
+
 - SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification.
   [[pdf]](https://arxiv.org/abs/2103.16725)
   [[code]](https://github.com/zijian-hu/SimPLE)
