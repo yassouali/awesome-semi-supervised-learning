@@ -481,6 +481,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Semi-supervised Semantic Segmentation with Directional Context-aware Consistency.
+  [[pdf]](https://jiaya.me/papers/semiseg_cvpr21.pdf)
+  [[code]](https://github.com/Jia-Research-Lab/Context-Aware-Consistency) 
+  - Xin Lai, Zhuotao Tian, Li Jiang, Shu Liu, Hengshuang Zhao, Liwei Wang, Jiaya Jia. *CVPR 2021*
+
 - ClassMix: Segmentation-Based Data Augmentation for Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/pdf/2007.07936)
   [[code]](https://github.com/WilhelmT/ClassMix) 
