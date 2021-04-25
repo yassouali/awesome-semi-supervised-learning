@@ -163,6 +163,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2020
 
+- Rethinking the Value of Labels for Improving Class-Imbalanced Learning.
+  [[pdf]](https://arxiv.org/abs/2006.07529)
+  [[code]](https://github.com/YyzHarry/imbalanced-semi-self)
+  - Yuzhe Yang, Zhi Xu. *NeurIPS 2020*
+
 - CoMatch: Semi-supervised Learning with Contrastive Graph Regularization.
   [[pdf]](https://arxiv.org/abs/2011.11183)
   - Junnan Li, Caiming Xiong, Steven Hoi. *Preprint 2020*
