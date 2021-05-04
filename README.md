@@ -681,7 +681,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://openreview.net/forum?id=MJIve1zgR_)
   - Yen-Cheng Liu, Chih-Yao Ma, Zijian He, Chia-Wen Kuo, Kan Chen, Peizhao Zhang, Bichen Wu, Zsolt Kira, Peter Vajda. *ICLR 2021*
 
-
 #### 2020
 
 - SESS: Self-Ensembling Semi-Supervised 3D Object Detection.
@@ -773,6 +772,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - More Photos are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval.
   [[code]](https://github.com/AyanKumarBhunia/semisupervised-FGSBIR)
   - Ayan Kumar Bhunia, Pinaki nath Chowdhury, Aneeshan Sain, Yongxin Yang, Tao Xiang, Yi-Zhe Song. *CVPR 2021*
+
+- Semi-supervised Keypoint Localization.
+  [[pdf]](https://arxiv.org/abs/2101.07988)
+  - Olga Moskvyak, Frederic Maire, Feras Dayoub, Mahsa Baktashmotlagh. *ICLR 2021*
 
 - Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning.
   [[pdf]](https://arxiv.org/abs/2006.12097)
@@ -999,6 +1002,18 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 ## NLP
+
+- Industry Scale Semi-Supervised Learning for Natural Language Understanding. 
+  [[pdf]](https://arxiv.org/abs/2103.15871)
+  - Luoxin Chen, Francisco Garcia, Varun Kumar, He Xie, Jianhua Lu. *NAACL 2021*
+
+- Event Representation with Sequential, Semi-Supervised Discrete Variables. 
+  [[pdf]](https://arxiv.org/abs/2010.04361)
+  - Mehdi Rezaee, Francis Ferraro. *NAACL 2021*
+
+- Framing Unpacked: A Semi-Supervised Interpretable Multi-View Model of Media Frames. 
+  [[pdf]](https://arxiv.org/abs/2104.11030)
+  - Shima Khanehzar, Trevor Cohn, Gosia Mikolajczak, Andrew Turpin, Lea Frermann. *NAACL 2021*
 
 #### 2020
 
@@ -1900,8 +1915,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## Other
 
 #### 2018
-
-
 
 - Semi-Supervised Learning on Data Streams via Temporal Label Propagation. 
   [[pdf]](http://proceedings.mlr.press/v80/wagner18a/wagner18a.pdf) 
