@@ -127,7 +127,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### 2021
 
 - Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples.
-  [[pdf]](https://arxiv.org/abs/2103.16725)
+  [[pdf]](https://arxiv.org/abs/2104.13963)
   [[code]](https://github.com/facebookresearch/suncet)
   - Mahmoud Assran, Mathilde Caron, Ishan Misra, Piotr Bojanowski, Armand Joulin, Nicolas Ballas, Michael Rabbat. *Preprint 2021*
 
