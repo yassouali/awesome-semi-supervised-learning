@@ -131,6 +131,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[code]](https://github.com/facebookresearch/suncet)
   - Mahmoud Assran, Mathilde Caron, Ishan Misra, Piotr Bojanowski, Armand Joulin, Nicolas Ballas, Michael Rabbat. *Preprint 2021*
 
+- Poisoning the Unlabeled Dataset of Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2105.01622)
+  - Nicholas Carlini. *Preprint 2021*
+
 - A Realistic Evaluation of Semi-Supervised Learning for Fine-Grained Classification.
   [[pdf]](https://arxiv.org/abs/2104.00679)
   - Jong-Chyi Su, Zezhou Cheng, Subhransu Maji. *CVPR 2021*
