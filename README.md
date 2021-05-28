@@ -116,6 +116,10 @@ If you find any errors, or you wish to add some papers, please feel free to cont
   [[pdf]](https://link.springer.com/content/pdf/10.1007/s10994-019-05855-6.pdf)
   - Jesper E Van Engelen, Holger H Hoos. *2020*
 
+- A Survey on Deep Semi-Supervised Learning
+  [[pdf]](https://arxiv.org/pdf/2103.00550.pdf)
+  - Xiangli Yang, Zixing Song, Irwin King. *2021*
+
 
 
 ## Computer Vision
