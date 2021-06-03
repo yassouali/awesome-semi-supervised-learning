@@ -130,7 +130,12 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
-- Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples.
+- Sinkhorn Label Allocation: Semi-Supervised Classification via Annealed Self-Training.
+  [[pdf]](https://arxiv.org/abs/2102.08622)
+  [[code]](https://github.com/stanford-futuredata/sinkhorn-label-allocation)
+  - Kai Sheng Tai, Peter Bailis, Gregory Valiant. *ICML 2021*
+
+- Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments.
   [[pdf]](https://arxiv.org/abs/2104.13963)
   [[code]](https://github.com/facebookresearch/suncet)
   - Mahmoud Assran, Mathilde Caron, Ishan Misra, Piotr Bojanowski, Armand Joulin, Nicolas Ballas, Michael Rabbat. *Preprint 2021*
@@ -1287,7 +1292,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Simple Semi-Supervised Training of Part-Of-Speech Taggers. 
   [[pdf]](https://www.aclweb.org/anthology/P10-2038.pdf) 
-  - Anders Søgaard. *ACL 2010*
+  - Anders Søgaard. *ACL 2010*Message Passing Adaptive Resonance Theory for Online Active Semi-supervised Learning
 
 - Word Representations: A Simple and General Method for Semi-Supervised Learning. 
   [[pdf]](https://www.aclweb.org/anthology/P10-1040.pdf) 
@@ -1465,6 +1470,14 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## Graph Based SSL
 
 #### 2021
+
+- Message Passing Adaptive Resonance Theory.
+  [[pdf]](https://arxiv.org/abs/2012.01227)
+  - Taehyeong Kim, Injune Hwang, Hyundo Lee, Hyunseo Kim, Won-Seok Choi, Joseph J. Lim, Byoung-Tak Zhang*ICML 2021*
+
+- Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and OOD Generalization.
+  [[pdf]](https://arxiv.org/abs/2102.06966)
+  - Aseem Baranwal, Kimon Fountoulakis, Aukosh Jagannath *ICML 2021*
 
 - Class-Attentive Diffusion Network for Semi-Supervised Classification.
   [[pdf]](https://arxiv.org/abs/2006.10222)
