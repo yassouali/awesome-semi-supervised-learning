@@ -695,6 +695,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Rethinking Pseudo Labels for Semi-Supervised Object Detection.
+  [[pdf]](https://arxiv.org/abs/2106.00168
+  - Hengduo Li, Zuxuan Wu, Abhinav Shrivastava, Larry S. Davis. *Preprint 2021*
+
 - Unbiased Teacher for Semi-Supervised Object Detection.
   [[pdf]](https://openreview.net/forum?id=MJIve1zgR_)
   [[code]](https://github.com/facebookresearch/unbiased-teacher)
@@ -787,6 +791,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Other tasks
 
 #### 2021
+
+- OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers.
+  [[pdf]](https://arxiv.org/abs/2105.14148)
+  - Kuniaki Saito, Donghyun Kim, Kate Saenko. *Preprint 2021*
 
 - More Photos are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval.
   [[code]](https://github.com/AyanKumarBhunia/semisupervised-FGSBIR)
