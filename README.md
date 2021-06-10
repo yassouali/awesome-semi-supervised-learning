@@ -508,6 +508,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/2106.05095)
+  [[code]](https://github.com/LiheYoung/ST-PlusPlus) 
+  - Lihe Yang, Wei Zhuo, Lei Qi, Yinghuan Shi and Yang Gao. *Preprint 2021*.
+
 - Semi-supervised Semantic Segmentation with Directional Context-aware Consistency.
   [[pdf]](https://jiaya.me/papers/semiseg_cvpr21.pdf)
   [[code]](https://github.com/Jia-Research-Lab/Context-Aware-Consistency) 
