@@ -130,9 +130,33 @@ If you find any errors, or you wish to add some papers, please feel free to cont
 Note that for Image and Object segmentation tasks, we also include weakly-supervised
 learning methods, that uses weak labels (eg, image classes) for detection and segmentation.
 
+
+
+
+
 ### Image Classification
 
 #### 2021
+
+- AlphaMatch: Improving Consistency for Semi-Supervised Learning With Alpha-Divergence.
+  [[pdf]](https://arxiv.org/abs/2011.11779)
+  - Chengyue Gong, Dilin Wang, Qiang Liu. *CVPR 2021*
+
+- Self-Supervised Wasserstein Pseudo-Labeling for Semi-Supervised Image Classification.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Taherkhani_Self-Supervised_Wasserstein_Pseudo-Labeling_for_Semi-Supervised_Image_Classification_CVPR_2021_paper.pdf)
+  - Fariborz Taherkhani, Ali Dabouei, Sobhan Soleymani, Jeremy Dawson, Nasser M. Nasrabadi. *CVPR 2021*
+
+- Humble Teachers Teach Better Students for Semi-Supervised Object Detection.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
+  - Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang. *CVPR 2021*
+
+- CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2102.09559)
+  - Chen Wei, Kihyuk Sohn, Clayton Mellina, Alan Yuille, Fan Yang. *CVPR 2021*
+
+- Exponential Moving Average Normalization for Self-Supervised and Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2101.08482)
+  - Zhaowei Cai, Avinash Ravichandran, Subhransu Maji, Charless Fowlkes, Zhuowen Tu, Stefano Soatto. *CVPR 2021*
 
 - Sinkhorn Label Allocation: Semi-Supervised Classification via Annealed Self-Training.
   [[pdf]](https://arxiv.org/abs/2102.08622)
@@ -508,6 +532,34 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- ATSO: Asynchronous Teacher-Student Optimization for Semi-Supervised Image Segmentation.
+  [[pdf]](https://arxiv.org/abs/2006.13461)
+  [[code]](https://cvir.github.io/TCL/)
+  - Xinyue Huo, Lingxi Xie, Jianzhong He, Zijie Yang, Wengang Zhou, Houqiang Li, Qi Tian. *CVPR 2021*
+
+- Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization.
+  [[pdf]](https://arxiv.org/abs/2104.05833)
+  [[code]](https://nv-tlabs.github.io/semanticGAN/)
+  - Daiqing Li, Junlin Yang, Karsten Kreis, Antonio Torralba, Sanja Fidler. *CVPR 2021*
+
+- Learning Dynamic Network Using a Reuse Gate Function in Semi-supervised Video Object Segmentation.
+  [[pdf]](https://arxiv.org/abs/2012.11655)
+  [[code]](https://github.com/HYOJINPARK/Reuse_VOS)
+  - Hyojin Park, Jayeon Yoo, Seohyeong Jeong, Ganesh Venkatesh, Nojun Kwak. *CVPR 2021*
+
+- Anti-Adversarially Manipulated Attributions for Weakly and Semi-Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/2103.08896)
+  - Jungbeom Lee, Eunji Kim, Sungroh Yoon. *CVPR 2021*
+
+- Semi-Supervised Semantic Segmentation With Directional Context-Aware Consistency.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lai_Semi-Supervised_Semantic_Segmentation_With_Directional_Context-Aware_Consistency_CVPR_2021_paper.pdf)
+  - Xin Lai, Zhuotao Tian, Li Jiang, Shu Liu, Hengshuang Zhao, Liwei Wang, Jiaya Jia. *CVPR 2021*.
+
+- Semi-Supervised Semantic Segmentation With Cross Pseudo Supervision.
+  [[pdf]](https://arxiv.org/abs/2106.01226)
+  [[code]](https://github.com/charlesCXK/TorchSemiSeg) 
+  - Xiaokang Chen, Yuhui Yuan, Gang Zeng, Jingdong Wang. *CVPR 2021*.
+
 - ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation.
   [[pdf]](https://arxiv.org/abs/2106.05095)
   [[code]](https://github.com/LiheYoung/ST-PlusPlus) 
@@ -704,8 +756,32 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection.
+  [[pdf]](https://arxiv.org/abs/2012.04355)
+  - He Wang, Yezhen Cong, Or Litany, Yue Gao, Leonidas J. Guibas. *CVPR 2021*
+
+- Interpolation-Based Semi-Supervised Learning for Object Detection.
+  [[pdf]](https://arxiv.org/abs/2006.02158)
+  - Jisoo Jeong, Vikas Verma, Minsung Hyun, Juho Kannala, Nojun Kwak. *CVPR 2021*
+
+- Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Instant-Teaching_An_End-to-End_Semi-Supervised_Object_Detection_Framework_CVPR_2021_paper.pdf)
+  - Qiang Zhou, Chaohui Yu, Zhibin Wang, Qi Qian, Hao Li . *CVPR 2021*
+
+- Interactive Self-Training With Mean Teachers for Semi-Supervised Object Detection.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Interactive_Self-Training_With_Mean_Teachers_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
+  - Qize Yang, Xihan Wei, Biao Wang, Xian-Sheng Hua, Lei Zhang. *CVPR 2021*
+
+- Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection.
+  [[pdf]](https://arxiv.org/abs/2103.16368)
+  - Zhenyu Wang, Yali Li, Ye Guo, Lu Fang, Shengjin Wang. *CVPR 2021*
+
+- Points as Queries: Weakly Semi-supervised Object Detection by Points.
+  [[pdf]](https://arxiv.org/abs/2104.07434)
+  - Liangyu Chen, Tong Yang, Xiangyu Zhang, Wei Zhang, Jian Sun. *CVPR 2021*
+
 - Rethinking Pseudo Labels for Semi-Supervised Object Detection.
-  [[pdf]](https://arxiv.org/abs/2106.00168
+  [[pdf]](https://arxiv.org/abs/2106.00168)
   - Hengduo Li, Zuxuan Wu, Abhinav Shrivastava, Larry S. Davis. *Preprint 2021*
 
 - Unbiased Teacher for Semi-Supervised Object Detection.
@@ -800,6 +876,52 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Other tasks
 
 #### 2021
+
+- Semi-Supervised Action Recognition with Temporal Contrastive Learning.
+  [[pdf]](https://arxiv.org/abs/2102.02751)
+  [[code]](https://cvir.github.io/TCL/)
+  - Ankit Singh, Omprakash Chakraborty, Ashutosh Varshney, Rameswar Panda, Rogerio Feris, Kate Saenko, Abir Das. *CVPR 2021*
+
+- SSLayout360: Semi-Supervised Indoor Layout Estimation From 360deg Panorama.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_SSLayout360_Semi-Supervised_Indoor_Layout_Estimation_From_360deg_Panorama_CVPR_2021_paper.pdf)
+  - Phi Vu Tran. *CVPR 2021*
+
+- Semi-Supervised Video Deraining With Dynamical Rain Generator.
+  [[pdf]](https://arxiv.org/abs/2103.07939)
+  - Zongsheng Yue, Jianwen Xie, Qian Zhao, Deyu Meng. *CVPR 2021*
+
+- Memory Oriented Transfer Learning for Semi-Supervised Image Deraining.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Memory_Oriented_Transfer_Learning_for_Semi-Supervised_Image_Deraining_CVPR_2021_paper.pdf)
+  - Huaibo Huang, Aijing Yu, Ran He. *CVPR 2021*
+
+- ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-Supervised Continual Learning.
+  [[pdf]](https://arxiv.org/abs/2101.00407)
+  - Liyuan Wang, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu. *CVPR 2021*
+
+- Learning Invariant Representations and Risks for Semi-supervised Domain Adaptation.
+  [[pdf]](https://arxiv.org/abs/2010.04647)
+  - Bo Li, Yezhen Wang, Shanghang Zhang, Dongsheng Li, Trevor Darrell, Kurt Keutzer, Han Zhao. *CVPR 2021*
+
+- Leveraging Large-Scale Weakly Labeled Data for Semi-Supervised Mass Detection in Mammograms.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Leveraging_Large-Scale_Weakly_Labeled_Data_for_Semi-Supervised_Mass_Detection_in_CVPR_2021_paper.pdf)
+  - Yuxing Tang, Zhenjie Cao, Yanbo Zhang, Zhicheng Yang, Zongcheng Ji, Yiwei Wang, Mei Han, Jie Ma, Jing Xiao, Peng Chang. *CVPR 2021*
+
+- MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments From a Single Moving Camera.
+  [[pdf]](https://arxiv.org/abs/2011.11814)
+  [[code]](https://vision.in.tum.de/research/monorec)
+  - Yuxing Tang, Zhenjie Cao, Yanbo Zhang, Zhicheng Yang, Zongcheng Ji, Yiwei Wang, Mei Han, Jie Ma, Jing Xiao, Peng Chang. *CVPR 2021*
+
+- Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation.
+  [[pdf]](https://arxiv.org/abs/2104.09415)
+  - Jichang Li, Guanbin Li, Yemin Shi, Yizhou Yu. *CVPR 2021*
+
+- More Photos Are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval.
+  [[pdf]](https://arxiv.org/abs/2103.13990)
+  - Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Aneeshan Sain, Yongxin Yang, Tao Xiang, Yi-Zhe Song. *CVPR 2021*
+
+- Semi-Supervised 3D Hand-Object Poses Estimation With Interactions in Time.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Semi-Supervised_3D_Hand-Object_Poses_Estimation_With_Interactions_in_Time_CVPR_2021_paper.pdf)
+  - Shaowei Liu, Hanwen Jiang, Jiarui Xu, Sifei Liu, Xiaolong Wang. *CVPR 2021*
 
 - OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers.
   [[pdf]](https://arxiv.org/abs/2105.14148)
@@ -1361,6 +1483,16 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 ## Generative Models & Tasks
+
+#### 2021
+
+- Semi-Supervised Synthesis of High-Resolution Editable Textures for 3D Humans.
+  [[pdf]](https://arxiv.org/abs/2103.17266)
+  - Aamir Mustafa, Rafal K. Mantiuk. *CVPR 2021*
+
+- Mask-Embedded Discriminator With Region-Based Semantic Regularization for Semi-Supervised Class-Conditional Image Synthesis.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Mask-Embedded_Discriminator_With_Region-Based_Semantic_Regularization_for_Semi-Supervised_Class-Conditional_Image_CVPR_2021_paper.pdf)
+  - Yi Liu, Xiaoyang Huo, Tianyi Chen, Xiangping Zeng, Si Wu, Zhiwen Yu, Hau-San Wong. *CVPR 2021*
 
 #### 2020
 
