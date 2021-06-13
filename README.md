@@ -146,10 +146,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Taherkhani_Self-Supervised_Wasserstein_Pseudo-Labeling_for_Semi-Supervised_Image_Classification_CVPR_2021_paper.pdf)
   - Fariborz Taherkhani, Ali Dabouei, Sobhan Soleymani, Jeremy Dawson, Nasser M. Nasrabadi. *CVPR 2021*
 
-- Humble Teachers Teach Better Students for Semi-Supervised Object Detection.
-  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
-  - Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang. *CVPR 2021*
-
 - CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2102.09559)
   - Chen Wei, Kihyuk Sohn, Clayton Mellina, Alan Yuille, Fan Yang. *CVPR 2021*
@@ -755,6 +751,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Object Detection
 
 #### 2021
+
+- Humble Teachers Teach Better Students for Semi-Supervised Object Detection.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
+  - Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang. *CVPR 2021*
 
 - 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection.
   [[pdf]](https://arxiv.org/abs/2012.04355)
