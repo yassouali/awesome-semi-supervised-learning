@@ -138,6 +138,30 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2106.05682)
+  [[code]](https://github.com/ytaek-oh/daso)
+  - Youngtaek Oh, Dong-Jin Kim, In So Kweon. *Preprint 2021*
+
+- Rethinking Re-Sampling in Imbalanced Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2106.00209)
+  [[code]](https://github.com/TACJu/Bi-Sampling)
+  - Ju He, Adam Kortylewski, Shaokang Yang, Shuai Liu, Cheng Yang, Changhu Wang, Alan Yuille. *Preprint 2021*
+
+- Semi-supervised Long-tailed Recognition using Alternate Sampling.
+  [[pdf]](https://arxiv.org/abs/2105.00133)
+  [[code]](https://github.com/BoLiu-SVCL/SSLT)
+  - Bo Liu, Haoxiang Li, Hao Kang, Nuno Vasconcelos, Gang Hua. *Preprint 2021*
+
+- Semi-supervised Contrastive Learning with Similarity Co-calibration.
+  [[pdf]](https://arxiv.org/abs/2105.07387)
+  - Yuhang Zhang, Xiaopeng Zhang, Robert.C.Qiu, Jie Li, Haohang Xu, Qi Tian. *Preprint 2021*
+
+- All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training.
+  [[pdf]](https://arxiv.org/abs/2104.05248)
+  [[code]](https://github.com/islam-nassar/semco)
+  - Islam Nassar, Samitha Herath, Ehsan Abbasnejad, Wray Buntine, Gholamreza Haffari. *CVPR 2021*
+
 - AlphaMatch: Improving Consistency for Semi-Supervised Learning With Alpha-Divergence.
   [[pdf]](https://arxiv.org/abs/2011.11779)
   - Chengyue Gong, Dilin Wang, Qiang Liu. *CVPR 2021*
@@ -204,6 +228,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   - Atin Ghosh, Alexandre H. Thiery. *ICLR 2021*
 
 #### 2020
+
+- Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2007.08844)
+  [[code]](https://github.com/bbuing9/DARP)
+  - Jaehyung Kim, Youngbum Hur, Sejun Park, Eunho Yang, Sung Ju Hwang, Jinwoo Shin. *NeurIPS 2020*
 
 - Rethinking the Value of Labels for Improving Class-Imbalanced Learning.
   [[pdf]](https://arxiv.org/abs/2006.07529)
@@ -751,6 +780,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Object Detection
 
 #### 2021
+
+- End-to-End Semi-Supervised Object Detection with Soft Teacher.
+  [[pdf]](https://arxiv.org/abs/2106.09018)
+  - Mengde Xu, Zheng Zhang, Han Hu, Jianfeng Wang, Lijuan Wang, Fangyun Wei, Xiang Bai, Zicheng Liu. *Preprint 2021*
 
 - Humble Teachers Teach Better Students for Semi-Supervised Object Detection.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
