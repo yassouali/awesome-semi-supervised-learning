@@ -761,6 +761,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- End-to-End Semi-Supervised Object Detection with Soft Teacher.
+  [[pdf]](https://arxiv.org/abs/2106.09018)
+  - Mengde Xu, Zheng Zhang, Han Hu, Jianfeng Wang, Lijuan Wang, Fangyun Wei, Xiang Bai, Zicheng Liu. *Preprint 2021*
+
 - Humble Teachers Teach Better Students for Semi-Supervised Object Detection.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
   - Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang. *CVPR 2021*
