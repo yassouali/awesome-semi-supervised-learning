@@ -138,6 +138,15 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Semi-supervised Contrastive Learning with Similarity Co-calibration.
+  [[pdf]](https://arxiv.org/abs/2105.07387)
+  - Yuhang Zhang, Xiaopeng Zhang, Robert.C.Qiu, Jie Li, Haohang Xu, Qi Tian. *Preprint 2021*
+
+- All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training.
+  [[pdf]](https://arxiv.org/abs/2104.05248)
+  [[code]](https://github.com/islam-nassar/semco)
+  - Islam Nassar, Samitha Herath, Ehsan Abbasnejad, Wray Buntine, Gholamreza Haffari. *CVPR 2021*
+
 - AlphaMatch: Improving Consistency for Semi-Supervised Learning With Alpha-Divergence.
   [[pdf]](https://arxiv.org/abs/2011.11779)
   - Chengyue Gong, Dilin Wang, Qiang Liu. *CVPR 2021*
