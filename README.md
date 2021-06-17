@@ -138,6 +138,21 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2106.05682)
+  [[code]](https://github.com/ytaek-oh/daso)
+  - Youngtaek Oh, Dong-Jin Kim, In So Kweon. *Preprint 2021*
+
+- Rethinking Re-Sampling in Imbalanced Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2106.00209)
+  [[code]](https://github.com/TACJu/Bi-Sampling)
+  - Ju He, Adam Kortylewski, Shaokang Yang, Shuai Liu, Cheng Yang, Changhu Wang, Alan Yuille. *Preprint 2021*
+
+- Semi-supervised Long-tailed Recognition using Alternate Sampling.
+  [[pdf]](https://arxiv.org/abs/2105.00133)
+  [[code]](https://github.com/BoLiu-SVCL/SSLT)
+  - Bo Liu, Haoxiang Li, Hao Kang, Nuno Vasconcelos, Gang Hua. *Preprint 2021*
+
 - Semi-supervised Contrastive Learning with Similarity Co-calibration.
   [[pdf]](https://arxiv.org/abs/2105.07387)
   - Yuhang Zhang, Xiaopeng Zhang, Robert.C.Qiu, Jie Li, Haohang Xu, Qi Tian. *Preprint 2021*
@@ -213,6 +228,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   - Atin Ghosh, Alexandre H. Thiery. *ICLR 2021*
 
 #### 2020
+
+- Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2007.08844)
+  [[code]](https://github.com/bbuing9/DARP)
+  - Jaehyung Kim, Youngbum Hur, Sejun Park, Eunho Yang, Sung Ju Hwang, Jinwoo Shin. *NeurIPS 2020*
 
 - Rethinking the Value of Labels for Improving Class-Imbalanced Learning.
   [[pdf]](https://arxiv.org/abs/2006.07529)
