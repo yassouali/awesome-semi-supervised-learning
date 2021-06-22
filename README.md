@@ -557,6 +557,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Contrastive Semi-Supervised Learning for 2D Medical Image Segmentation.
+  [[pdf]](https://arxiv.org/abs/2106.06801)
+  - Prashant Pandey, Ajey Pai, Nisarg Bhatt, Prasenjit Das, Govind Makharia, Prathosh AP, Mausam. *MICCAI 2021*
+
 - ATSO: Asynchronous Teacher-Student Optimization for Semi-Supervised Image Segmentation.
   [[pdf]](https://arxiv.org/abs/2006.13461)
   [[code]](https://cvir.github.io/TCL/)
