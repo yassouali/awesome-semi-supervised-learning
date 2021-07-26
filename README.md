@@ -138,6 +138,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Dash: Semi-Supervised Learning with Dynamic Thresholding.
+  [[pdf]](http://proceedings.mlr.press/v139/xu21e.html)
+  - Yi Xu, Lei Shang, Jinxing Ye, Qi Qian, Yu-Feng Li, Baigui Sun, Hao Li, Rong Jin. *ICML 2021*
+
 - Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2106.05682)
   [[code]](https://github.com/ytaek-oh/daso)
@@ -1468,7 +1472,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 - Simple Semi-Supervised Training of Part-Of-Speech Taggers. 
   [[pdf]](https://www.aclweb.org/anthology/P10-2038.pdf) 
-  - Anders Søgaard. *ACL 2010*Message Passing Adaptive Resonance Theory for Online Active Semi-supervised Learning
+  - Anders Søgaard. *ACL 2010*
 
 - Word Representations: A Simple and General Method for Semi-Supervised Learning. 
   [[pdf]](https://www.aclweb.org/anthology/P10-1040.pdf) 
@@ -1522,6 +1526,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## Generative Models & Tasks
 
 #### 2021
+
+- Unified Robust Semi-Supervised Variational Autoencoder.
+  [[pdf]](http://proceedings.mlr.press/v139/chen21a.html)
+  - Xu Chen. *ICML 2021*
 
 - Semi-Supervised Synthesis of High-Resolution Editable Textures for 3D Humans.
   [[pdf]](https://arxiv.org/abs/2103.17266)
@@ -1657,9 +1665,13 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
-- Message Passing Adaptive Resonance Theory.
+- Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization.
+  [[pdf]](https://arxiv.org/abs/2102.06966)
+  - Aseem Baranwal, Kimon Fountoulakis, Aukosh Jagannath *ICML 2021*
+
+- Message Passing Adaptive Resonance Theory for Online Active Semi-supervised Learning.
   [[pdf]](https://arxiv.org/abs/2012.01227)
-  - Taehyeong Kim, Injune Hwang, Hyundo Lee, Hyunseo Kim, Won-Seok Choi, Joseph J. Lim, Byoung-Tak Zhang*ICML 2021*
+  - Taehyeong Kim, Injune Hwang, Hyundo Lee, Hyunseo Kim, Won-Seok Choi, Joseph J. Lim, Byoung-Tak Zhang *ICML 2021*
 
 - Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and OOD Generalization.
   [[pdf]](https://arxiv.org/abs/2102.06966)
