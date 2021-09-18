@@ -918,6 +918,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Semi-Supervised Visual Representation Learning for Fashion Compatibility.
+  [[pdf]](https://arxiv.org/pdf/2109.08052.pdf)
+  - Ambareesh Revanur, Vijay Kumar, Deepthi Sharma  *ACM RecSys 2021*
+
 - Semi-Supervised Action Recognition with Temporal Contrastive Learning.
   [[pdf]](https://arxiv.org/abs/2102.02751)
   [[code]](https://cvir.github.io/TCL/)
