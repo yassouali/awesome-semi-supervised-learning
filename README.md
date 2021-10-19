@@ -138,6 +138,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling.
+  [[pdf]](https://arxiv.org/abs/2110.08263)
+  [[code]](https://github.com/TorchSSL/TorchSSL)
+  - Bowen Zhang, Yidong Wang, Wenxin Hou, Hao Wu, Jindong Wang, Manabu Okumura, Takahiro Shinozaki. *NeurIPS 2021*
+
 - Dash: Semi-Supervised Learning with Dynamic Thresholding.
   [[pdf]](http://proceedings.mlr.press/v139/xu21e.html)
   - Yi Xu, Lei Shang, Jinxing Ye, Qi Qian, Yu-Feng Li, Baigui Sun, Hao Li, Rong Jin. *ICML 2021*
@@ -560,6 +565,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Semantic and Instance Segmentation
 
 #### 2021
+
+- Semi-Supervised Semantic Segmentation via Adaptive Equalization Learning.
+  [[pdf]](https://arxiv.org/abs/2110.05474)
+  [[code]](https://github.com/hzhupku/SemiSeg-AEL)
+  - Hanzhe Hu, Fangyun Wei, Han Hu, Qiwei Ye, Jinshi Cui, Liwei Wang. *NeurIPS 2021*
 
 - Contrastive Semi-Supervised Learning for 2D Medical Image Segmentation.
   [[pdf]](https://arxiv.org/abs/2106.06801)
