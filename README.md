@@ -85,17 +85,11 @@ If you find any errors, or you wish to add some papers, please feel free to cont
   - [Blogs](#blogs)
 
 
-
-
-
-
 ## Books
 
 - Semi-Supervised Learning Book.
   [[pdf]](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)
   - Olivier Chapelle, Bernhard Schölkopf, Alexander Zien. *IEEE Transactions on Neural Networks 2009*
-
-
 
 
 ## Codebase
@@ -133,12 +127,18 @@ Note that for Image and Object segmentation tasks, we also include weakly-superv
 learning methods, that uses weak labels (eg, image classes) for detection and segmentation.
 
 
-
-
-
 ### Image Classification
 
 #### 2021
+
+- Semi-Supervised Active Learning for Semi-Supervised Models: Exploit Adversarial Examples With Graph-Based Virtual Labels.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Semi-Supervised_Active_Learning_for_Semi-Supervised_Models_Exploit_Adversarial_Examples_With_ICCV_2021_paper.pdf)
+  - Jiannan Guo, Haochen Shi, Yangyang Kang, Kun Kuang, Siliang Tang, Zhuoren Jiang, Changlong Sun, Fei Wu, Yueting Zhuang. *ICCV 2021*
+
+- Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments With Support Samples.
+  [[pdf]](https://arxiv.org/abs/2104.13963)
+  [[code]](https://github.com/facebookresearch/suncet)
+  - Mahmoud Assran, Mathilde Caron, Ishan Misra, Piotr Bojanowski, Armand Joulin, Nicolas Ballas, Michael Rabbat. *ICCV 2021*
 
 - FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling.
   [[pdf]](https://arxiv.org/abs/2110.08263)
@@ -568,6 +568,23 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Warp-Refine Propagation: Semi-Supervised Auto-labeling via Cycle-consistency.
+  [[pdf]](https://arxiv.org/abs/2109.13432)
+  - Aditya Ganeshan, Alexis Vallet, Yasunori Kudo, Shin-ichi Maeda, Tommi Kerola, Rares Ambrus, Dennis Park, Adrien Gaidon. *ICCV 2021*
+
+- Re-Distributing Biased Pseudo Labels for Semi-Supervised Semantic Segmentation: A Baseline Investigation.
+  [[pdf]](http://arxiv.org/abs/2107.11279)
+  [[code]](https://github.com/CVMI-Lab/DARS)
+  - Ruifei He, Jihan Yang, Xiaojuan Qi. *ICCV 2021*
+
+- Collaborative and Adversarial Learning of Focused and Dispersive Representations for Semi-Supervised Polyp Segmentation.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Wu_Collaborative_and_Adversarial_Learning_of_Focused_and_Dispersive_Representations_for_ICCV_2021_paper.html)
+  - Huisi Wu, Guilian Chen, Zhenkun Wen, Jing Qin. *ICCV 2021*
+
+- Guided Point Contrastive Learning for Semi-Supervised Point Cloud Semantic Segmentation.
+  [[pdf]](http://arxiv.org/abs/2110.08188)
+  - Li Jiang, Shaoshuai Shi, Zhuotao Tian, Xin Lai, Shu Liu, Chi-Wing Fu, Jiaya Jia. *ICCV 2021*
+
 - Semi-Supervised Semantic Segmentation via Adaptive Equalization Learning.
   [[pdf]](https://arxiv.org/abs/2110.05474)
   [[code]](https://github.com/hzhupku/SemiSeg-AEL)
@@ -929,6 +946,26 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Other tasks
 
 #### 2021
+
+-  Pseudo-Loss Confidence Metric for Semi-Supervised Few-Shot Learning.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Huang_Pseudo-Loss_Confidence_Metric_for_Semi-Supervised_Few-Shot_Learning_ICCV_2021_paper.html)
+  - Kai Huang, Jie Geng, Wen Jiang, Xinyang Deng, Zhe Xu. *ICCV 2021*
+
+- Just a Few Points Are All You Need for Multi-View Stereo: A Novel Semi-Supervised Learning Method for Multi-View Stereo.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Just_a_Few_Points_Are_All_You_Need_for_Multi-View_ICCV_2021_paper.pdf)
+  - Taekyung Kim, Jaehoon Choi, Seokeon Choi, Dongki Jung, Changick Kim. *ICCV 2021*
+
+- SemiHand: Semi-Supervised Hand Pose Estimation With Consistency.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_SemiHand_Semi-Supervised_Hand_Pose_Estimation_With_Consistency_ICCV_2021_paper.html)
+  - Linlin Yang, Shicheng Chen, Angela Yao. *ICCV 2021*
+
+- Spatial Uncertainty-Aware Semi-Supervised Crowd Counting.
+  [[pdf]](http://arxiv.org/abs/2107.13271)
+  - Yanda Meng, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, Yalin Zheng. *ICCV 2021*
+
+- An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation.
+  [[pdf]](https://arxiv.org/abs/2011.12498)
+  - Rongchang Xie, Chunyu Wang, Wenjun Zeng, Yizhou Wang. *ICCV 2021*
 
 - Semi-Supervised Visual Representation Learning for Fashion Compatibility.
   [[pdf]](https://arxiv.org/pdf/2109.08052.pdf)
@@ -1543,6 +1580,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Semi-Supervised Single-Stage Controllable GANs for Conditional Fine-Grained Image Generation.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Semi-Supervised_Single-Stage_Controllable_GANs_for_Conditional_Fine-Grained_Image_Generation_ICCV_2021_paper.html)
+  - Tianyi Chen, Yi Liu, Yunfei Zhang, Si Wu, Yong Xu, Feng Liangbing, Hau San Wong. *ICML 2021*
+
 - Unified Robust Semi-Supervised Variational Autoencoder.
   [[pdf]](http://proceedings.mlr.press/v139/chen21a.html)
   - Xu Chen. *ICML 2021*
@@ -1680,6 +1721,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## Graph Based SSL
 
 #### 2021
+
+- CoMatch: Semi-Supervised Learning With Contrastive Graph Regularization.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_CoMatch_Semi-Supervised_Learning_With_Contrastive_Graph_Regularization_ICCV_2021_paper.pdf)
+  - Junnan Li, Caiming Xiong, Steven C.H. Hoi. *ICCV 2021*
 
 - Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization.
   [[pdf]](https://arxiv.org/abs/2102.06966)
