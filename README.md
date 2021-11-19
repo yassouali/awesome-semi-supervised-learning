@@ -131,6 +131,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- CoMatch: Semi-Supervised Learning With Contrastive Graph Regularization.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_CoMatch_Semi-Supervised_Learning_With_Contrastive_Graph_Regularization_ICCV_2021_paper.pdf)
+  - Junnan Li, Caiming Xiong, Steven C.H. Hoi. *ICCV 2021*
+
 - Semi-Supervised Active Learning for Semi-Supervised Models: Exploit Adversarial Examples With Graph-Based Virtual Labels.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Semi-Supervised_Active_Learning_for_Semi-Supervised_Models_Exploit_Adversarial_Examples_With_ICCV_2021_paper.pdf)
   - Jiannan Guo, Haochen Shi, Yangyang Kang, Kun Kuang, Siliang Tang, Zhuoren Jiang, Changlong Sun, Fei Wu, Yueting Zhuang. *ICCV 2021*
@@ -249,10 +253,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/2006.07529)
   [[code]](https://github.com/YyzHarry/imbalanced-semi-self)
   - Yuzhe Yang, Zhi Xu. *NeurIPS 2020*
-
-- CoMatch: Semi-supervised Learning with Contrastive Graph Regularization.
-  [[pdf]](https://arxiv.org/abs/2011.11183)
-  - Junnan Li, Caiming Xiong, Steven Hoi. *Preprint 2020*
 
 - One-bit Supervision for Image Classification.
   [[pdf]](https://arxiv.org/abs/2009.06168)
@@ -568,6 +568,18 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Semi-Supervised Semantic Segmentation With Pixel-Level Contrastive Learning From a Class-Wise Memory Bank.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Alonso_Semi-Supervised_Semantic_Segmentation_With_Pixel-Level_Contrastive_Learning_From_a_Class-Wise_ICCV_2021_paper.html)
+  - Iñigo Alonso, Alberto Sabater, David Ferstl, Luis Montesano, Ana C. Murillo. *ICCV 2021*
+
+- Pixel Contrastive-Consistent Semi-Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/2108.09025)
+  - Yuanyi Zhong, Bodi Yuan, Hong Wu, Zhiqiang Yuan, Jian Peng, Yu-Xiong Wang. *ICCV 2021*
+
+- A Simple Baseline for Semi-supervised Semantic Segmentation with Strong Data Augmentation.
+  [[pdf]](https://arxiv.org/abs/2104.07256)
+  - Jianlong Yuan, Yifan Liu, Chunhua Shen, Zhibin Wang, Hao Li. *ICCV 2021*
+
 - Warp-Refine Propagation: Semi-Supervised Auto-labeling via Cycle-consistency.
   [[pdf]](https://arxiv.org/abs/2109.13432)
   - Aditya Ganeshan, Alexis Vallet, Yasunori Kudo, Shin-ichi Maeda, Tommi Kerola, Rares Ambrus, Dennis Park, Adrien Gaidon. *ICCV 2021*
@@ -818,9 +830,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+
 - End-to-End Semi-Supervised Object Detection with Soft Teacher.
   [[pdf]](https://arxiv.org/abs/2106.09018)
-  - Mengde Xu, Zheng Zhang, Han Hu, Jianfeng Wang, Lijuan Wang, Fangyun Wei, Xiang Bai, Zicheng Liu. *Preprint 2021*
+  - Mengde Xu, Zheng Zhang, Han Hu, Jianfeng Wang, Lijuan Wang, Fangyun Wei, Xiang Bai, Zicheng Liu. *ICCV 2021*
 
 - Humble Teachers Teach Better Students for Semi-Supervised Object Detection.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
@@ -947,7 +960,31 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
--  Pseudo-Loss Confidence Metric for Semi-Supervised Few-Shot Learning.
+- Trash To Treasure: Harvesting OOD Data With Cross-Modal Matching for Open-Set Semi-Supervised Learning.
+  [[pdf]](http://arxiv.org/abs/2108.05617)
+  - Junkai Huang, Chaowei Fang, Weikai Chen, Zhenhua Chai, Xiaolin Wei, Pengxu Wei, Liang Lin, Guanbin Li. *ICCV 2021*
+
+- Iterative Label Cleaning for Transductive and Semi-Supervised Few-Shot Learning.
+  [[pdf]](http://arxiv.org/abs/2012.07962)
+  - Michalis Lazarou, Tania Stathaki, Yannis Avrithis. *ICCV 2021*
+
+- Deep Co-Training With Task Decomposition for Semi-Supervised Domain Adaptation.
+  [[pdf]](http://arxiv.org/abs/2007.12684)
+  - Luyu Yang, Yan Wang, Mingfei Gao, Abhinav Shrivastava, Kilian Q. Weinberger, Wei-Lun Chao, Ser-Nam Lim. *ICCV 2021*
+
+- Semi-Supervised Active Learning With Temporal Output Discrepancy.
+  [[pdf]](http://arxiv.org/abs/2107.14153)
+  - Siyu Huang, Tianyang Wang, Haoyi Xiong, Jun Huan, Dejing Dou. *ICCV 2021*
+
+- Multiview Pseudo-Labeling for Semi-Supervised Learning From Video.
+  [[pdf]](http://arxiv.org/abs/2104.00682)
+  - Bo Xiong, Haoqi Fan, Kristen Grauman, Christoph Feichtenhofer. *ICCV 2021*
+
+- ECACL: A Holistic Framework for Semi-Supervised Domain Adaptation.
+  [[pdf]](http://arxiv.org/abs/2104.09136)
+  - Kai Li, Chang Liu, Handong Zhao, Yulun Zhang, Yun Fu. *ICCV 2021*
+
+- Pseudo-Loss Confidence Metric for Semi-Supervised Few-Shot Learning.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Huang_Pseudo-Loss_Confidence_Metric_for_Semi-Supervised_Few-Shot_Learning_ICCV_2021_paper.html)
   - Kai Huang, Jie Geng, Wen Jiang, Xinyang Deng, Zhe Xu. *ICCV 2021*
 
@@ -1722,13 +1759,13 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
-- CoMatch: Semi-Supervised Learning With Contrastive Graph Regularization.
-  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_CoMatch_Semi-Supervised_Learning_With_Contrastive_Graph_Regularization_ICCV_2021_paper.pdf)
-  - Junnan Li, Caiming Xiong, Steven C.H. Hoi. *ICCV 2021*
+- Graph-BAS3Net: Boundary-Aware Semi-Supervised Segmentation Network With Bilateral Graph Convolution.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Huang_Graph-BAS3Net_Boundary-Aware_Semi-Supervised_Segmentation_Network_With_Bilateral_Graph_Convolution_ICCV_2021_paper.html)
+  - Huimin Huang, Lanfen Lin, Yue Zhang, Yingying Xu, Jing Zheng, XiongWei Mao, Xiaohan Qian, Zhiyi Peng, Jianying Zhou, Yen-Wei Chen, Ruofeng Tong. *ICML 2021*
 
 - Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization.
   [[pdf]](https://arxiv.org/abs/2102.06966)
-  - Aseem Baranwal, Kimon Fountoulakis, Aukosh Jagannath *ICML 2021*
+  - Aseem Baranwal, Kimon Fountoulakis, Aukosh Jagannath. *ICML 2021*
 
 - Message Passing Adaptive Resonance Theory for Online Active Semi-supervised Learning.
   [[pdf]](https://arxiv.org/abs/2012.01227)
