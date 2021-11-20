@@ -126,10 +126,27 @@ If you find any errors, or you wish to add some papers, please feel free to cont
 Note that for Image and Object segmentation tasks, we also include weakly-supervised
 learning methods, that uses weak labels (eg, image classes) for detection and segmentation.
 
-
 ### Image Classification
 
 #### 2021
+
+- OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers.
+  [[pdf]](https://arxiv.org/abs/2105.14148)
+  [[code]](https://github.com/VisionLearningGroup/OP_Match)
+  - Kuniaki Saito, Donghyun Kim, Kate Saenko. *NeurIPS 2021*
+
+- FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling.
+  [[pdf]](https://arxiv.org/abs/2110.08263)
+  [[code]](https://github.com/TorchSSL/TorchSSL)
+  - Bowen Zhang, Yidong Wang, Wenxin Hou, Hao Wu, Jindong Wang, Manabu Okumura, Takahiro Shinozaki. *NeurIPS 2021*
+
+- ABC: Auxiliary Balanced Classifier for Class-imbalanced Semi-supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2110.10368)
+  - Hyuck Lee, Seungjae Shin, Heeyoung Kim. *NeurIPS 2021*
+
+- DP-SSL: Towards Robust Semi-supervised Learning with A Few Labeled Samples.
+  [[pdf]](https://arxiv.org/abs/2110.13740)
+  - Yi Xu, Jiandong Ding, Lu Zhang, Shuigeng Zhou. *NeurIPS 2021*
 
 - CoMatch: Semi-Supervised Learning With Contrastive Graph Regularization.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_CoMatch_Semi-Supervised_Learning_With_Contrastive_Graph_Regularization_ICCV_2021_paper.pdf)
@@ -568,6 +585,15 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Self-Paced Contrastive Learning for Semi-supervised Medical Image Segmentation with Meta-labels.
+  [[pdf]](https://arxiv.org/abs/2107.13741)
+  - Jizong Peng, Ping Wang, Chrisitian Desrosiers, Marco Pedersoli. *NeurIPS 2021*
+
+- Semi-Supervised Semantic Segmentation via Adaptive Equalization Learning.
+  [[pdf]](https://arxiv.org/abs/2110.05474)
+  [[code]](https://github.com/hzhupku/SemiSeg-AEL)
+  - Hanzhe Hu, Fangyun Wei, Han Hu, Qiwei Ye, Jinshi Cui, Liwei Wang. *NeurIPS 2021*
+
 - Semi-Supervised Semantic Segmentation With Pixel-Level Contrastive Learning From a Class-Wise Memory Bank.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Alonso_Semi-Supervised_Semantic_Segmentation_With_Pixel-Level_Contrastive_Learning_From_a_Class-Wise_ICCV_2021_paper.html)
   - Iñigo Alonso, Alberto Sabater, David Ferstl, Luis Montesano, Ana C. Murillo. *ICCV 2021*
@@ -830,6 +856,9 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Combating Noise: Semi-supervised Learning by Region Uncertainty Quantification.
+  [[pdf]](https://arxiv.org/abs/2111.00928)
+  - Zhenyu Wang, Yali Li, Ye Guo, Shengjin Wang. *NeurIPS 2021*
 
 - End-to-End Semi-Supervised Object Detection with Soft Teacher.
   [[pdf]](https://arxiv.org/abs/2106.09018)
@@ -959,6 +988,20 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Other tasks
 
 #### 2021
+
+- CLDA: Contrastive Learning for Semi-Supervised Domain Adaptation.
+  [[pdf]](https://arxiv.org/abs/2107.00085)
+  - Ankit Singh. *NeurIPS 2021*
+
+- RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2106.07760)
+  [[code]](https://github.com/decile-team/cords)
+  - Krishnateja Killamsetty, Xujiang Zhao, Feng Chen, Rishabh Iyer. *NeurIPS 2021*
+
+- Neural View Synthesis and Matching for Semi-Supervised Few-Shot Learning of 3D Pose.
+  [[pdf]](https://arxiv.org/abs/2110.14213)
+  [[code]](https://github.com/Angtian/NeuralVS)
+  - Angtian Wang, Shenxiao Mei, Alan Yuille, Adam Kortylewski. *NeurIPS 2021*
 
 - Trash To Treasure: Harvesting OOD Data With Cross-Modal Matching for Open-Set Semi-Supervised Learning.
   [[pdf]](http://arxiv.org/abs/2108.05617)
@@ -1281,13 +1324,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Semi-supervised Discriminant Analysis.
   [[pdf]](http://www.cad.zju.edu.cn/home/dengcai/Publication/Conference/ICCV07_dengcai_SDA.pdf)
   - Deng Cai, Xiaofei He, Jiawei Han. *ICCV 2007*
-
-
-
-
-
-
-
 
 
 ## NLP
@@ -1759,6 +1795,15 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2021
 
+- Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels.
+  [[pdf]](https://openreview.net/forum?id=ek0RuhPoGiD)
+  - Sheng Wan, Yibing Zhan, Liu Liu, Baosheng Yu, Shirui Pan, Chen Gong. *NeurIPS 2021*
+
+- Topology-Imbalance Learning for Semi-Supervised Node Classification.
+  [[pdf]](https://arxiv.org/abs/2110.04099)
+  [[code]](https://github.com/victorchen96/ReNode)
+  - Deli Chen, Yankai Lin, Guangxiang Zhao, Xuancheng Ren, Peng Li, Jie Zhou, Xu Sun. *NeurIPS 2021*
+
 - Graph-BAS3Net: Boundary-Aware Semi-Supervised Segmentation Network With Bilateral Graph Convolution.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Huang_Graph-BAS3Net_Boundary-Aware_Semi-Supervised_Segmentation_Network_With_Bilateral_Graph_Convolution_ICCV_2021_paper.html)
   - Huimin Huang, Lanfen Lin, Yue Zhang, Yingying Xu, Jing Zheng, XiongWei Mao, Xiaohan Qian, Zhiyi Peng, Jianying Zhou, Yen-Wei Chen, Ruofeng Tong. *ICML 2021*
@@ -1975,6 +2020,12 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 ## Theory 
+
+#### 2021
+
+- Overcoming the curse of dimensionality with Laplacian regularization in semi-supervised learning.
+  [[pdf]](https://arxiv.org/abs/2009.04324)
+  -Vivien Cabannes, Loucas Pillaud-Vivien, Francis Bach, Alessandro Rudi. *NeurIPS 2021*
 
 #### 2020
 
