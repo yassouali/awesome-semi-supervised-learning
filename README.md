@@ -651,10 +651,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/2103.08896)
   - Jungbeom Lee, Eunji Kim, Sungroh Yoon. *CVPR 2021*
 
-- Semi-Supervised Semantic Segmentation With Directional Context-Aware Consistency.
-  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lai_Semi-Supervised_Semantic_Segmentation_With_Directional_Context-Aware_Consistency_CVPR_2021_paper.pdf)
-  - Xin Lai, Zhuotao Tian, Li Jiang, Shu Liu, Hengshuang Zhao, Liwei Wang, Jiaya Jia. *CVPR 2021*.
-
 - Semi-Supervised Semantic Segmentation With Cross Pseudo Supervision.
   [[pdf]](https://arxiv.org/abs/2106.01226)
   [[code]](https://github.com/charlesCXK/TorchSemiSeg) 
