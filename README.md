@@ -155,6 +155,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/2110.13740)
   - Yi Xu, Jiandong Ding, Lu Zhang, Shuigeng Zhou. *NeurIPS 2021*
 
+- STAR: Noisy Semi-Supervised Transfer Learning for Visual Classification.
+  [[pdf]](https://arxiv.org/abs/2108.08362)
+  - Hasib Zunair, Yan Gobeil, Samuel Mercier, A. Ben Hamza. *ACM MMSports 2021*
+
 - CoMatch: Semi-Supervised Learning With Contrastive Graph Regularization.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_CoMatch_Semi-Supervised_Learning_With_Contrastive_Graph_Regularization_ICCV_2021_paper.pdf)
   - Junnan Li, Caiming Xiong, Steven C.H. Hoi. *ICCV 2021*
