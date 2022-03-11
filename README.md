@@ -129,11 +129,17 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Image Classification
 
 #### 2022
-  
+
+- ACPL: Anti-curriculum Pseudo-labelling for Semi-supervised Medical Image Classification.
+  [[pdf]](https://arxiv.org/pdf/2111.12918)
+  [[code]](https://github.com/FBLADL/ACPL)
+  - Fengbei Liu, Yu Tian, Yuanhong Chen, Yuyuan Liu, Vasileios Belagiannis, Gustavo Carneiro. *CVPR 2022*
+ 
 - Contrastive Regularization for Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2201.06247)
   [[code]](https://github.com/LeeDoYup/Contrastive_Regularization_for_SSL)
   - Doyup Lee, Sungwoong Kim, Ildoo Kim, Yeongjae Cheon, Minsu Cho, Wook-Shin Han. *Preprint 2022*
+  
 
 #### 2021
 
