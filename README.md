@@ -1002,7 +1002,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2022
 
-- RETRIEVE: End-to-End Semi-Supervised Learning for Video Action Detection.
+- End-to-End Semi-Supervised Learning for Video Action Detection.
   [[pdf]](https://arxiv.org/abs/2203.04251)
   [[code]](https://github.com/AKASH2907/End-to-End-Semi-Supervised-Learning-for-Video-Action-Detection)
   - Akash Kumar, Yogesh Singh Rawat. *CVPR 2022*
