@@ -600,13 +600,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 ### Semantic and Instance Segmentation
 
-#### 2022
-
-- ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation.
-  [[pdf]](https://arxiv.org/abs/2106.05095)
-  [[code]](https://github.com/LiheYoung/ST-PlusPlus) 
-  - Lihe Yang, Wei Zhuo, Lei Qi, Yinghuan Shi and Yang Gao. *CVPR 2021*.
-
 #### 2021
 
 - Self-Paced Contrastive Learning for Semi-supervised Medical Image Segmentation with Meta-labels.
@@ -665,6 +658,11 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://arxiv.org/abs/2104.05833)
   [[code]](https://nv-tlabs.github.io/semanticGAN/)
   - Daiqing Li, Junlin Yang, Karsten Kreis, Antonio Torralba, Sanja Fidler. *CVPR 2021*
+
+- ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/2106.05095)
+  [[code]](https://github.com/LiheYoung/ST-PlusPlus) 
+  - Lihe Yang, Wei Zhuo, Lei Qi, Yinghuan Shi and Yang Gao. *CVPR 2021*.
 
 - Learning Dynamic Network Using a Reuse Gate Function in Semi-supervised Video Object Segmentation.
   [[pdf]](https://arxiv.org/abs/2012.11655)
