@@ -130,6 +130,24 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2022
 
+- DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2106.05682)
+  [[code]](https://github.com/ytaek-oh/daso)
+  - Youngtaek Oh, Dong-Jin Kim, In So Kweon. *CVPR 2022*
+
+- Debiased Learning from Naturally Imbalanced Pseudo-Labels.
+  [[pdf]](https://arxiv.org/abs/2201.01490)
+  [[code]](https://github.com/frank-xwang/debiased-pseudo-labeling)
+  - Xudong Wang, Zhirong Wu, Long Lian, Stella X. Yu. *CVPR 2022*
+
+- CoSSL: Co-Learning of Representation and Classifier for Imbalanced Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2112.04564)
+  - Yue Fan, Dengxin Dai, Bernt Schiele. *CVPR 2022*
+
+- Class-Aware Contrastive Semi-Supervised Learning
+  [[pdf]](https://arxiv.org/abs/2203.02261)
+  - Fan Yang, Kai Wu, Shuyi Zhang, Guannan Jiang, Yong Liu, Feng Zheng, Wei Zhang, Chengjie Wang, Long Zeng. *CVPR 2022*
+
 - ACPL: Anti-curriculum Pseudo-labelling for Semi-supervised Medical Image Classification.
   [[pdf]](https://arxiv.org/pdf/2111.12918)
   [[code]](https://github.com/FBLADL/ACPL)
@@ -186,11 +204,6 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Dash: Semi-Supervised Learning with Dynamic Thresholding.
   [[pdf]](http://proceedings.mlr.press/v139/xu21e.html)
   - Yi Xu, Lei Shang, Jinxing Ye, Qi Qian, Yu-Feng Li, Baigui Sun, Hao Li, Rong Jin. *ICML 2021*
-
-- Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning.
-  [[pdf]](https://arxiv.org/abs/2106.05682)
-  [[code]](https://github.com/ytaek-oh/daso)
-  - Youngtaek Oh, Dong-Jin Kim, In So Kweon. *Preprint 2021*
 
 - Rethinking Re-Sampling in Imbalanced Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2106.00209)
