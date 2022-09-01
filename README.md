@@ -880,6 +880,36 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 ### Object Detection
 
+#### 2022
+
+- Dense Learning Based Semi-Supervised Object Detection.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Dense_Learning_Based_Semi-Supervised_Object_Detection_CVPR_2022_paper.pdf)
+  - Binghui Chen, Pengyu Li, Xiang Chen, Biao Wang, Lei Zhang, Xian-Sheng Hua. *CVPR 2022*
+
+- Label Matching Semi-Supervised Object Detection.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Label_Matching_Semi-Supervised_Object_Detection_CVPR_2022_paper.pdf)
+  - Binbin Chen, Weijie Chen, Shicai Yang, Yunyi Xuan, Jie Song, Di Xie, Shiliang Pu, Mingli Song, Yueting Zhuang. *CVPR 2022*
+
+- Semi-Supervised Object Detection via Multi-Instance Alignment With Global Class Prototypes.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Semi-Supervised_Object_Detection_via_Multi-Instance_Alignment_With_Global_Class_Prototypes_CVPR_2022_paper.pdf)
+  - Aoxue Li, Peng Yuan, Zhenguo Li. *CVPR 2022*
+
+- Active Teacher for Semi-Supervised Object Detection.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Mi_Active_Teacher_for_Semi-Supervised_Object_Detection_CVPR_2022_paper.pdf)
+  - Peng Mi, Jianghang Lin, Yiyi Zhou, Yunhang Shen, Gen Luo, Xiaoshuai Sun, Liujuan Cao, Rongrong Fu, Qiang Xu, Rongrong Ji. *CVPR 2022*
+
+- Scale-Equivalent Distillation for Semi-Supervised Object Detection.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Scale-Equivalent_Distillation_for_Semi-Supervised_Object_Detection_CVPR_2022_paper.pdf)
+  - Qiushan Guo, Yao Mu, Jianyu Chen, Tianqi Wang, Yizhou Yu, Ping Luo. *CVPR 2022*
+
+- Unbiased Teacher v2: Semi-Supervised Object Detection for Anchor-Free and Anchor-Based Detectors.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Unbiased_Teacher_v2_Semi-Supervised_Object_Detection_for_Anchor-Free_and_Anchor-Based_CVPR_2022_paper.pdf)
+  - Yen-Cheng Liu, Chih-Yao Ma, Zsolt Kira. *CVPR2022*
+
+- MUM: Mix Image Tiles and UnMix Feature Tiles for Semi-Supervised Object Detection.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_MUM_Mix_Image_Tiles_and_UnMix_Feature_Tiles_for_Semi-Supervised_CVPR_2022_paper.pdf)
+  - JongMok Kim, JooYoung Jang, Seunghyeon Seo, Jisoo Jeong, Jongkeun Na, Nojun Kwak. *CVPR 2022*
+
 #### 2021
 
 - Combating Noise: Semi-supervised Learning by Region Uncertainty Quantification.
