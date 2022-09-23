@@ -93,6 +93,10 @@ If you find any errors, or you wish to add some papers, please feel free to cont
 
 
 ## Codebase
+
+- Unified SSL Benchmark: A Unified Semi-supervised learning Benchmark for CV, NLP, and Audio.
+[[code]](https://github.com/microsoft/Semi-supervised-learning)
+
 - TorchSSL: A PyTorch-based Toolbox for Semi-Supervised Learning.
 [[code]](https://github.com/TorchSSL/TorchSSL)
 
