@@ -613,6 +613,12 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 ### Semantic and Instance Segmentation
 
+#### 2022
+- Semi-Supervised Video Semantic Segmentation With Inter-Frame Feature Reconstruction.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhuang_Semi-Supervised_Video_Semantic_Segmentation_With_Inter-Frame_Feature_Reconstruction_CVPR_2022_paper.pdf)
+  [[code]](https://github.com/hzhupku/SemiSeg-AEL](https://github.com/jfzhuang/IFR)
+  - Jiafan Zhuang, Zilei Wang, Yuan Gao. *CVPR 2022*
+
 #### 2021
 
 - Self-Paced Contrastive Learning for Semi-supervised Medical Image Segmentation with Meta-labels.
