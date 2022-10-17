@@ -144,7 +144,7 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ## Thesis
 - [Fundamental limitations of semi-supervised learning](https://uwspace.uwaterloo.ca/bitstream/handle/10012/4387/lumastersthesis_electronic.pdf). *Tyler Tian Lu*.
 - [Semi-Supervised Learning with Graphs](http://pages.cs.wisc.edu/~jerryzhu/pub/thesis.pdf). *Xiaojin Zhu*.
-- [Semi-Supervised Learning for Natural Language]((https://www-cs.stanford.edu/~pliang/papers/meng-thesis.pdf)). *Percy Liang*.
+- [Semi-Supervised Learning for Natural Language](https://www-cs.stanford.edu/~pliang/papers/meng-thesis.pdf). *Percy Liang*.
 
 ## Blogs
 - [Learning with not Enough Data Part 1: Semi-Supervised Learning](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/). *Lilian Weng*.
