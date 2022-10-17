@@ -141,19 +141,19 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### [here](files/generative_models.md)
 
 ## Graph Based SSL
-#### [here](files/graph_ssl.md)
+#### [list of papers here](files/graph_ssl.md)
 
 ## Theory
-#### [here](files/theory.md)
+#### [list of papers here](files/theory.md)
 
 ## Reinforcement Learning, Meta-Learning & Robotics
-#### [here](files/reinforcement_learning.md)
+#### [list of papers here](files/reinforcement_learning.md)
 
 ## Regression
-#### [here](files/regression.md)
+#### [list of papers here](files/regression.md)
 
 ## Other
-#### [here](files/other_papers.md)
+#### [list of papers here](files/other_papers.md)
 
 
 ## Talks
