@@ -128,14 +128,14 @@ and adding them to the corresponding markdown file in `files/`
 Note that for Image and Object segmentation tasks, we also include weakly-supervised
 learning methods, that uses weak labels (eg, image classes) for detection and segmentation.
 
-#### Image Classification: [here](files/img_classification.md)
-#### Semantic and Instance Segmentation: [here](files/img_segmentation.md)
-#### Object Detection: [here](files/obj_detection.md)
-#### Other tasks: [here](files/cv_other_tasks.md)
+#### Image Classification: [list of papers ](files/img_classification.md)
+#### Semantic and Instance Segmentation: [list of papers ](files/img_segmentation.md)
+#### Object Detection: [list of papers ](files/obj_detection.md)
+#### Other tasks: [list of papers ](files/cv_other_tasks.md)
 
 
 ## NLP
-#### [here](files/nlp.md)
+#### [list of papers ](files/nlp.md)
 
 ## Generative Models & Tasks
 #### [here](files/generative_models.md)
