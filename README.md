@@ -133,16 +133,29 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Image Classification
 
 #### 2022
+
 - Unsupervised Selective Labeling for More Effective Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2110.03006)
   [[code]](https://github.com/TonyLianLong/UnsupervisedSelectiveLabeling)
-  - Xudong Wang*, Long Lian*, Stella X. Yu. *ECCV 2022*
+  - Xudong Wang, Long Lian, Stella X. Yu. *ECCV 2022*
+
+- Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data.
+  [[pdf]](https://proceedings.mlr.press/v162/lai22b/lai22b.pdf)
+  - Zhengfeng Lai, Chao Wang, Henrry Gunawan, Sen-Ching S Cheung, Chen-Nee Chuah. *ICML 2022*
+
+- Class-Imbalanced Semi-Supervised Learning with Adaptive Thresholding.
+  [[pdf]](https://proceedings.mlr.press/v162/guo22e.html)
+  - Lan-Zhe Guo, Yu-Feng Li. *ICML 2022*
 
 - Continual Semi-Supervised Learning through Contrastive Interpolation Consistency.
   [[pdf]](https://arxiv.org/abs/2108.06552)
   [[code]](https://github.com/aimagelab/CSSL)
   - Matteo Boschini, Pietro Buzzega, Lorenzo Bonicelli, Angelo Porrello, Simone Calderara. *Pattern Recognition Letters 2022*
 
+- SimMatch: Semi-supervised Learning with Similarity Matching.
+  [[pdf]](https://arxiv.org/abs/2203.06915)
+  [[code]](https://github.com/kyle-1997/simmatch)
+  - Mingkai Zheng, Shan You, Lang Huang, Fei Wang, Chen Qian, Chang Xu. *CVPR 2022*
 
 - DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2106.05682)
@@ -167,11 +180,32 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[code]](https://github.com/FBLADL/ACPL)
   - Fengbei Liu, Yu Tian, Yuanhong Chen, Yuyuan Liu, Vasileios Belagiannis, Gustavo Carneiro. *CVPR 2022*
  
+- Propagation Regularizer for Semi-Supervised Learning With Extremely Scarce Labeled Samples.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Propagation_Regularizer_for_Semi-Supervised_Learning_With_Extremely_Scarce_Labeled_Samples_CVPR_2022_paper.html)
+  - Noo-ri Kim, Jee-Hyong Lee. *CVPR 2022*
+
+- Towards Discovering the Effectiveness of Moderately Confident Samples for Semi-Supervised Learning.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/html/Tang_Towards_Discovering_the_Effectiveness_of_Moderately_Confident_Samples_for_Semi-Supervised_CVPR_2022_paper.html)
+  - Hui Tang, Kui Jia. *CVPR 2022*
+
+- Safe-Student for Safe Deep Semi-Supervised Learning With Unseen-Class Unlabeled Data.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/html/He_Safe-Student_for_Safe_Deep_Semi-Supervised_Learning_With_Unseen-Class_Unlabeled_Data_CVPR_2022_paper.html)
+  - Rundong He, Zhongyi Han, Xiankai Lu, Yilong Yin. *CVPR 2022*
+
+-  DC-SSL: Addressing Mismatched Class Distribution in Semi-Supervised Learning.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_DC-SSL_Addressing_Mismatched_Class_Distribution_in_Semi-Supervised_Learning_CVPR_2022_paper.html)
+  - Zhen Zhao, Luping Zhou, Yue Duan, Lei Wang, Lei Qi, Yinghuan Shi. *CVPR 2022* 
+
 - Contrastive Regularization for Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2201.06247)
   [[code]](https://github.com/LeeDoYup/Contrastive_Regularization_for_SSL)
-  - Doyup Lee, Sungwoong Kim, Ildoo Kim, Yeongjae Cheon, Minsu Cho, Wook-Shin Han. *Preprint 2022*
-  
+  - Doyup Lee, Sungwoong Kim, Ildoo Kim, Yeongjae Cheon, Minsu Cho, Wook-Shin Han. *CVPR 2022 Workshop*
+
+- AdaMatch: A Unified Approach to Semi-Supervised Learning and Domain Adaptation.
+  [[pdf]](https://arxiv.org/abs/2106.04732)
+  - David Berthelot, Rebecca Roelofs, Kihyuk Sohn, Nicholas Carlini, Alex Kurakin. *ICLR 2022*  
+
+
 
 #### 2021
 
@@ -617,21 +651,51 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 
-
-
-
-
-
-
-
-
 ### Semantic and Instance Segmentation
 
 #### 2022
+
 - Semi-Supervised Video Semantic Segmentation With Inter-Frame Feature Reconstruction.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhuang_Semi-Supervised_Video_Semantic_Segmentation_With_Inter-Frame_Feature_Reconstruction_CVPR_2022_paper.pdf)
   [[code]](https://github.com/hzhupku/SemiSeg-AEL](https://github.com/jfzhuang/IFR)
   - Jiafan Zhuang, Zilei Wang, Yuan Gao. *CVPR 2022*
+
+- TWIST: Two-Way Inter-Label Self-Training for Semi-Supervised 3D Instance Segmentation.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chu_TWIST_Two-Way_Inter-Label_Self-Training_for_Semi-Supervised_3D_Instance_Segmentation_CVPR_2022_paper.pdf)
+  - Ruihang Chu, Xiaoqing Ye, Zhengzhe Liu, Xiao Tan, Xiaojuan Qi, Chi-Wing Fu, Jiaya Jia. *CVPR 2022*
+
+- Semi-supervised Semantic Segmentation with Error Localization Network.
+  [[pdf]](https://arxiv.org/abs/2204.02078)
+  - Donghyeon Kwon, Suha Kwak. *CVPR 2022*
+
+- UCC: Uncertainty guided Cross-head Co-training for Semi-Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/2205.10334)
+  - Jiashuo Fan, Bin Gao, Huan Jin, Lihui Jiang. *CVPR 2022*
+
+- Perturbed and Strict Mean Teachers for Semi-Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/2111.12903)
+  [[code]](https://github.com/yyliu01/PS-MT)
+  - Yuyuan Liu, Yu Tian, Yuanhong Chen, Fengbei Liu, Vasileios Belagiannis, Gustavo Carneiro. *CVPR 2022*
+
+- Cross-Patch Dense Contrastive Learning for Semi-Supervised Segmentation of Cellular Nuclei in Histopathologic Images.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Cross-Patch_Dense_Contrastive_Learning_for_Semi-Supervised_Segmentation_of_Cellular_Nuclei_CVPR_2022_paper.html)
+  - Huisi Wu, Zhaoze Wang, Youyi Song, Lin Yang, Jing Qin. *CVPR 2022*
+
+- Unbiased Subclass Regularization for Semi-Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/2203.10026)
+  - Dayan Guan, Jiaxing Huang, Aoran Xiao, Shijian Lu. *CVPR 2022*
+
+- Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?.
+  [[pdf]](https://arxiv.org/abs/2203.13427)
+  - Zhenyu Wang, Yali Li, Shengjin Wang. *CVPR 2022*
+
+- Rethinking Bayesian Deep Learning Methods for Semi-Supervised Volumetric Medical Image Segmentation.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Rethinking_Bayesian_Deep_Learning_Methods_for_Semi-Supervised_Volumetric_Medical_Image_CVPR_2022_paper.html)
+  - Jianfeng Wang, Thomas Lukasiewicz. *CVPR 2022*
+
+- Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels.
+  [[pdf]](https://arxiv.org/abs/2203.03884)
+  - Yuchao Wang, Haochen Wang, Yujun Shen, Jingjing Fei, Wei Li, Guoqiang Jin, Liwei Wu, Rui Zhao, Xinyi Le. *CVPR 2022*
 
 #### 2021
 
@@ -930,6 +994,15 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_MUM_Mix_Image_Tiles_and_UnMix_Feature_Tiles_for_Semi-Supervised_CVPR_2022_paper.pdf)
   - JongMok Kim, JooYoung Jang, Seunghyeon Seo, Jisoo Jeong, Jongkeun Na, Nojun Kwak. *CVPR 2022*
 
+- Group R-CNN for Weakly Semi-supervised Object Detection with Points.
+  [[pdf]](https://arxiv.org/abs/2205.05920)
+  - Shilong Zhang, Zhuoran Yu, Liyang Liu, Xinjiang Wang, Aojun Zhou, Kai Chen. *CVPR 2022*
+
+- Group R-CNN for Weakly Semi-supervised Object Detection with Points.
+  [[pdf]](https://arxiv.org/abs/2205.05920)
+  - Shilong Zhang, Zhuoran Yu, Liyang Liu, Xinjiang Wang, Aojun Zhou, Kai Chen. *CVPR 2022*
+
+
 #### 2021
 
 - Combating Noise: Semi-supervised Learning by Region Uncertainty Quantification.
@@ -1065,10 +1138,67 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 #### 2022
 
+- PLATINUM: Semi-Supervised Model Agnostic Meta-Learning using Submodular Mutual Information.
+  [[pdf]](https://arxiv.org/abs/2201.12928)
+  - Changbin Li, Suraj Kothawade, Feng Chen, Rishabh Iyer. *ICML 2022*
+
+- HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning.
+  [[pdf]](https://arxiv.org/abs/2201.04182)
+  - Andrey Zhmoginov, Mark Sandler, Max Vladymyrov. *ICML 2022*
+
 - End-to-End Semi-Supervised Learning for Video Action Detection.
   [[pdf]](https://arxiv.org/abs/2203.04251)
   [[code]](https://github.com/AKASH2907/End-to-End-Semi-Supervised-Learning-for-Video-Action-Detection)
   - Akash Kumar, Yogesh Singh Rawat. *CVPR 2022*
+
+- Learning From Temporal Gradient for Semi-Supervised Action Recognition.
+  [[pdf]](https://arxiv.org/abs/2111.13241)
+  - Junfei Xiao, Longlong Jing, Lin Zhang, Ju He, Qi She, Zongwei Zhou, Alan Yuille, Yingwei Li. *CVPR 2022*
+
+- Semi-Weakly-Supervised Learning of Complex Actions From Instructional Task Videos.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/html/Shen_Semi-Weakly-Supervised_Learning_of_Complex_Actions_From_Instructional_Task_Videos_CVPR_2022_paper.html)
+  - Yuhan Shen, Ehsan Elhamifar. *CVPR 2022*
+
+- BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation.
+  [[pdf]](https://arxiv.org/abs/2203.02533)
+  - Wenqiao Zhang, Lei Zhu, James Hallinan, Andrew Makmur, Shengyu Zhang, Qingpeng Cai, Beng Chin Ooi. *CVPR 2022*
+
+- Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer.
+  [[pdf]](https://arxiv.org/abs/2109.08024)
+  - Fushun Zhu, Shan Zhao, Peng Wang, Hao Wang, Hua Yan, Shuaicheng Liu. *CVPR 2022*
+
+- FisherMatch: Semi-Supervised Rotation Regression via Entropy-based Filtering.
+  [[pdf]](https://arxiv.org/abs/2203.15765)
+  - Yingda Yin, Yingcheng Cai, He Wang, Baoquan Chen. *CVPR 2022*
+
+- Semi-Supervised Few-Shot Learning via Multi-Factor Clustering.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/html/Ling_Semi-Supervised_Few-Shot_Learning_via_Multi-Factor_Clustering_CVPR_2022_paper.html)
+  - Jie Ling, Lei Liao, Meng Yang, Jia Shuai. *CVPR 2022*
+
+- Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin.
+  [[pdf]](https://arxiv.org/abs/2203.12341)
+  [[code]](https://github.com/hangyu94/Ada-CM)
+  - Hangyu Li, Nannan Wang, Xi Yang, Xiaoyu Wang, Xinbo Gao. *CVPR 2022*
+
+- Semi-Supervised Video Paragraph Grounding With Contrastive Encoder.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/html/Jiang_Semi-Supervised_Video_Paragraph_Grounding_With_Contrastive_Encoder_CVPR_2022_paper.html)
+  - Xun Jiang, Xing Xu, Jingran Zhang, Fumin Shen, Zuo Cao, Heng Tao Shen. *CVPR 2022*
+
+- End-to-End Semi-Supervised Learning for Video Action Detection.
+  [[pdf]](https://arxiv.org/abs/2203.04251)
+  - Akash Kumar, Yogesh Singh Rawat. *CVPR 2022*
+
+- Cross-Model Pseudo-Labeling for Semi-Supervised Action Recognition.
+  [[pdf]](https://arxiv.org/abs/2112.09690)
+  - Yinghao Xu, Fangyun Wei, Xiao Sun, Ceyuan Yang, Yujun Shen, Bo Dai, Bolei Zhou, Stephen Lin. *CVPR 2022*
+
+- Gradient-SDF: A Semi-Implicit Surface Representation for 3D Reconstruction.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/html/Sommer_Gradient-SDF_A_Semi-Implicit_Surface_Representation_for_3D_Reconstruction_CVPR_2022_paper.html)
+  - Christiane Sommer, Lu Sang, David Schubert, Daniel Cremers. *CVPR 2022*
+
+- Semi-Supervised Learning of Semantic Correspondence with Pseudo-Labels.
+  [[pdf]](https://arxiv.org/abs/2203.16038)
+  - Jiwon Kim, Kwangrok Ryoo, Junyoung Seo, Gyuseong Lee, Daehwan Kim, Hansang Cho, Seungryong Kim. *CVPR 2022*
 
 #### 2021
 
@@ -1734,11 +1864,24 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 ## Generative Models & Tasks
 
+#### 2022
+
+- SphericGAN: Semi-supervised Hyper-spherical Generative Adversarial Networks for Fine-grained Image Synthesis.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_SphericGAN_Semi-Supervised_Hyper-Spherical_Generative_Adversarial_Networks_for_Fine-Grained_Image_Synthesis_CVPR_2022_paper.pdf)
+  - Tianyi Chen, Yi Liu, Yunfei Zhang, Si Wu, Yong Xu, Feng Liangbing, Hau San Wong. *CVPR 2022*
+
+- OSSGAN: Open-Set Semi-Supervised Image Generation.
+  [[pdf]](https://arxiv.org/abs/2204.14249) 
+  [[code]](https://github.com/raven38/OSSGAN)
+  - Kai Katsumata, Duc Minh Vo, Hideki Nakayama. *CVPR 2022*
+
+
+
 #### 2021
 
 - Semi-Supervised Single-Stage Controllable GANs for Conditional Fine-Grained Image Generation.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Semi-Supervised_Single-Stage_Controllable_GANs_for_Conditional_Fine-Grained_Image_Generation_ICCV_2021_paper.html)
-  - Tianyi Chen, Yi Liu, Yunfei Zhang, Si Wu, Yong Xu, Feng Liangbing, Hau San Wong. *ICML 2021*
+  - Yingda Yin, Yingcheng Cai, He Wang, Baoquan Chen. *ICML 2021*
 
 - Unified Robust Semi-Supervised Variational Autoencoder.
   [[pdf]](http://proceedings.mlr.press/v139/chen21a.html)
@@ -1751,6 +1894,8 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - Mask-Embedded Discriminator With Region-Based Semantic Regularization for Semi-Supervised Class-Conditional Image Synthesis.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Mask-Embedded_Discriminator_With_Region-Based_Semantic_Regularization_for_Semi-Supervised_Class-Conditional_Image_CVPR_2021_paper.pdf)
   - Yi Liu, Xiaoyang Huo, Tianyi Chen, Xiangping Zeng, Si Wu, Zhiwen Yu, Hau-San Wong. *CVPR 2021*
+
+
 
 #### 2020
 
@@ -2364,12 +2509,17 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 
-
-
-
-
-
 ## Other
+
+#### 2022
+
+- RSCFed: Random Sampling Consensus Federated Semi-supervised Learning. 
+  [[pdf]](https://arxiv.org/abs/2203.13993) 
+  - Xiaoxiao Liang, Yiqun Lin, Huazhu Fu, Lei Zhu, Xiaomeng Li. *CVPR 2022*
+
+- NP-Match: When Neural Processes meet Semi-Supervised Learning. 
+  [[pdf]](https://arxiv.org/abs/2207.01066) 
+  - Jianfeng Wang, Thomas Lukasiewicz, Daniela Massiceti, Xiaolin Hu, Vladimir Pavlovic, Alexandros Neophytou. *ICML 2022*
 
 #### 2018
 
@@ -2412,21 +2562,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   - *CMU Machine Learning 10-701, Tom M. Mitchell .* 
 
 
-
-
-
-
-
-
 ## Thesis
 - Fundamental limitations of semi-supervised learnin. *Tyler Tian Lu.* [[pdf]](https://uwspace.uwaterloo.ca/bitstream/handle/10012/4387/lumastersthesis_electronic.pdf).
 - Semi-Supervised Learning with Graphs. *Xiaojin Zhu.* [[pdf]](http://pages.cs.wisc.edu/~jerryzhu/pub/thesis.pdf).
 - Semi-Supervised Learning for Natural Language. *Percy Liang.* [[pdf]](https://www-cs.stanford.edu/~pliang/papers/meng-thesis.pdf).
-
-
-
-
-
 
 
 ## Blogs
