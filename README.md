@@ -88,17 +88,12 @@ and adding them to the corresponding markdown file in `files/`
 
 ## Books
 
-- Semi-Supervised Learning Book.
-  [[pdf]](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)
-  - Olivier Chapelle, Bernhard Schölkopf, Alexander Zien. *IEEE Transactions on Neural Networks 2009*
+- [Semi-Supervised Learning Book](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf). Olivier Chapelle, Bernhard Schölkopf, Alexander Zien. *IEEE Transactions on Neural Networks 2009*
 
 ## Codebase
 
-- Unified SSL Benchmark: A Unified Semi-supervised learning Benchmark for CV, NLP, and Audio.
-[[code]](https://github.com/microsoft/Semi-supervised-learning)
-
-- TorchSSL: A PyTorch-based Toolbox for Semi-Supervised Learning.
-[[code]](https://github.com/TorchSSL/TorchSSL)
+- [Unified SSL Benchmark: A Unified Semi-supervised learning Benchmark for CV, NLP, and Audio](https://github.com/microsoft/Semi-supervised-learning).
+- [TorchSSL: A PyTorch-based Toolbox for Semi-Supervised Learning](https://github.com/TorchSSL/TorchSSL).
 
 ## Surveys & Overview
 
@@ -147,13 +142,13 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 - [Semi-Supervised Learning](https://www.youtube.com/watch?v=OMRlnKupsXM), [[slides]](https://www.cs.cmu.edu/%7Etom/10701_sp11/slides/LabUnlab-3-17-2011.pdf). *CMU Machine Learning 10-701, Tom M. Mitchell.* 
 
 ## Thesis
-- Fundamental limitations of semi-supervised learnin. *Tyler Tian Lu.* [[pdf]](https://uwspace.uwaterloo.ca/bitstream/handle/10012/4387/lumastersthesis_electronic.pdf).
-- Semi-Supervised Learning with Graphs. *Xiaojin Zhu.* [[pdf]](http://pages.cs.wisc.edu/~jerryzhu/pub/thesis.pdf).
-- Semi-Supervised Learning for Natural Language. *Percy Liang.* [[pdf]](https://www-cs.stanford.edu/~pliang/papers/meng-thesis.pdf).
+- [Fundamental limitations of semi-supervised learning](https://uwspace.uwaterloo.ca/bitstream/handle/10012/4387/lumastersthesis_electronic.pdf). *Tyler Tian Lu*.
+- [Semi-Supervised Learning with Graphs](http://pages.cs.wisc.edu/~jerryzhu/pub/thesis.pdf). *Xiaojin Zhu*.
+- [Semi-Supervised Learning for Natural Language]((https://www-cs.stanford.edu/~pliang/papers/meng-thesis.pdf)). *Percy Liang*.
 
 ## Blogs
-- Learning with not Enough Data Part 1: Semi-Supervised Learning. *Lilian Weng.* [[link]](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/).
-- An overview of proxy-label approaches for semi-supervised learning. *Sebastian Ruder.* [[link]](https://ruder.io/semi-supervised/index.html).
-- The Illustrated FixMatch for Semi-Supervised Learning. *Amit Chaudhary.* [[link]](https://amitness.com/2020/03/fixmatch-semi-supervised/)
-- An Overview of Deep Semi-Supervised Learning. *Yassine Ouali* [[link]](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
-- Semi-Supervised Learning in Computer Vision. *Amit Chaudhary* [[link]](https://amitness.com/2020/07/semi-supervised-learning/)
+- [Learning with not Enough Data Part 1: Semi-Supervised Learning](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/). *Lilian Weng*.
+- [An overview of proxy-label approaches for semi-supervised learning](https://ruder.io/semi-supervised/index.html). *Sebastian Ruder*.
+- [The Illustrated FixMatch for Semi-Supervised Learning](https://amitness.com/2020/03/fixmatch-semi-supervised/). *Amit Chaudhary*.
+- [An Overview of Deep Semi-Supervised Learning](https://yassouali.github.io/ml-blog/deep-semi-supervised/). *Yassine Ouali*.
+- [Semi-Supervised Learning in Computer Vision](https://amitness.com/2020/07/semi-supervised-learning/). *Amit Chaudhary*.
