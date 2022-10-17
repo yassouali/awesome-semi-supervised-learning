@@ -138,6 +138,12 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
   [[code]](https://github.com/TonyLianLong/UnsupervisedSelectiveLabeling)
   - Xudong Wang*, Long Lian*, Stella X. Yu. *ECCV 2022*
 
+- Continual Semi-Supervised Learning through Contrastive Interpolation Consistency.
+  [[pdf]](https://arxiv.org/abs/2108.06552)
+  [[code]](https://github.com/aimagelab/CSSL)
+  - Matteo Boschini, Pietro Buzzega, Lorenzo Bonicelli, Angelo Porrello, Simone Calderara. *Pattern Recognition Letters 2022*
+
+
 - DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2106.05682)
   [[code]](https://github.com/ytaek-oh/daso)
