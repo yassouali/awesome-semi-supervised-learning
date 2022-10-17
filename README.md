@@ -133,6 +133,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Image Classification
 
 #### 2022
+- Unsupervised Selective Labeling for More Effective Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2110.03006)
+  [[code]](https://github.com/TonyLianLong/UnsupervisedSelectiveLabeling)
+  - Xudong Wang*, Long Lian*, Stella X. Yu. *ECCV 2022*
 
 - DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2106.05682)
