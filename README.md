@@ -110,13 +110,13 @@ and adding them to the corresponding markdown file in `files/`
 
 ## Computer Vision
 
-Note that for Image and Object segmentation tasks, we also include weakly-supervised
-learning methods, that uses weak labels (eg, image classes) for detection and segmentation.
-
 - Image Classification: [list of papers here](files/img_classification.md)
 - Semantic and Instance Segmentation: [list of papers here](files/img_segmentation.md)
 - Object Detection: [list of papers here](files/obj_detection.md)
 - Other tasks: [list of papers here](files/cv_other_tasks.md)
+
+Note that for Image and Object segmentation tasks, we also include weakly-supervised
+learning methods, that uses weak labels (eg, image classes) for detection and segmentation.
 
 ## NLP
 #### [list of papers here](files/nlp.md)
