@@ -134,7 +134,8 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 #### Other tasks: [here](files/cv_other_tasks.md)
 
 
-## NLP: [here](files/nlp.md)
+## NLP
+#### [here](files/nlp.md)
 
 ## Generative Models & Tasks: [here](files/generative_models.md)
 
