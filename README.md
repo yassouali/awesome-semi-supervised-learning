@@ -141,10 +141,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 ## Talks
-- Semi-Supervised Learning and Unsupervised Distribution Alignment. [[youtube]](https://www.youtube.com/watch?v=PXOhi6m09bA). *CS294-158-SP20 UC Berkeley.* 
-- Semi-Supervised Learning and Unsupervised Distribution Alignment. [[youtube]](https://www.youtube.com/watch?v=j_-JaMPnhr0). *Pydata, Andreas Merentitis, Carmine Paolino, Vaibhav Singh.*
-- Overview of Unsupervised & Semi-supervised learning. [[youtube]](https://www.youtube.com/watch?v=tnpXLK_AS_U). *AISC, Shazia Akbar.* 
-- Semi-Supervised Learning. [[youtube]](https://www.youtube.com/watch?v=OMRlnKupsXM) [[slides]](https://www.cs.cmu.edu/%7Etom/10701_sp11/slides/LabUnlab-3-17-2011.pdf). *CMU Machine Learning 10-701, Tom M. Mitchell.* 
+- [Semi-Supervised Learning and Unsupervised Distribution Alignment](https://www.youtube.com/watch?v=PXOhi6m09bA). *CS294-158-SP20 UC Berkeley.* 
+- [Semi-supervised learning with GANs](https://www.youtube.com/watch?v=j_-JaMPnhr0). *Pydata, Andreas Merentitis, Carmine Paolino, Vaibhav Singh.*
+- [Overview of Unsupervised & Semi-supervised learning](https://www.youtube.com/watch?v=tnpXLK_AS_U). *AISC, Shazia Akbar.* 
+- [Semi-Supervised Learning](https://www.youtube.com/watch?v=OMRlnKupsXM), [[slides]](https://www.cs.cmu.edu/%7Etom/10701_sp11/slides/LabUnlab-3-17-2011.pdf). *CMU Machine Learning 10-701, Tom M. Mitchell.* 
 
 ## Thesis
 - Fundamental limitations of semi-supervised learnin. *Tyler Tian Lu.* [[pdf]](https://uwspace.uwaterloo.ca/bitstream/handle/10012/4387/lumastersthesis_electronic.pdf).
