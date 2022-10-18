@@ -64,7 +64,8 @@ If you find any errors, or you wish to add some papers, please feel free to cont
   - Author 1, Author 2, and Author 3. *Conference Year*
 ```
 
-and adding them to the corresponding markdown file in `files/`
+and adding them to the corresponding markdown file in `files/`.
+
 <!-- 
 ## Table of contents
 
