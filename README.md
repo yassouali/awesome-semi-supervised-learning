@@ -114,25 +114,25 @@ Note that for Image and Object segmentation tasks, we also include weakly-superv
 learning methods, that uses weak labels (eg, image classes) for detection and segmentation.
 
 ## NLP
-#### [list of papers here](files/nlp.md)
+#### [List of papers here](files/nlp.md)
 
 ## Generative Models & Tasks
-#### [list of papers here](files/generative_models.md)
+#### [List of papers here](files/generative_models.md)
 
 ## Graph Based SSL
-#### [list of papers here](files/graph_ssl.md)
+#### [List of papers here](files/graph_ssl.md)
 
 ## Theory
-#### [list of papers here](files/theory.md)
+#### [List of papers here](files/theory.md)
 
 ## Reinforcement Learning, Meta-Learning & Robotics
-#### [list of papers here](files/reinforcement_learning.md)
+#### [List of papers here](files/reinforcement_learning.md)
 
 ## Regression
-#### [list of papers here](files/regression.md)
+#### [List of papers here](files/regression.md)
 
 ## Other
-#### [list of papers here](files/other_papers.md)
+#### [List of papers here](files/other_papers.md)
 
 
 ## Talks
