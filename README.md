@@ -65,7 +65,7 @@ If you find any errors, or you wish to add some papers, please feel free to cont
 ```
 
 and adding them to the corresponding markdown file in `files/`
-
+<!-- 
 ## Table of contents
 
   - [Books](#books)
@@ -80,7 +80,7 @@ and adding them to the corresponding markdown file in `files/`
   - [Other](#other)
   - [Talks](#talks)
   - [Thesis](#thesis)
-  - [Blogs](#blogs)
+  - [Blogs](#blogs) -->
 
 ## Books
 
