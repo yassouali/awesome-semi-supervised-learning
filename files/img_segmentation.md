@@ -5,7 +5,7 @@
 
 - Semi-Supervised Video Semantic Segmentation With Inter-Frame Feature Reconstruction.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhuang_Semi-Supervised_Video_Semantic_Segmentation_With_Inter-Frame_Feature_Reconstruction_CVPR_2022_paper.pdf)
-  [[code]](https://github.com/hzhupku/SemiSeg-AEL](https://github.com/jfzhuang/IFR)
+  [[code]](https://github.com/jfzhuang/IFR)
   - Jiafan Zhuang, Zilei Wang, Yuan Gao. *CVPR 2022*
 
 - TWIST: Two-Way Inter-Label Self-Training for Semi-Supervised 3D Instance Segmentation.
