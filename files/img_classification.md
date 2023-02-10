@@ -1,6 +1,21 @@
 
 ## Image Classification
 
+### 2023
+
+- FreeMatch: Self-adaptive Thresholding for Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2205.07246)
+  [[code]](https://github.com/microsoft/Semi-supervised-learning)
+  - Yidong Wang, Hao Chen, Qiang Heng, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. *ICLR 2023*
+
+
+- SoftMatch: Addressing the Quantity-Quality Trade-off in Semi-supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2301.10921)  
+  [[code]](https://github.com/microsoft/Semi-supervised-learning)
+  - Hao Chen, Ran Tao, Yue Fan, Yidong Wang, Jindong Wang, Bernt Schiele, Xing Xie, Bhiksha Raj, Marios Savvides. *ICLR 2023*
+
+
+
 ### 2022
 
 - Unsupervised Selective Labeling for More Effective Semi-Supervised Learning.
