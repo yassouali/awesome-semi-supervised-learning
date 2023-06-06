@@ -2,6 +2,9 @@
 ## Image Classification
 
 ### 2023
+- Semi-supervised learning made simple with self-supervised clustering.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/html/Fini_Semi-Supervised_Learning_Made_Simple_With_Self-Supervised_Clustering_CVPR_2023_paper.html)
+  - Enrico Fini, Pietro Astolfi, Karteek Alahari, Xavier Alameda-Pineda, Julien Mairal, Moin Nabi, Elisa Ricci *CVPR 2023*
 
 - FreeMatch: Self-adaptive Thresholding for Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2205.07246)
