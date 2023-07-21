@@ -20,6 +20,9 @@
 
 
 ### 2022
+- On Non-Random Missing Labels In Semi-Supervised Learning
+  [[pdf]](https://arxiv.org/abs/2206.14923)
+  - Xinting Hu, Yulei Niu, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang, *ICLR 2022*
 
 - Unsupervised Selective Labeling for More Effective Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2110.03006)
