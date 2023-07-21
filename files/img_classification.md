@@ -19,7 +19,29 @@
 
 
 
+
 ### 2022
+
+- Semi-supervised Vision Transformers at Scale.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/a4a1ee071ce0fe63b83bce507c9dc4d7-Abstract-Conference.html)
+  - Zhaowei Cai, Avinash Ravichandran, Paolo Favaro, Manchen Wang, Davide Modolo, Rahul Bhotika, Zhuowen Tu, Stefano Soatto. *Neurips 2022*
+
+- Debiased Self-Training for Semi-Supervised Learning.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/d10d6b28d74c4f0fcab588feeb6fe7d6-Abstract-Conference.html)
+  - Baixu Chen, Junguang Jiang, Ximei Wang, Pengfei Wan, Jianmin Wang, Mingsheng Long. *Neurips 2022*
+
+- Robust Semi-Supervised Learning when Not All Classes have Labels.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/15dce910311b9bd82ca24f634148519a-Abstract-Conference.html)
+  - Lan-Zhe Guo, Yi-Ge Zhang, Zhi-Fan Wu, Jie-Jing Shao, Yu-Feng Li. *Neurips 2022*
+
+- USB: A Unified Semi-supervised Learning Benchmark for Classification.
+  [[pdf]](https://papers.nis.cc/paper_files/paper/2022/hash/190dd6a5735822f05646dc27decff19b-Abstract-Datasets_and_Benchmarks.html)
+  - Yidong Wang et al. *Neurips 2022*
+
+- An Embarrassingly Simple Approach to Semi-Supervised Few-Shot Learning.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/5d3b57e06e3fc45f077eb5c9f28156d4-Abstract-Conference.html)
+  - Xiu-Shen Wei, H.-Y. Xu, Faen Zhang, Yuxin Peng, Wei Zhou. *Neurips 2022*
+
 - On Non-Random Missing Labels In Semi-Supervised Learning
   [[pdf]](https://arxiv.org/abs/2206.14923)
   - Xinting Hu, Yulei Niu, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang, *ICLR 2022*

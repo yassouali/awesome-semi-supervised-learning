@@ -3,6 +3,14 @@
 
 ### 2022
 
+- Semi-Supervised Semantic Segmentation via Gentle Teaching Assistant.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/12d286282e1be5431ea05262a21f415c-Abstract-Conference.html)
+  - Ying Jin, Jiaqi Wang, Dahua Lin. *Neurips 2022*
+
+- Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/a70ee7ea485e4fd36abbfc4adf591c28-Abstract-Conference.html)
+  - Haiming Xu, Lingqiao Liu, Qiuchen Bian, Zhen Yang. *Neurips 2022*
+
 - Semi-Supervised Video Semantic Segmentation With Inter-Frame Feature Reconstruction.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhuang_Semi-Supervised_Video_Semantic_Segmentation_With_Inter-Frame_Feature_Reconstruction_CVPR_2022_paper.pdf)
   [[code]](https://github.com/jfzhuang/IFR)

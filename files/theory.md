@@ -1,5 +1,11 @@
 ## Theory
 
+### 2022
+
+- A Characterization of Semi-Supervised Adversarially Robust PAC Learnability.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/95a704bd2fdf8ef8242b4adcc7ce3c93-Abstract-Conference.html)
+  - Idan Attias, Steve Hanneke, Yishay Mansour. *Neurips 2022*
+
 ### 2021
 
 - Overcoming the curse of dimensionality with Laplacian regularization in semi-supervised learning.

@@ -3,6 +3,14 @@
 
 ### 2022
 
+- Semi-Supervised Video Salient Object Detection Based on Uncertainty-Guided Pseudo Labels.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/24f7b98aef14fcd68acf3c941af1b59e-Abstract-Conference.html)
+  - Yongri Piao, Chenyang Lu, Miao Zhang, Huchuan Lu. *Neurips 2022*
+
+- DTG-SSOD: Dense Teacher Guidance for Semi-Supervised Object Detection.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/3a02b6df276223b68c69ca572cb3c4a8-Abstract-Conference.html)
+  - Gang Li, Xiang Li, Yujie Wang, Wu Yichao, Ding Liang, Shanshan Zhang. *Neurips 2022*
+
 - Dense Learning Based Semi-Supervised Object Detection.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Dense_Learning_Based_Semi-Supervised_Object_Detection_CVPR_2022_paper.pdf)
   - Binghui Chen, Pengyu Li, Xiang Chen, Biao Wang, Lei Zhang, Xian-Sheng Hua. *CVPR 2022*

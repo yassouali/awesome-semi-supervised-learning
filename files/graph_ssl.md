@@ -1,5 +1,15 @@
 ## Graph Based SSL
 
+### 2022
+
+- Semi-Supervised Learning with Decision Trees: Graph Laplacian Tree Alternating Optimization.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/104f7b25495a0e40e65fb7c7eee37ed9-Abstract-Conference.html)
+  - Arman Zharmagambetov, Miguel A. Carreira-Perpinan. *Neurips 2022*
+
+- Label-invariant Augmentation for Semi-Supervised Graph Classification.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/bcc0b4fc47c21e143461bb98c1d55926-Abstract-Conference.html)
+  - Han Yue, Chunhui Zhang, Chuxu Zhang, Hongfu Liu. *Neurips 2022*
+
 ### 2021
 
 - Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels.

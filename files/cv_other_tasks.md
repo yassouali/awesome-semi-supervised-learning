@@ -3,6 +3,10 @@
 
 ### 2022
 
+- Category-Level 6D Object Pose Estimation in the Wild: A Semi-Supervised Learning Approach and A New Dataset.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/afe99e55be23b3523818da1fefa33494-Abstract-Conference.html)
+  - Yanjie Ze, Xiaolong Wang. *Neurips 2022*
+
 - PLATINUM: Semi-Supervised Model Agnostic Meta-Learning using Submodular Mutual Information.
   [[pdf]](https://arxiv.org/abs/2201.12928)
   - Changbin Li, Suraj Kothawade, Feng Chen, Rishabh Iyer. *ICML 2022*

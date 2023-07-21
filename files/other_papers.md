@@ -1,7 +1,11 @@
-
 ## Other
 
 ### 2022
+
+- SemiFL: Semi-Supervised Federated Learning for Unlabeled Clients with Alternate Training.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/71c3451f6cd6a4f82bb822db25cea4fd-Abstract-Conference.html)
+  - Enmao Diao, Jie Ding, Vahid Tarokh. *Neurips 2022*
+
 
 - RSCFed: Random Sampling Consensus Federated Semi-supervised Learning. 
   [[pdf]](https://arxiv.org/abs/2203.13993) 

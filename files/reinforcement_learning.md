@@ -1,5 +1,10 @@
 ## Reinforcement Learning, Meta-Learning & Robotics
 
+### 2022
+
+- Semi-Supervised Generative Models for Multiagent Trajectories.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/f1fb6b2746332167f6670655372186cb-Abstract-Conference.html)
+  - Dennis Fassmeyer, Pascal Fassmeyer, Ulf Brefeld. *Neurips 2022*
 ### 2020
 
 - Semi-Supervised Neural Architecture Search.

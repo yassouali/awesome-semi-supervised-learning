@@ -1,5 +1,11 @@
 ## Regression
 
+### 2022
+
+- Semi-supervised Active Linear Regression.
+  [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/08fe4b20d554296e503f5a43795c78d6-Abstract-Conference.html)
+  - Nived Rajaraman, Fnu Devvrit, Pranjal Awasthi. *Neurips 2022*
+
 ### 2018
 
 - Minimax-optimal semi-supervised regression on unknown manifolds. 
