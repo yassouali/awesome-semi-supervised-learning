@@ -1,6 +1,56 @@
 
 ## Other tasks
 
+### 2023
+
+- Semi-Supervised Parametric Real-World Image Harmonization. 
+  [[project page]](https://people.eecs.berkeley.edu/~kewang/sprih/) 
+  - Ke Wang, Michaël Gharbi, He Zhang, Zhihao Xia, and Eli Shechtman. *CVPR 2023*
+
+- Contrastive Semi-Supervised Learning for Underwater Image Restoration via Reliable Bank. 
+  [[project page]](https://github.com/Huang-ShiRui/Semi-UIR) 
+  - Shirui Huang, Keyan Wang, Huan Liu, Jun Chen, and Yunsong Li. *CVPR 2023*
+
+- RefTeacher: A Strong Baseline for Semi-Supervised Referring Expression Comprehension. 
+  [[project page]](https://refteacher.github.io/) 
+  - Jiamu Sun, Gen Luo, Yiyi Zhou, Xiaoshuai Sun, Guannan Jiang, Zhiyu Wang, and Rongrong Ji. *2023*
+
+- TimeBalance: Temporally-Invariant and Temporally-Distinctive Video Representations for Semi-Supervised Action Recognition. 
+  [[project page]](https://daveishan.github.io/timebalance_webpage/) 
+  - Ishan Rajendrakumar Dave, Mamshad Nayeem Rizve, Chen Chen, and Mubarak Shah. *2023*
+
+- Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting. 
+  [[project page]](https://github.com/Elin24/OT-M) 
+  - Wei Lin, and Antoni B. Chan. *2023*
+
+- Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning. 
+  [[project page]](https://github.com/rain305f/OSP) 
+  - Yu Wang, Pengchong Qiao, Chang Liu, Guoli Song, Xiawu Zheng, and Jie Chen. *2023*
+
+- CHMATCH: Contrastive Hierarchical Matching and Robust Adaptive Threshold Boosted Semi-Supervised Learning. 
+  [[project page]](https://github.com/sailist/CHMatch) 
+  - Jianlong Wu, Haozhe Yang, Tian Gan, Ning Ding, Feijun Jiang, and Liqiang Nie.
+
+- A New Comprehensive Benchmark for Semi-Supervised Video Anomaly Detection and Anticipation. 
+  [[project page]](https://campusvad.github.io/) 
+  - Congqi Cao, Yue Lu, Peng Wang, and Yanning Zhang. *2023*
+
+- Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need. 
+  [[project page]](https://github.com/Gank0078/ACR) 
+  - Tong Wei, and Kai Gan. *2023*
+
+- Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module. 
+  [[project page]](https://github.com/hlz0606/SSPCM) 
+  - Linzhi Huang, Yulong Li, Hongbo Tian, Yue Yang, Xiangang Li, Weihong Deng, and Jieping Ye. *2023*
+
+- Semi-Supervised Domain Adaptation With Source Label Adaptation. 
+  [[project page]](https://github.com/chu0802/SLA) 
+  - Yu-Chu Yu, and Hsuan-Tien Lin. *2023*
+
+- Semi-Supervised Hand Appearance Recovery via Structure Disentanglement and Dual Adversarial Discrimination. 
+  [[project page]](https://www.yangangwang.com/papers/CVPR2023/ZHAO-SHAR-2023-03.html) 
+  - Zimeng Zhao, Binghui Zuo, Zhiyu Long, and Yangang Wang. *2023*
+
 ### 2022
 
 - Category-Level 6D Object Pose Estimation in the Wild: A Semi-Supervised Learning Approach and A New Dataset.

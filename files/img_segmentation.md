@@ -1,6 +1,40 @@
 
 ## Semantic and Instance Segmentation
 
+### 2023
+
+- Fuzzy Positive Learning for Semi-Supervised Semantic Segmentation. 
+  [[project page]](https://github.com/qpc1611094/FPL) 
+  - Pengchong Qiao, Zhidan Wei, Yu Wang, Zhennan Wang, Guoli Song, Fan Xu, Xiangyang Ji, Chang Liu, and Jie Chen. *CVPR 2023*
+
+- Instance-Specific and Model-Adaptive Supervision for Semi-Supervised Semantic Segmentation. 
+  [[project page]](https://github.com/ZhenZHAO/iMAS) 
+  - Zhen Zhao, Sifan Long, Jimin Pi, Jingdong Wang, and Luping Zhou. *CVPR 2023*
+
+- Augmentation Matters: A Simple-Yet-Effective Approach to Semi-Supervised Semantic Segmentation. 
+  [[project page]](https://github.com/ZhenZHAO/AugSeg) 
+  - Zhen Zhao, Lihe Yang, Sifan Long, Jimin Pi, Luping Zhou, and Jingdong Wang. *CVPR 2023*
+
+- Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation. 
+  [[project page]](https://github.com/xiaoyao3302/CCVC) 
+  - Zicheng Wang, Zhen Zhao, Xiaoxia Xing, Dong Xu, Xiangyu Kong, and Luping Zhou. *CVPR 2023*
+
+- Hunting Sparsity: Density-Guided Contrastive Learning for Semi-Supervised Semantic Segmentation. 
+  [[project page]](https://github.com/Gavinwxy/DGCL) 
+  - Xiaoyang Wang, Bingfeng Zhang, Limin Yu, and Jimin Xiao. *CVPR 2023*
+
+- SemiCVT: Semi-Supervised Convolutional Vision Transformer for Semantic Segmentation. 
+  [[project page]](https://www.youtube.com/watch?v=vEHqV-LGrTU) 
+  - Huimin Huang, Shiao Xie, Lanfen Lin, Ruofeng Tong, Yen-Wei Chen, Yuexiang Li, Hong Wang, Yawen Huang, and Yefeng Zheng. *CVPR 2023*
+
+- LaserMix for Semi-Supervised LiDAR Semantic Segmentation. 
+  [[project page]](https://ldkong.com/LaserMix) 
+  - Lingdong Kong, Jiawei Ren, Liang Pan, and Ziwei Liu. *CVPR 2023*
+
+- Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation. 
+  [[project page]](https://github.com/LiheYoung/UniMatch) 
+  - Lihe Yang, Lei Qi, Litong Feng, Wayne Zhang, and Yinghuan Shi. *CVPR 2023*
+
 ### 2022
 
 - Semi-Supervised Semantic Segmentation via Gentle Teaching Assistant.

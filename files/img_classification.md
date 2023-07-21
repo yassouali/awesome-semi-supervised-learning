@@ -2,6 +2,7 @@
 ## Image Classification
 
 ### 2023
+
 - Semi-supervised learning made simple with self-supervised clustering.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/html/Fini_Semi-Supervised_Learning_Made_Simple_With_Self-Supervised_Clustering_CVPR_2023_paper.html)
   - Enrico Fini, Pietro Astolfi, Karteek Alahari, Xavier Alameda-Pineda, Julien Mairal, Moin Nabi, Elisa Ricci. *CVPR 2023*
@@ -14,6 +15,14 @@
 - SoftMatch: Addressing the Quantity-Quality Trade-off in Semi-supervised Learning.
   [[pdf]](https://arxiv.org/abs/2301.10921) [[code]](https://github.com/microsoft/Semi-supervised-learning)
   - Hao Chen, Ran Tao, Yue Fan, Yidong Wang, Jindong Wang, Bernt Schiele, Xing Xie, Bhiksha Raj, Marios Savvides. *ICLR 2023*
+
+- Boosting Semi-Supervised Learning by Exploiting All Unlabeled Data. 
+  [[project page]](https://github.com/megvii-research/FullMatch) 
+  - Yuhao Chen, Xin Tan, Borui Zhao, Zhaowei Chen, Renjie Song, Jiajun Liang, and Xuequan Lu. *CVPR 2023*
+
+- PEFAT: Boosting Semi-Supervised Medical Image Classification via Pseudo-Loss Estimation and Feature Adversarial Training. 
+  [[project page]](https://github.com/maxwell0027/PEFAT) 
+  - Qingjie Zeng, Yutong Xie, Zilin Lu, and Yong Xia. *CVPR 2023*
 
 
 ### 2022

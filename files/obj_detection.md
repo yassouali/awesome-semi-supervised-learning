@@ -1,6 +1,23 @@
 
 ## Object Detection
 
+### 2023
+
+- Consistent-Teacher: Towards Reducing Inconsistent Pseudo-Targets in Semi-Supervised Object Detection. 
+  [[project page]](https://adamdad.github.io/consistentteacher/) 
+  - Xinjiang Wang, Xingyi Yang, Shilong Zhang, Yijiang Li, Litong Feng, Shijie Fang, Chengqi Lyu, Kai Chen, and Wayne Zhang. *CVPR 2023*
+
+- SOOD: Towards Semi-Supervised Oriented Object Detection. 
+  [[project page]](https://github.com/HamPerdredes/SOOD) 
+  - Wei Hua, Dingkang Liang, Jingyu Li, Xiaolong Liu, Zhikang Zou, Xiaoqing Ye, and Xiang Bai. *CVPR 2023*
+
+- MixTeacher: Mining Promising Labels With Mixed Scale Teacher for Semi-Supervised Object Detection. 
+  [[project page]](https://github.com/lliuz/MixTeacher) 
+  - Liang Liu el al. *CVPR 2023*
+- Hierarchical Supervision and Shuffle Data Augmentation for 3D Semi-Supervised Object Detection. 
+  [[project page]](https://github.com/azhuantou/HSSDA) 
+  - Chuandong Liu, Chenqiang Gao, Fangcen Liu, Pengcheng Li, Deyu Meng, and Xinbo Gao. *2023*
+
 ### 2022
 
 - Semi-Supervised Video Salient Object Detection Based on Uncertainty-Guided Pseudo Labels.
