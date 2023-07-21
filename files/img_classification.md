@@ -4,20 +4,16 @@
 ### 2023
 - Semi-supervised learning made simple with self-supervised clustering.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/html/Fini_Semi-Supervised_Learning_Made_Simple_With_Self-Supervised_Clustering_CVPR_2023_paper.html)
-  - Enrico Fini, Pietro Astolfi, Karteek Alahari, Xavier Alameda-Pineda, Julien Mairal, Moin Nabi, Elisa Ricci *CVPR 2023*
+  - Enrico Fini, Pietro Astolfi, Karteek Alahari, Xavier Alameda-Pineda, Julien Mairal, Moin Nabi, Elisa Ricci. *CVPR 2023*
 
 - FreeMatch: Self-adaptive Thresholding for Semi-Supervised Learning.
   [[pdf]](https://arxiv.org/abs/2205.07246)
   [[code]](https://github.com/microsoft/Semi-supervised-learning)
-  - Yidong Wang, Hao Chen, Qiang Heng, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. *ICLR 2023*
-
+  - Yidong Wang et al. *ICLR 2023*
 
 - SoftMatch: Addressing the Quantity-Quality Trade-off in Semi-supervised Learning.
-  [[pdf]](https://arxiv.org/abs/2301.10921)  
-  [[code]](https://github.com/microsoft/Semi-supervised-learning)
+  [[pdf]](https://arxiv.org/abs/2301.10921) [[code]](https://github.com/microsoft/Semi-supervised-learning)
   - Hao Chen, Ran Tao, Yue Fan, Yidong Wang, Jindong Wang, Bernt Schiele, Xing Xie, Bhiksha Raj, Marios Savvides. *ICLR 2023*
-
-
 
 
 ### 2022
