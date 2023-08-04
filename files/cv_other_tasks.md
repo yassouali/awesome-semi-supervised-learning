@@ -3,6 +3,14 @@
 
 ### 2023
 
+- Semi-supervised Single-view 3D Reconstruction via Prototype Shape Priors. 
+  [[pdf]](https://arxiv.org/abs/2209.15383) 
+  - Zhen Xing, Hengduo Li, Zuxuan Wu, Yu-Gang Jiang, *ECCV 2022*
+
+- SVFormer: Semi-supervised Video Transformer for Action Recognition. 
+  [[pdf]](https://arxiv.org/abs/2211.13222) 
+  - Zhen Xing, Qi Dai, Han Hu, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang, *CVPR 2023*
+
 - Semi-Supervised Parametric Real-World Image Harmonization. 
   [[project page]](https://people.eecs.berkeley.edu/~kewang/sprih/) 
   - Ke Wang, Michaël Gharbi, He Zhang, Zhihao Xia, and Eli Shechtman. *CVPR 2023*
