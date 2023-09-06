@@ -3,6 +3,10 @@
 
 ### 2023
 
+- Towards Semi-supervised Learning with Non-random Missing Labels.
+  [[pdf]](https://arxiv.org/pdf/2308.08872.pdf)
+  - Yue Duan, Zhen Zhao, Lei Qi, Luping Zhou, Lei Wang, Yinghuan Shi. *ICCV 2023*
+
 - Semi-supervised learning made simple with self-supervised clustering.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/html/Fini_Semi-Supervised_Learning_Made_Simple_With_Self-Supervised_Clustering_CVPR_2023_paper.html)
   - Enrico Fini, Pietro Astolfi, Karteek Alahari, Xavier Alameda-Pineda, Julien Mairal, Moin Nabi, Elisa Ricci. *CVPR 2023*
@@ -55,6 +59,14 @@
   [[pdf]](https://arxiv.org/abs/2110.03006)
   [[code]](https://github.com/TonyLianLong/UnsupervisedSelectiveLabeling)
   - Xudong Wang, Long Lian, Stella X. Yu. *ECCV 2022*
+
+- MutexMatch: Semi-supervised Learning with Mutex-Based Consistency Regularization.
+  [[pdf]](https://arxiv.org/pdf/2203.14316.pdf)
+  - Yue Duan, Zhen Zhao, Lei Qi, Lei Wang, Luping Zhou, Yinghuan Shi, Yang Gao. *IEEE Transactions on Neural Networks and Learning Systems*
+
+- RDA: Reciprocal Distribution Alignment for Robust Semi-supervised Learning.
+  [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900527.pdf)
+  - Yue Duan, Lei Qi, Lei Wang, Luping Zhou, Yinghuan Shi. *ECCV 2022*
 
 - Smoothed Adaptive Weighting for Imbalanced SSL: Improve Reliability Against Unknown Distribution Data.
   [[pdf]](https://proceedings.mlr.press/v162/lai22b/lai22b.pdf)
