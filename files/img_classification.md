@@ -60,13 +60,13 @@
   [[code]](https://github.com/TonyLianLong/UnsupervisedSelectiveLabeling)
   - Xudong Wang, Long Lian, Stella X. Yu. *ECCV 2022*
 
-- MutexMatch: Semi-supervised Learning with Mutex-Based Consistency Regularization.
-  [[pdf]](https://arxiv.org/pdf/2203.14316.pdf)
-  - Yue Duan, Zhen Zhao, Lei Qi, Lei Wang, Luping Zhou, Yinghuan Shi, Yang Gao. *IEEE Transactions on Neural Networks and Learning Systems*
-
 - RDA: Reciprocal Distribution Alignment for Robust Semi-supervised Learning.
   [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900527.pdf)
   - Yue Duan, Lei Qi, Lei Wang, Luping Zhou, Yinghuan Shi. *ECCV 2022*
+
+- MutexMatch: Semi-supervised Learning with Mutex-Based Consistency Regularization.
+  [[pdf]](https://arxiv.org/pdf/2203.14316.pdf)
+  - Yue Duan, Zhen Zhao, Lei Qi, Lei Wang, Luping Zhou, Yinghuan Shi, Yang Gao. *IEEE Transactions on Neural Networks and Learning Systems*
 
 - Smoothed Adaptive Weighting for Imbalanced SSL: Improve Reliability Against Unknown Distribution Data.
   [[pdf]](https://proceedings.mlr.press/v162/lai22b/lai22b.pdf)
